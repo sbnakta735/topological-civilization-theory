@@ -12,7 +12,7 @@
 
 ---
 
-> [!]
+> [!IMPORTANT]
 > **The Great Descent Hypothesis**
 >
 > Under **Topological Civilization Theory (TCT)**, the historical phenomenon known as the **"Great Divergence"** was never an intentional "upward leap" driven by Western progressive ambition or institutional superiority. It was a **catastrophic containment failure** of a fragile semiotic universe that ruptured its basal bulkhead under unmanageable propositional overpressure—triggering an involuntary **decompression evacuation** down a dormant axiomatic chute (**The Euclidean-Gothic Conduit**) directly into the boundless, frictionless **continuous vector ocean of physical reality**.
