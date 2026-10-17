@@ -50,15 +50,6 @@ $$
 * **2. Decompression Dynamics *(Drainage Cavitation & Dissipative Baffles)***: Violent fluid-mechanical turbulence at the drainage throat (**Cavitation Turbulence**: apocalyptic religious wars, witch hysteria, regicide) paired with improvised non-equilibrium shock absorbers (**Dissipative Baffles**: "inclusive institutions," property rights, parliamentary checks, and the *Republic of Letters*) deployed to brace the hull against total delamination.
 * **3. Emergent Byproducts *(Post-Docking Kinetic Explosions)***: Secondary material and technological cascades—atmospheric steam engines, deep-shaft coal extraction, and mechanized manufacturing—unlocked exclusively *after* the cognitive apparatus evacuated the viscous semiotic chamber and docked onto the zero-resistance substrate of $\text{Layer } 1$.
 
-<details>
-<summary>🇰🇷 <b>한국어 핵심 요약 보기 (Korean Executive Overview)</b></summary>
-
-* **위상문명이론(Topological Civilization Theory, TCT)**: 인류 문명을 진보나 진리 탐구의 엔진이 아니라, 내부 엔트로피를 억제하고 의미 체계를 방어하는 **정보-열역학적 항상성 압력 용기($\mathcal{E} - \mathcal{D}N^2 > 0$)**로 모델링합니다.
-* **거대 하강 가설(The Great Descent Hypothesis)**: 서구의 근대화(대분기)는 의도된 '상향 도약'이 아니라, 인쇄술·대항해 데이터 범람($N \uparrow\uparrow$)과 지정학적 분열($\mathcal{E} \downarrow$)을 견디지 못한 중세 기호 용기($\text{Layer } 2$)의 **하부 격벽 파열 사고($\mathcal{E} - \mathcal{D}N^2 \le 0$)**였습니다.
-* **유클리드-고딕 배수관과 위상학적 초전도성**: 일반적인 문명 파열은 내부 격실 침수($N \to 0$)로 귀결되나, 서구는 고대 그리스의 2D 평면 기하학(API)과 중세 스콜라 철학의 3D 연역 기둥이 결합된 **유클리드-고딕 배수관(Euclidean-Gothic Conduit)**을 통해 인지 검증 장치가 물리적 실재의 **연속 벡터 해양($\text{Layer } 1$)**에 직결($V = \mathcal{O}(1)$)되며 폭발적 대사 역전($\dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}$)을 일으켰습니다.
-
-</details>
-
 ---
 
 ## 1. Three-Tiered Civilizational Information Architecture
