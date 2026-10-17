@@ -38,15 +38,13 @@
 
 ---
 
-## 2. Equation of the Critical Threshold & Bifurcation
+## 2. Equation of the Critical Threshold
 
-### The Homeostatic Equation of State & Thermodynamic Trajectory
+### Condition for Civilizational Homeostasis
 
-In a centralized dogmatic vessel, because pairwise consistency checks across $N$ mutually constraining propositions scale quadratically, maintaining global coherence requires satisfying the homeostatic condition:
+The dynamical equation for maintaining homeostasis is given by:
 
-$$
-\mathcal{E} - \mathcal{D}N^2 > 0
-$$
+$$\LARGE \mathcal{E} - \mathcal{D}N^2 > 0$$
 
 - **$\mathcal{E}$ *(System Maintenance Capacity)***: Maximum institutional, computational, and cognitive throughput per unit time mobilized to enforce dogmatic coherence and suppress heresy.
 - **$N$ *(Active Propositional Load)***: Count of active doctrinal tenets, empirical claims, and uncanonized anomalies requiring global pairwise validation.
