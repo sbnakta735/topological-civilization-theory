@@ -54,11 +54,11 @@ As empirical anomalies accumulate ($N \uparrow$), the descent toward structural 
 
 $$
 \begin{aligned}
-\mathcal{E} - \mathcal{D}N^2 > 0 &\quad \text{(Homeostatic Equilibrium)} \\
+{\Large \mathcal{E} - \mathcal{D}N^2 > 0} &\quad \text{(Homeostatic Equilibrium)} \\
 \Downarrow \qquad\quad & \\
-\mathcal{E} - \mathcal{D}N^2 \le 0 &\quad \text{(Critical Threshold Breach)} \\
+{\Large \mathcal{E} - \mathcal{D}N^2 \le 0} &\quad \text{(Critical Threshold Breach)} \\
 \Downarrow \qquad\quad & \\
-V = \mathcal{O}(1), \; \dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}} &\quad \text{(Epistemic Superconductivity)}
+{\Large V = \mathcal{O}(1), \; \dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}} &\quad \text{(Epistemic Superconductivity)}
 \end{aligned}
 $$
 
