@@ -1,6 +1,9 @@
 <div align="center">
 
-### Beyond "Why the West Rules": Modernity as Topological Superconductivity
+# Beyond "Why the West Rules": Modernity as Topological Superconductivity
+
+> **The Great Descent: Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Emergence of the Vector Ocean**  
+> *A Comparative Information-Thermodynamic Analysis of Civilizational Epistemic Architectures*
 
 **Topological Civilization Theory (TCT) — Working Paper v1.49.7 (October 2026)**
 
