@@ -44,15 +44,13 @@
 
 The dynamical equation for maintaining homeostasis is given by:
 
-$$
-\LARGE \mathcal{E} - \mathcal{D}N^2 > 0
-$$
+$$\LARGE \mathcal{E} - \mathcal{D}N^2 > 0$$
 
-- **$\mathcal{E}$ *(System Maintenance Capacity)***: Maximum institutional and cognitive throughput per unit time to enforce dogmatic coherence.
-- **$N$ *(Active Propositional Load)***: Total count of active doctrines and empirical anomalies within the vessel.
-- **$\mathcal{D}$ *(Semiotic Viscous Damper)***: Irreversible thermodynamic dissipation per unit time, per pairwise check (Landauer, 1961).
+- **$\mathcal{E}$ *(System Maintenance Capacity)***: Maximum institutional throughput enforcing dogmatic coherence.
+- **$N$ *(Active Propositional Load)***: Total count of active doctrines and empirical anomalies.
+- **$\mathcal{D}$ *(Semiotic Viscous Damper)***: Irreversible thermodynamic dissipation rate per pairwise check (Landauer, 1961).
 
-Under escalating empirical load, the macroscopic trajectory of modernity unfolds across three thermodynamic stages:
+As empirical anomalies accumulate ($N \uparrow$), the descent toward structural rupture unfolds in three stages:
 
 $$
 \begin{aligned}
