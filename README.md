@@ -48,9 +48,9 @@ $$
 \LARGE \mathcal{E} - \mathcal{D}N^2 > 0
 $$
 
-- **$\mathcal{E}$ *(System Maintenance Capacity)***: Maximum institutional, computational, and cognitive throughput per unit time mobilized to enforce dogmatic coherence and suppress heresy.
-- **$N$ *(Active Propositional Load)***: Count of active doctrinal tenets, empirical claims, and uncanonized anomalies requiring global pairwise validation.
-- **$\mathcal{D}$ *(Semiotic Viscous Damper Coefficient)***: Irreversible thermodynamic and computational dissipation overhead per unit time, per propositional pair (Landauer, 1961).
+- **$\mathcal{E}$ *(System Maintenance Capacity)***: Maximum institutional and cognitive throughput per unit time to enforce dogmatic coherence.
+- **$N$ *(Active Propositional Load)***: Total count of active doctrines and empirical anomalies within the vessel.
+- **$\mathcal{D}$ *(Semiotic Viscous Damper)***: Irreversible thermodynamic dissipation per unit time, per pairwise check (Landauer, 1961).
 
 Under escalating empirical load, the macroscopic trajectory of modernity unfolds across three thermodynamic stages:
 
