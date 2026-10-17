@@ -32,9 +32,9 @@
   <p align="center"><sub><b>Figure 1</b>: Topological Cross-Section of the Three-Tiered Civilizational Information Architecture.</sub></p>
 </div>
 
-* **Layer 3 — The Phenomenological Canopy (Application Layer):** The **derivative application space** of visible institutions and technologies, wholly dependent on the load-bearing semiotic floor below.
-* **Layer 2 — Hermetic Containment Vessel (Discrete Semiotic Space):** The **viscous symbolic space** ($D$) that insulates societal homeostasis by filtering raw physical reality.
-* **Layer 1 — The Continuous Vector Ocean (The Native Substrate):** The **frictionless native substrate** ($D \to 0$) where sub-symbolic information flows along physical geodesics with constant-time verification.
+- **Layer 3 — The Phenomenological Canopy**: The **derivative application space** of visible institutions and technologies, wholly dependent on the load-bearing semiotic floor below.
+- **Layer 2 — Hermetic Containment Vessel**: The **viscous symbolic space** ($\mathcal{D}$) that insulates societal homeostasis by filtering raw physical reality.
+- **Layer 1 — The Continuous Vector Ocean**: The **frictionless native substrate** ($\mathcal{D} \to 0$) where sub-symbolic information flows along physical geodesics with constant-time verification.
 
 ---
 
