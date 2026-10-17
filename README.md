@@ -73,29 +73,47 @@ $$
 
 ## 2. Equation of the Critical Threshold & Bifurcation
 
-<div align="center">
-  <img src="./assets/fig2_bifurcation.png" alt="Figure 2: Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure" width="100%"/>
-  <p align="center"><sub><b>Figure 2</b>: Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure.</sub></p>
-</div>
+### The Homeostatic Equation of State & Thermodynamic Trajectory
 
-### The Homeostatic Equation of State
 In a centralized dogmatic vessel, maintaining global coherence across $N$ mutually constraining propositions scales quadratically with pairwise consistency checks:
 
 $$
 \binom{N}{2} \approx \frac{1}{2}N^2 \quad \Longrightarrow \quad \mathcal{E} - \mathcal{D}N^2 > 0
 $$
 
-* **$\mathcal{E}$ *(System Maintenance Capacity)***: Maximum institutional, computational, and cognitive throughput per unit time mobilized to enforce dogmatic coherence and suppress heresy.
-* **$N$ *(Active Propositional Load)***: Count of active doctrinal tenets, empirical claims, and uncanonized anomalies requiring global pairwise validation.
-* **$\mathcal{D}$ *(Semiotic Viscous Damper Coefficient)***: Irreversible thermodynamic and computational dissipation overhead per unit time, per propositional pair (Landauer, 1961).
+- **$\mathcal{E}$ *(System Maintenance Capacity)***: Maximum institutional, computational, and cognitive throughput per unit time mobilized to enforce dogmatic coherence and suppress heresy.
+- **$N$ *(Active Propositional Load)***: Count of active doctrinal tenets, empirical claims, and uncanonized anomalies requiring global pairwise validation.
+- **$\mathcal{D}$ *(Semiotic Viscous Damper Coefficient)***: Irreversible thermodynamic and computational dissipation overhead per unit time, per propositional pair (Landauer, 1961).
+
+Under escalating empirical load, the macroscopic trajectory of modernity unfolds across three thermodynamic stages:
+
+$$
+\begin{gathered}
+\mathcal{E} - \mathcal{D}N^2 > 0 \\
+\Downarrow \\
+\mathcal{E} - \mathcal{D}N^2 \le 0 \\
+\Downarrow \\
+V = \mathcal{O}(1), \quad \dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}
+\end{gathered}
+$$
+
+<p align="center">
+  <em>Homeostatic Equilibrium (Sealed Vessel) &nbsp;→&nbsp; Critical Threshold Breach (Bulkhead Rupture) &nbsp;→&nbsp; Topological Superconductivity (Layer 1 Docking)</em>
+</p>
+
+<div align="center">
+  <img src="./assets/fig2_bifurcation.png" alt="Figure 2: Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure" width="100%"/>
+  <p align="center"><sub><b>Figure 2</b>: Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure.</sub></p>
+</div>
 
 ### Tripartite Bifurcation at $\mathcal{E} - \mathcal{D}N^2 \le 0$
+
 When data overflow or institutional exhaustion drives the margin below zero, civilizational containment breaks into one of three distinct topological branches:
 
-* **Branch A — Default Apex Rupture *(Internal Chamber Drowning)***:
+- **Branch A — Default Apex Rupture *(Internal Chamber Drowning)***:
   * **A1. Total Systemic Collapse ($\lim_{t \to T} N(t) = 0$)**: Lacking a basal drainage chute or secondary containment line, cascading Tainterian node defections trigger a systemic hard reset. The chamber drowns in unresolvable contradictions, extinguishing literacy and complex organization—exemplified by the **Late Bronze Age Collapse** (c. 1200 BCE, total disappearance of Mycenaean Linear B) and the **Classic Maya Rupture** (terminal asphyxiation of the *k'uhul ajaw* divine kingship network).
   * **A2. Low-Level Equilibrium Defense**: In **5th-Century Western Rome**, a fatal scissors crisis ($\mathcal{E} \downarrow, N \uparrow$) destroyed imperial administrative capacity and triggered urban contraction. However, the system arrested total dissolution above zero by deploying a low-maintenance hybrid damper: Christian theological monopoly and localized feudal contracts.
-* **Branch B — The Western Anomaly *(Decompression Descent)***:
+- **Branch B — The Western Anomaly *(Decompression Descent)***:
   * Basal fracture shears open the dormant **Euclidean-Gothic Conduit**, establishing a steep thermodynamic pressure gradient ($\Delta P = P_{L2} - P_{L1} \gg 0$). Rather than drowning the chamber, empirical anomalies drain downward at relativistic speed, suctioning the cognitive helm directly onto the superconducting $\text{Layer } 1$ substrate ($\dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}$).
 
 ---
