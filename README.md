@@ -136,34 +136,12 @@ Rather than a teleological march toward empiricism, the Western transition was a
   <p align="center"><sub><b>Figure 5</b>: The Closed-Loop Topological Feedback Cycle: Downward Digestion at Layer 1 and Upward Proliferation across Layer 2 and Layer 3.</sub></p>
 </div>
 
-### The 3-Stage Superconducting Metabolic Cycle
+Docking onto $\text{Layer } 1$ ($\mathcal{D} \to 0$) collapsed verification latency from $\mathcal{O}(N^2)$ to constant-time geometric coupling ($\mathbf{V} = \mathcal{O}(1)$), inverting the metabolic inequality ($\dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}$) and converting the ruptured shaft into a **three-stage superconducting loop** (**Figure 5**): **(1) Downward Routing** bypasses the quarantined *Legacy Dogmatic Chamber* to digest empirical anomalies at $\text{Layer } 1$; **(2) Upward Re-Encoding** projects pre-verified vectors into a partitioned $\text{Layer } 2'$ *Compiled Formal Registry* (equations, constants, blueprints, patents) at zero ideological drag ($\mathcal{D}_{\text{formal}} \approx 0$); and **(3) Phenomenological Extrusion** materializes these formalisms into $\text{Layer } 3$ infrastructure, triggering **four geodesic chain reactions** *(see **Section 6** of the full paper)*:
 
-* **Stage 1 — Downward Routing & Dogmatic Bypass ($\text{Layer } 3/2 \to \text{Layer } 1$)**:
-  * Unresolved empirical anomalies ($\dot{N}_{\text{pending}}$) bypass the calcified dogmatic quarantine entirely.
-  * Anomalies are routed down the Euclidean-Gothic Conduit directly into the docked cognitive engine, operating directly upon the zero-friction continuous vector substrate ($\mathcal{D} \to 0, \; V = \mathcal{O}(1)$).
-* **Stage 2 — Upward Re-Encoding into Partitioned $\text{Layer } 2'$ Registry ($\text{Layer } 1 \to \text{Layer } 2'$)**:
-  * Digested truths ($\dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}$) return upward not into the old dogmatic chamber, but into an orthogonal **Compiled Formal Registry** ($\text{Layer } 2'$: differential equations, universal physical constants, rigorous experimental protocols, patents, and joint-stock corporate charters).
-  * Because verification is mathematically and experimentally pre-compiled, ideological friction approaches zero ($\mathcal{D}_{\text{formal}} \approx 0$), unlocking a permanently stable homeostatic surplus:
-$$
-\mathcal{E} - \mathcal{D}_{\text{formal}}N^2 \gg 0
-$$
-* **Stage 3 — Phenomenological Extrusion ($\text{Layer } 2' \to \text{Layer } 3$)**:
-  * Frictionless axiomatic blueprints extrude into the macroscopic physical realm, igniting an explosive kinetic cascade across heavy machinery, steam kinetics, continental rail networks, and planetary trade routes.
-
-### The Four Geodesic Chain Reactions
-
-* **1. Thermodynamic-Mechanical Coupling & Deep Coal Extraction**:
-  * Atmospheric and pneumatic laws discovered by Torricelli and Boyle ($\text{Layer } 1 \to \text{Layer } 2'$) were coupled directly into Newcomen and Watt atmospheric steam engines ($\text{Layer } 3$).
-  * Pumping groundwater out of deep Cornish and Northern coal mines unleashed subterranean fossil energy—demonstrating that Britain's coal boom was an engineered downstream byproduct of topological docking, not a passive geographic windfall.
-* **2. Algorithmic Unification of Physical Laws**:
-  * Newton's infinitesimal calculus dissolved the millennia-old Aristotelian dichotomy between corruptible sublunary matter and immutable celestial orbs.
-  * Ballistics, structural architecture, and hydrodynamic flows were unified under a single differential framework spanning continuous space-time parameters $(t, s)$.
-* **3. Celestial Mechanics & Marine Precision Horology**:
-  * Mapping planetary orbits via $\text{Layer } 1$ invariants enabled John Harrison's temperature-compensated marine chronometers ($\text{Layer } 3$).
-  * Navigators could determine exact longitudinal coordinates at sea, collapsing oceanic uncertainty and mapping the globe into a deterministic spatial mesh.
-* **4. Kinematic & Electromagnetic Continental Integration**:
-  * Concentrated steam piston vectors extruded onto standardized iron rail grids, while Faraday and Maxwell's electromagnetic field equations extruded into the copper telegraph network.
-  * The localized topological superconductivity of the Western conduit scaled outward to wrap the entire planetary surface in a continuous, high-speed information circuit.
+- **Thermodynamic-Mechanical Coupling & Mineral Energy Release**: $\text{Layer } 1/2$ vacuum and gas laws mapped directly into $\text{Layer } 3$ steam pistons, solving deep-shaft coal drainage to unlock the mineral energy economy.
+- **Algorithmic Unification across the Vector Field**: Infinitesimal calculus dissolved sublunary–celestial and guild boundaries, unifying ballistics, structural mechanics, and fluid dynamics under a single differentiable topology.
+- **Topological Synchronization of Celestial Mechanics & Precision Horology**: Deterministic celestial invariants coupled with marine chronometers to lock the global ocean onto a rigorous geometric coordinate grid.
+- **Overcoming Terrestrial Friction & Kinematic Network Emergence**: Thermodynamic piston vectors extruded onto iron rails alongside electromagnetic telegraphy, scaling topological superconductivity into a planetary mesh.
 
 ---
 
