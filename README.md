@@ -1,7 +1,7 @@
 <div align="center">
 
 # The Great Descent
-### Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Evacuation into a Superconducting Vector Ocean
+### Beyond "Why the West Rules": Modernity as Topological Superconductivity
 
 **Topological Civilization Theory (TCT) — Working Paper v1.49.7 (October 2026)**
 
