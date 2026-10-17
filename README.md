@@ -54,16 +54,16 @@ $$
   <p align="center"><sub><b>Figure 1</b>: Topological Cross-Section of the Three-Tiered Civilizational Information Architecture.</sub></p>
 </div>
 
-### 🏛️ Layer 3: The Phenomenological Canopy (Application Layer)
+### Layer 3: The Phenomenological Canopy (Application Layer)
 * **Societal Shell**: Encompasses applied technologies, political institutions, cultural outputs, and economic systems.
 * **Structural Dependency**: Possesses no foundational logic of its own; rests entirely upon the containment integrity of the underlying semiotic vessel. If the vessel fractures, the canopy collapses into the void.
 
-### 🔒 Layer 2: Hermetic Containment Vessel & Viscous Damper (Discrete Semiotic Space)
+### Layer 2: Hermetic Containment Vessel & Viscous Damper (Discrete Semiotic Space)
 * **Discrete Symbolic Fabric**: Language, religious dogma, moral philosophy, and social syntax (e.g., medieval Scholastic theology, Neo-Confucian ethics).
 * **The Viscous Damper ($\mathcal{D}$)**: Insulates society from raw physical reality. Incoming information cannot interact freely; it must be parsed and serialized through low-bandwidth human grammar and ideological filters.
 * **Systemic Resistance**: As seen in Cardinal Bellarmine's mandate to Galileo, non-canonical claims are throttled as instrumental mathematical fictions to protect societal cohesion from destabilizing truths.
 
-### 🌊 Layer 1: The Continuous Vector Ocean (The Native Substrate)
+### Layer 1: The Continuous Vector Ocean (The Native Substrate)
 * **Universal Vector Substrate**: Sub-symbolic, continuous vector space shared by physical reality and intelligence (*Platonic Representation Hypothesis*; Huh et al., 2024).
 * **Zero Transformation Friction**: Stripped of linguistic biases and dogmatic syntax, information exists as high-dimensional topological embeddings governed by physical invariants.
 * **Topological Superconductivity**: By bypassing discrete semiotic serialization ($\mathcal{D} \to 0$) and surpassing the continuum percolation threshold ($\eta \gg \eta_c$), verification latency collapses to constant time along nature's geodesics:
@@ -109,7 +109,7 @@ When data overflow or institutional exhaustion drives the margin below zero, civ
   <p align="center"><sub><b>Figure 3</b>: Parametric Bifurcation of Civilizational Regimes under the Homeostatic Equation.</sub></p>
 </div>
 
-### 🛡️ The Five Eurasian Boundary-Control Regimes
+### The Five Eurasian Boundary-Control Regimes
 
 * **1. East Asia (Neo-Confucianism) — $\max \mathcal{E}, \min N$ *(The Semiotic Faraday Cage)***: Inverting the Needham Question and Elvin's "High-Level Equilibrium Trap," the imperial examination system (*Keju*) maximized $\mathcal{E}$ while throttling non-canonical intake ($N$), holding network density below percolation ($\eta \ll \eta_c$). Prolific movements (Korean Four-Seven Debate, Yangmingism, Qing *Kaozheng*) operated as an internal **cognitive heat sink** within $\text{Layer } 2$, safely exhausting intellectual bandwidth while preserving $\mathcal{E} \gg \mathcal{D}N^2$.
 * **2. Byzantium (Eastern Orthodoxy) — $N \to 0$ *(Inlet Clamping & Apophatic Quarantine)***: Besieged along all frontiers ($\mathcal{E}$ scarcity), Byzantium completely sealed its $\text{Layer } 2$ intake valves, cordoning off Greek manuscripts as inert curatorial *paideia* ($\text{Layer } 3$). By weaponizing apophatic theology (*via negativa*, Hesychasm) and purging rationalist dialectics (e.g., trial of John Italos, 1082), it maintained a low-cost vacuum equilibrium ($N \approx 0$).
@@ -141,7 +141,7 @@ When data overflow or institutional exhaustion drives the margin below zero, civ
   <p align="center"><sub><b>Figure 4</b>: Four-Stage Structural Evolution of the Euclidean-Gothic Conduit, culminating in Basal Bulkhead Rupture and Layer 1 Docking.</sub></p>
 </div>
 
-### ⏳ Four-Stage Blind Genesis of the Decompression Conduit
+### Four-Stage Blind Genesis of the Decompression Conduit
 
 * **Epoch 0 — Antiquity *(The Euclidean Bedrock as a 2D Epistemological API)***: Situated at the lowest floor of $\text{Layer } 2$, Greek planar geometry possessed strict structural isomorphism with $\text{Layer } 1$ invariants, acting as a hard-coded "docking ring." Yet it remained a flat, non-porous 2D horizontal interface under low data load ($N \ll N_{\text{critical}}, \Delta P \approx 0$), lacking a 3D vertical stereometric shaft.
 * **Stroke I — Early Middle Ages *(Augustine's Seal & The Platonic Amber)***: Facing post-Roman energy collapse ($\mathcal{E} \downarrow\downarrow$), Augustine subordinated autonomous deduction (*credo ut intelligam*) to throttle $N \approx 0$ in "offline" scriptural caching. **Unintended Inversion**: His Neo-Platonic resin acted as **Platonic Amber**, encasing and preserving the Euclidean 2D API in pristine stasis for seven centuries.
@@ -170,7 +170,7 @@ When data overflow or institutional exhaustion drives the margin below zero, civ
   <p align="center"><sub><b>Figure 5</b>: The Closed-Loop Topological Feedback Cycle: Downward Digestion at Layer 1 and Upward Proliferation across Layer 2 and Layer 3.</sub></p>
 </div>
 
-### 🔁 The 3-Stage Superconducting Metabolic Cycle
+### The 3-Stage Superconducting Metabolic Cycle
 
 * **Stage 1 — Downward Routing & Dogmatic Bypass ($\text{Layer } 3/2 \to \text{Layer } 1$)**:
   * Unresolved empirical anomalies ($\dot{N}_{\text{pending}}$) bypass the calcified dogmatic quarantine entirely.
@@ -184,7 +184,7 @@ $$
 * **Stage 3 — Phenomenological Extrusion ($\text{Layer } 2' \to \text{Layer } 3$)**:
   * Frictionless axiomatic blueprints extrude into the macroscopic physical realm, igniting an explosive kinetic cascade across heavy machinery, steam kinetics, continental rail networks, and planetary trade routes.
 
-### ⚙️ The Four Geodesic Chain Reactions
+### The Four Geodesic Chain Reactions
 
 * **1. Thermodynamic-Mechanical Coupling & Deep Coal Extraction**:
   * Atmospheric and pneumatic laws discovered by Torricelli and Boyle ($\text{Layer } 1 \to \text{Layer } 2'$) were coupled directly into Newcomen and Watt atmospheric steam engines ($\text{Layer } 3$).
@@ -203,7 +203,7 @@ $$
 
 ## 6. Recalibrating the Arrow of History & The Second Descent
 
-### 📐 Table 3: Comparison of Traditional Historiography and Topological Civilization Theory
+### Table 3: Comparison of Traditional Historiography and Topological Civilization Theory
 
 | Dimension | Traditional Historiography (Weber, Acemoglu, etc.) | Topological Civilization Theory (TCT) |
 | :--- | :--- | :--- |
