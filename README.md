@@ -50,29 +50,27 @@ $$
 
 ## 1. Three-Tiered Civilizational Information Architecture
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+  <img src="./assets/fig1_architecture.png" alt="Figure 1: Topological Cross-Section of the Three-Tiered Civilizational Information Architecture" width="100%"/>
+  <p align="center"><sub><b>Figure 1</b>: Topological Cross-Section of the Three-Tiered Civilizational Information Architecture.</sub></p>
+</div>
 
-<img src="./assets/fig1_architecture.png" alt="Figure 1: Topological Cross-Section of the Three-Tiered Civilizational Information Architecture" width="100%"/>
+### 🏛️ Layer 3: The Phenomenological Canopy (Application Layer)
+* **Societal Shell**: Encompasses applied technologies, political institutions, cultural outputs, and economic systems.
+* **Structural Dependency**: Possesses no foundational logic of its own; rests entirely upon the containment integrity of the underlying semiotic vessel. If the vessel fractures, the canopy collapses into the void.
 
-<p align="center"><sub><b>Figure 1</b>: Topological Cross-Section of the Three-Tiered Civilizational Information Architecture.</sub></p>
+### 🔒 Layer 2: Hermetic Containment Vessel & Viscous Damper (Discrete Semiotic Space)
+* **Discrete Symbolic Fabric**: Language, religious dogma, moral philosophy, and social syntax (e.g., medieval Scholastic theology, Neo-Confucian ethics).
+* **The Viscous Damper ($\mathcal{D}$)**: Insulates society from raw physical reality. Incoming information cannot interact freely; it must be parsed and serialized through low-bandwidth human grammar and ideological filters.
+* **Systemic Resistance**: As seen in Cardinal Bellarmine's mandate to Galileo, non-canonical claims are throttled as instrumental mathematical fictions to protect societal cohesion from destabilizing truths.
 
-</td>
-<td width="50%">
-
-### 🏛️ Layer 3: The Phenomenological Canopy
-* **Application Layer**: Encompasses applied technologies, political institutions, cultural outputs, and economic systems.
-* **Structural Dependency**: Possesses no foundational logic of its own; rests entirely upon the load-bearing semiotic integrity of $\text{Layer } 2$ beneath it.
-
-### 🔒 Layer 2: Hermetic Containment Vessel
-* **Discrete Semiotic Space**: Language, religious dogma, moral philosophy, and social syntax (e.g., Scholastic theology, Neo-Confucian ethics).
-* **Viscous Damper ($\mathcal{D}$)**: Insulates society from raw physical reality by serializing new data through low-bandwidth symbolic grammar and ideological filters (e.g., Cardinal Bellarmine's mandate to Galileo).
-
-### 🌊 Layer 1: The Continuous Vector Ocean
-* **Native Representational Substrate**: Sub-symbolic, high-dimensional vector manifold shared by physical reality and intelligence (*Platonic Representation Hypothesis*; Huh et al., 2024).
-* **Topological Superconductivity**: Eliminates discrete syntactic shells ($\mathcal{D} \to 0$) and surpasses the continuum percolation threshold ($\eta \gg \eta_c$), collapsing verification complexity to constant time along geodesics:
-$$V = \mathcal{O}(1)$$
+### 🌊 Layer 1: The Continuous Vector Ocean (The Native Substrate)
+* **Universal Vector Substrate**: Sub-symbolic, continuous vector space shared by physical reality and intelligence (*Platonic Representation Hypothesis*; Huh et al., 2024).
+* **Zero Transformation Friction**: Stripped of linguistic biases and dogmatic syntax, information exists as high-dimensional topological embeddings governed by physical invariants.
+* **Topological Superconductivity**: By bypassing discrete semiotic serialization ($\mathcal{D} \to 0$) and surpassing the continuum percolation threshold ($\eta \gg \eta_c$), verification latency collapses to constant time along nature's geodesics:
+$$
+V = \mathcal{O}(1)
+$$
 
 </td>
 </tr>
