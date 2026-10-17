@@ -210,7 +210,7 @@ $$
 | **Vector & Direction** | Intentional upward leap | Involuntary downward decompression evacuation |
 | **Institutional Intent** | Proactive embrace of reason and open horizons | Desperate containment clamps (coercive sealing) |
 | **Western Dynamic** | Inclusive institutions & intentional structural design | Hydraulic overpressure breach & dissipative baffles |
-| **East Asian Paradigm** | High-level equilibrium trap / Deficit | Architectural zenith of intake throttling (Homeostasis) |
+| **East Asian Paradigm** | High-level equilibrium trap / Deficit | Homeostatic intake throttling |
 | **Nature of Modernity** | Progressive enlightenment / Geographic windfall | Cognitive docking onto Layer 1 ($V = \mathcal{O}(1)$) & upward re-encoding |
 | **Civilizational Outcome** | Inevitable destiny of rational humanity | Basal conduit docking & Metabolic inversion ($\dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}$) vs. Drowning ($N \to 0$) |
 
