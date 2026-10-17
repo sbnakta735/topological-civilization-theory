@@ -15,24 +15,6 @@
 > [!NOTE]
 > Under **Topological Civilization Theory (TCT)**, the historical phenomenon known as the **"Great Divergence"** was never an intentional "upward leap" driven by Western progressive ambition or institutional superiority. It was a **catastrophic containment failure** of a fragile semiotic universe that ruptured its basal bulkhead under unmanageable propositional overpressure—triggering an involuntary **decompression evacuation** down a dormant axiomatic chute (**The Euclidean-Gothic Conduit**) directly into the boundless, frictionless **continuous vector ocean of physical reality**.
 
-<div align="center">
-
-### The Three-Stage Thermodynamic Trajectory of Modernity
-
-$$
-\begin{gathered}
-\mathcal{E} - \mathcal{D}N^2 > 0 \\
-\Downarrow \\
-\mathcal{E} - \mathcal{D}N^2 \le 0 \\
-\Downarrow \\
-V = \mathcal{O}(1), \quad \dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}
-\end{gathered}
-$$
-
-<p align="center">
-<em>Homeostatic Equilibrium (Sealed Vessel) &nbsp;→&nbsp; Critical Threshold Breach (Bulkhead Rupture) &nbsp;→&nbsp; Topological Superconductivity (Layer 1 Docking)</em>
-</p>
-
 </div>
 
 ### The Three Reversals of Macro-History
@@ -72,6 +54,24 @@ $$
 ---
 
 ## 2. Equation of the Critical Threshold & Bifurcation
+
+<div align="center">
+
+### The Three-Stage Thermodynamic Trajectory of Modernity
+
+$$
+\begin{gathered}
+\mathcal{E} - \mathcal{D}N^2 > 0 \\
+\Downarrow \\
+\mathcal{E} - \mathcal{D}N^2 \le 0 \\
+\Downarrow \\
+V = \mathcal{O}(1), \quad \dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}
+\end{gathered}
+$$
+
+<p align="center">
+<em>Homeostatic Equilibrium (Sealed Vessel) &nbsp;→&nbsp; Critical Threshold Breach (Bulkhead Rupture) &nbsp;→&nbsp; Topological Superconductivity (Layer 1 Docking)</em>
+</p>
 
 <div align="center">
   <img src="./assets/fig2_bifurcation.png" alt="Figure 2: Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure" width="100%"/>
