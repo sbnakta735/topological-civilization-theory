@@ -91,7 +91,7 @@ $$
 * **$N$ *(Active Propositional Load)***: Count of active doctrinal tenets, empirical claims, and uncanonized anomalies requiring global pairwise validation.
 * **$\mathcal{D}$ *(Semiotic Viscous Damper Coefficient)***: Irreversible thermodynamic and computational dissipation overhead per unit time, per propositional pair (Landauer, 1961).
 
-### 🔀 Tripartite Bifurcation at $\mathcal{E} - \mathcal{D}N^2 \le 0$
+### Tripartite Bifurcation at $\mathcal{E} - \mathcal{D}N^2 \le 0$
 When data overflow or institutional exhaustion drives the margin below zero, civilizational containment breaks into one of three distinct topological branches:
 
 * **Branch A — Default Apex Rupture *(Internal Chamber Drowning)***:
