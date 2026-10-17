@@ -5,10 +5,8 @@
 > **The Great Descent: Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Evacuation into a Superconducting Vector Ocean**  
 > *A Comparative Information-Thermodynamic Analysis of Civilizational Epistemic Architectures*
 
-**Topological Civilization Theory (TCT) — Working Paper v1.49.7 (October 2026)**
-
 [![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXXX-007398?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.XXXXXXX)
-[![Paper PDF](https://img.shields.io/badge/Download_PDF-v1.49.7-B31B1B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![Paper PDF](https://img.shields.io/badge/TCT_Paper_PDF-v1.49.7-B31B1B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![Author](https://img.shields.io/badge/Author-Woojung_Kim-181717?style=for-the-badge&logo=github)](mailto:sbnakta735@gmail.com)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-EF9421?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
 
