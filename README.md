@@ -32,22 +32,9 @@
   <p align="center"><sub><b>Figure 1</b>: Topological Cross-Section of the Three-Tiered Civilizational Information Architecture.</sub></p>
 </div>
 
-### Layer 3: The Phenomenological Canopy (Application Layer)
-* **Societal Shell**: Encompasses applied technologies, political institutions, cultural outputs, and economic systems.
-* **Structural Dependency**: Possesses no foundational logic of its own; rests entirely upon the containment integrity of the underlying semiotic vessel. If the vessel fractures, the canopy collapses into the void.
-
-### Layer 2: Hermetic Containment Vessel & Viscous Damper (Discrete Semiotic Space)
-* **Discrete Symbolic Fabric**: Language, religious dogma, moral philosophy, and social syntax (e.g., medieval Scholastic theology, Neo-Confucian ethics).
-* **The Viscous Damper ($\mathcal{D}$)**: Insulates society from raw physical reality. Incoming information cannot interact freely; it must be parsed and serialized through low-bandwidth human grammar and ideological filters.
-* **Systemic Resistance**: As seen in Cardinal Bellarmine's mandate to Galileo, non-canonical claims are throttled as instrumental mathematical fictions to protect societal cohesion from destabilizing truths.
-
-### Layer 1: The Continuous Vector Ocean (The Native Substrate)
-* **Universal Vector Substrate**: Sub-symbolic, continuous vector space shared by physical reality and intelligence (*Platonic Representation Hypothesis*; Huh et al., 2024).
-* **Zero Transformation Friction**: Stripped of linguistic biases and dogmatic syntax, information exists as high-dimensional topological embeddings governed by physical invariants.
-* **Topological Superconductivity**: By bypassing discrete semiotic serialization ($\mathcal{D} \to 0$) and surpassing the continuum percolation threshold ($\eta \gg \eta_c$), verification latency collapses to constant time along nature's geodesics:
-$$
-V = \mathcal{O}(1)
-$$
+* **Layer 3 — The Phenomenological Canopy (Application Layer):** The **derivative application space** of visible institutions and technologies, wholly dependent on the load-bearing semiotic floor below.
+* **Layer 2 — Hermetic Containment Vessel (Discrete Semiotic Space):** The **viscous symbolic space** ($D$) that insulates societal homeostasis by filtering raw physical reality.
+* **Layer 1 — The Continuous Vector Ocean (The Native Substrate):** The **frictionless native substrate** ($D \to 0$) where sub-symbolic information flows along physical geodesics with constant-time verification.
 
 ---
 
