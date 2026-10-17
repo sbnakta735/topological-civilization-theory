@@ -80,7 +80,7 @@ $$
   <p align="center"><sub><b>Figure 2</b>: Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure.</sub></p>
 </div>
 
-### ⚖️ The Homeostatic Equation of State
+### The Homeostatic Equation of State
 In a centralized dogmatic vessel, maintaining global coherence across $N$ mutually constraining propositions scales quadratically with pairwise consistency checks:
 
 $$
