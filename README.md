@@ -69,11 +69,6 @@ V = \mathcal{O}(1), \quad \dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}
 \end{gathered}
 $$
 
-* **$\mathcal{E}$ *(System Maintenance Capacity)***: Maximum institutional, computational, and cognitive throughput per unit time mobilized to enforce dogmatic coherence and suppress heresy.
-* **$N$ *(Active Propositional Load)***: Count of active doctrinal tenets, empirical claims, and uncanonized anomalies requiring global pairwise validation.
-* **$\mathcal{D}$ *(Semiotic Viscous Damper Coefficient)***: Irreversible thermodynamic and computational dissipation overhead per unit time, per propositional pair (Landauer, 1961).
-
-
 <p align="center">
 <em>Homeostatic Equilibrium (Sealed Vessel) &nbsp;→&nbsp; Critical Threshold Breach (Bulkhead Rupture) &nbsp;→&nbsp; Topological Superconductivity (Layer 1 Docking)</em>
 </p>
@@ -89,6 +84,10 @@ In a centralized dogmatic vessel, maintaining global coherence across $N$ mutual
 $$
 \binom{N}{2} \approx \frac{1}{2}N^2 \quad \Longrightarrow \quad \mathcal{E} - \mathcal{D}N^2 > 0
 $$
+
+* **$\mathcal{E}$ *(System Maintenance Capacity)***: Maximum institutional, computational, and cognitive throughput per unit time mobilized to enforce dogmatic coherence and suppress heresy.
+* **$N$ *(Active Propositional Load)***: Count of active doctrinal tenets, empirical claims, and uncanonized anomalies requiring global pairwise validation.
+* **$\mathcal{D}$ *(Semiotic Viscous Damper Coefficient)***: Irreversible thermodynamic and computational dissipation overhead per unit time, per propositional pair (Landauer, 1961).
 
 ### Tripartite Bifurcation at $\mathcal{E} - \mathcal{D}N^2 \le 0$
 When data overflow or institutional exhaustion drives the margin below zero, civilizational containment breaks into one of three distinct topological branches:
