@@ -40,15 +40,11 @@ $$
 
 ### 🔄 The Three Reversals of Macro-History
 
-| **1. Reversal of Direction**<br>*(The Decompression Descent)* | **2. Reversal of Intent**<br>*(The Failed Containment Clamp)* | **3. Reversal of the Outcome**<br>*(Emergency Conduit Drain & Docking)* |
-| :--- | :--- | :--- |
-| **Not an upward ascent, but a downward plunge.**<br>When quadratic verification friction ($\mathcal{D}N^2$) overwhelmed systemic cooling capacity ($\mathcal{E}$), the European vessel did not "ascend into reason"—its epistemological floor collapsed downward toward $\text{Layer } 1$. | **Not open horizons, but coercive sealing.**<br>Pre-modern authorities deployed the Roman/Spanish Inquisitions, the *Index Librorum Prohibitorum*, and censorship in a desperate, futile bid to clamp leaking valves and preserve medieval equilibrium. | **Not planned enlightenment, but accidental suction.**<br>Instead of terminal chamber drowning ($N \to 0$), heavy scholastic patching crushed the basal bulkhead over the dormant **Euclidean-Gothic Conduit**, sucking the cognitive apparatus onto $\text{Layer } 1$. |
-
-### 🧭 Structural Tripartite Taxonomy of Empirical Phenomena
-
-* **1. Overpressure Triggers *(Pre-Breach Hydraulic & Thermal Stressors)***: Exogenous and endogenous shocks—the movable-type printing press, transoceanic maritime data overflow, chronic geopolitical fragmentation ($\mathcal{E} \downarrow$), and humanist philological friction ($\mathcal{D} \uparrow$)—that flooded the hermetic $\text{Layer } 2$ chamber with uncompiled propositions ($N \uparrow\uparrow$), driving $\mathcal{E} - \mathcal{D}N^2 \le 0$.
-* **2. Decompression Dynamics *(Drainage Cavitation & Dissipative Baffles)***: Violent fluid-mechanical turbulence at the drainage throat (**Cavitation Turbulence**: apocalyptic religious wars, witch hysteria, regicide) paired with improvised non-equilibrium shock absorbers (**Dissipative Baffles**: "inclusive institutions," property rights, parliamentary checks, and the *Republic of Letters*) deployed to brace the hull against total delamination.
-* **3. Emergent Byproducts *(Post-Docking Kinetic Explosions)***: Secondary material and technological cascades—atmospheric steam engines, deep-shaft coal extraction, and mechanized manufacturing—unlocked exclusively *after* the cognitive apparatus evacuated the viscous semiotic chamber and docked onto the zero-resistance substrate of $\text{Layer } 1$.
+| Reversal Vector | Topological Thesis & Historical Reality |
+| :--- | :--- |
+| **1. Direction**<br>*(The Decompression Descent)* | **Not an upward ascent, but a downward plunge.**<br>When quadratic verification friction ($\mathcal{D}N^2$) overwhelmed systemic cooling capacity ($\mathcal{E}$), the European vessel did not "ascend into reason"—its epistemological floor collapsed downward toward $\text{Layer } 1$. |
+| **2. Intent**<br>*(The Failed Containment Clamp)* | **Not open horizons, but coercive sealing.**<br>Pre-modern authorities deployed the Roman/Spanish Inquisitions, the *Index Librorum Prohibitorum*, and censorship in a desperate, futile bid to clamp leaking valves and preserve medieval equilibrium. |
+| **3. Outcome**<br>*(Emergency Conduit Drain & Docking)* | **Not planned enlightenment, but accidental suction.**<br>Instead of terminal chamber drowning ($N \to 0$), heavy scholastic patching crushed the basal bulkhead over the dormant **Euclidean-Gothic Conduit**, sucking the cognitive apparatus onto $\text{Layer } 1$. |
 
 ---
 
