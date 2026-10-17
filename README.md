@@ -73,10 +73,6 @@ $$
 V = \mathcal{O}(1)
 $$
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 2. Equation of the Critical Threshold & Bifurcation
