@@ -42,10 +42,10 @@
 
 ### The Homeostatic Equation of State & Thermodynamic Trajectory
 
-In a centralized dogmatic vessel, maintaining global coherence across $N$ mutually constraining propositions scales quadratically with pairwise consistency checks:
+In a centralized dogmatic vessel, because pairwise consistency checks across $N$ mutually constraining propositions scale quadratically, maintaining global coherence requires satisfying the homeostatic condition:
 
 $$
-\binom{N}{2} \approx \frac{1}{2}N^2 \quad \Longrightarrow \quad \mathcal{E} - \mathcal{D}N^2 > 0
+\mathcal{E} - \mathcal{D}N^2 > 0
 $$
 
 - **$\mathcal{E}$ *(System Maintenance Capacity)***: Maximum institutional, computational, and cognitive throughput per unit time mobilized to enforce dogmatic coherence and suppress heresy.
@@ -55,18 +55,14 @@ $$
 Under escalating empirical load, the macroscopic trajectory of modernity unfolds across three thermodynamic stages:
 
 $$
-\begin{gathered}
-\mathcal{E} - \mathcal{D}N^2 > 0 \\
-\Downarrow \\
-\mathcal{E} - \mathcal{D}N^2 \le 0 \\
-\Downarrow \\
-V = \mathcal{O}(1), \quad \dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}
-\end{gathered}
+\begin{aligned}
+\mathcal{E} - \mathcal{D}N^2 > 0 &\quad \text{(Homeostatic Equilibrium)} \\
+\Downarrow \qquad\quad & \\
+\mathcal{E} - \mathcal{D}N^2 \le 0 &\quad \text{(Critical Threshold Breach)} \\
+\Downarrow \qquad\quad & \\
+V = \mathcal{O}(1), \; \dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}} &\quad \text{(Epistemic Superconductivity)}
+\end{aligned}
 $$
-
-<p align="center">
-  <em>Homeostatic Equilibrium (Sealed Vessel) &nbsp;→&nbsp; Critical Threshold Breach (Bulkhead Rupture) &nbsp;→&nbsp; Topological Superconductivity (Layer 1 Docking)</em>
-</p>
 
 <div align="center">
   <img src="./assets/fig2_bifurcation.png" alt="Figure 2: Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure" width="100%"/>
