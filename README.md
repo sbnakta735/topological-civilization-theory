@@ -23,13 +23,13 @@
 ### ⚡ The Three-Stage Thermodynamic Trajectory of Modernity
 
 $$
-\begin{aligned}
-\mathcal{E} - \mathcal{D}N^2 &> 0 \\
-&\Downarrow \\
-\mathcal{E} - \mathcal{D}N^2 &\le 0 \\
-&\Downarrow \\
-V = \mathcal{O}(1), \quad \dot{N}_{\text{digested}} &\gg \dot{N}_{\text{pending}}
-\end{aligned}
+\begin{gathered}
+\mathcal{E} - \mathcal{D}N^2 > 0 \\
+\Downarrow \\
+\mathcal{E} - \mathcal{D}N^2 \le 0 \\
+\Downarrow \\
+V = \mathcal{O}(1), \quad \dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}
+\end{gathered}
 $$
 
 <p align="center">
