@@ -15,33 +15,13 @@
 > [!NOTE]
 > Under **Topological Civilization Theory (TCT)**, the historical phenomenon known as the **"Great Divergence"** was never an intentional "upward leap" driven by Western progressive ambition or institutional superiority. It was a **catastrophic containment failure** of a fragile semiotic universe that ruptured its basal bulkhead under unmanageable propositional overpressure—triggering an involuntary **decompression evacuation** down a dormant axiomatic chute (**The Euclidean-Gothic Conduit**) directly into the boundless, frictionless **continuous vector ocean of physical reality**.
 
-<div align="center">
-
-### The Three-Stage Thermodynamic Trajectory of Modernity
-
-$$
-\begin{gathered}
-\mathcal{E} - \mathcal{D}N^2 > 0 \\
-\Downarrow \\
-\mathcal{E} - \mathcal{D}N^2 \le 0 \\
-\Downarrow \\
-V = \mathcal{O}(1), \quad \dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}
-\end{gathered}
-$$
-
-<p align="center">
-<em>Homeostatic Equilibrium (Sealed Vessel) &nbsp;→&nbsp; Critical Threshold Breach (Bulkhead Rupture) &nbsp;→&nbsp; Topological Superconductivity (Layer 1 Docking)</em>
-</p>
-
-</div>
-
 ### The Three Reversals of Macro-History
 
-| Reversal Vector | Topological Thesis & Historical Reality |
+| Reversal Vector | Topological Reversal & Historiographical Positioning |
 | :--- | :--- |
-| **1. Direction**<br>*(The Decompression Descent)* | **Not an upward ascent, but a downward plunge.**<br>When quadratic verification friction ($\mathcal{D}N^2$) overwhelmed systemic cooling capacity ($\mathcal{E}$), the European vessel did not "ascend into reason"—its epistemological floor collapsed downward toward $\text{Layer } 1$. |
-| **2. Intent**<br>*(The Failed Containment Clamp)* | **Not open horizons, but coercive sealing.**<br>Pre-modern authorities deployed the Roman/Spanish Inquisitions, the *Index Librorum Prohibitorum*, and censorship in a desperate, futile bid to clamp leaking valves and preserve medieval equilibrium. |
-| **3. Outcome**<br>*(Emergency Conduit Drain & Docking)* | **Not planned enlightenment, but accidental suction.**<br>Instead of terminal chamber drowning ($N \to 0$), heavy scholastic patching crushed the basal bulkhead over the dormant **Euclidean-Gothic Conduit**, sucking the cognitive apparatus onto $\text{Layer } 1$. |
+| **1. Direction**<br>*(vs. Needham, Elvin, Morris)* | **Not an upward leap, but a downward plunge**: Rather than East Asia stalling in an "equilibrium trap," East Asia succeeded in homeostatic containment ($\mathcal{E} \gg \mathcal{D}N^2$) while Europe's epistemic floor collapsed downward into $\text{Layer } 1$ ($\mathcal{E} - \mathcal{D}N^2 \le 0$). |
+| **2. Intent**<br>*(vs. Weber, Acemoglu)* | **Not inclusive open horizons, but failed coercive sealing**: Rather than designing rational or inclusive institutions, European authorities deployed desperate containment clamps (Inquisitions, *Index*) that ruptured under propositional overpressure. |
+| **3. Outcome**<br>*(vs. Pomeranz, Diamond)* | **Not passive geographic windfall, but accidental conduit docking**: Rather than lucky coal and ecological endowments, industrial dominance was a downstream extrusion of accidental cognitive suction down the **Euclidean-Gothic Conduit** onto $\text{Layer } 1$. |
 
 ---
 
