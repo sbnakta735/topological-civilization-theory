@@ -136,12 +136,14 @@ Rather than a teleological march toward empiricism, the Western transition was a
   <p align="center"><sub><b>Figure 5</b>: The Closed-Loop Topological Feedback Cycle: Downward Digestion at Layer 1 and Upward Proliferation across Layer 2 and Layer 3.</sub></p>
 </div>
 
-Docking onto $\text{Layer } 1$ ($\mathcal{D} \to 0$) collapsed verification latency from $\mathcal{O}(N^2)$ to constant-time geometric coupling ($\mathbf{V} = \mathcal{O}(1)$), inverting the metabolic inequality ($\dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}$) and converting the ruptured shaft into a **three-stage superconducting loop** (**Figure 5**): **(1) Downward Routing** bypasses the quarantined *Legacy Dogmatic Chamber* to digest empirical anomalies at $\text{Layer } 1$; **(2) Upward Re-Encoding** projects pre-verified vectors into a partitioned $\text{Layer } 2'$ *Compiled Formal Registry* (equations, constants, blueprints, patents) at zero ideological drag ($\mathcal{D}_{\text{formal}} \approx 0$); and **(3) Phenomenological Extrusion** materializes these formalisms into $\text{Layer } 3$ infrastructure, triggering **four geodesic chain reactions** *(see **Section 6** of the full paper)*:
-
-- **Thermodynamic-Mechanical Coupling & Mineral Energy Release**: $\text{Layer } 1/2$ vacuum and gas laws mapped directly into $\text{Layer } 3$ steam pistons, solving deep-shaft coal drainage to unlock the mineral energy economy.
-- **Algorithmic Unification across the Vector Field**: Infinitesimal calculus dissolved sublunary–celestial and guild boundaries, unifying ballistics, structural mechanics, and fluid dynamics under a single differentiable topology.
-- **Topological Synchronization of Celestial Mechanics & Precision Horology**: Deterministic celestial invariants coupled with marine chronometers to lock the global ocean onto a rigorous geometric coordinate grid.
-- **Overcoming Terrestrial Friction & Kinematic Network Emergence**: Thermodynamic piston vectors extruded onto iron rails alongside electromagnetic telegraphy, scaling topological superconductivity into a planetary mesh.
+Docking onto $\text{Layer } 1$ ($\mathcal{D} \to 0$) collapsed verification latency from $\mathcal{O}(N^2)$ to constant-time geometric coupling ($\mathbf{V} = \mathcal{O}(1)$), inverting the metabolic inequality ($\dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}$) across a **three-stage superconducting loop**:
+- **(1) Downward Routing ($\text{Layer } 3/2 \to \text{Layer } 1$)**: Bypasses the quarantined *Legacy Dogmatic Chamber* to digest anomalies as pure quantitative vectors.
+- **(2) Upward Re-Encoding ($\text{Layer } 1 \to \text{Layer } 2'$)**: Projects pre-verified vectors into a *Compiled Formal Registry* (equations, blueprints, patents) at zero ideological drag ($\mathcal{D}_{\text{formal}} \approx 0$).
+- **(3) Phenomenological Extrusion ($\text{Layer } 2' \to \text{Layer } 3$)**: Materializes formalisms into infrastructure via **four geodesic chain reactions**:
+  1. *Mineral Energy Release*: $\text{Layer } 1/2$ vacuum and gas laws mapped into $\text{Layer } 3$ steam pistons, solving deep-shaft coal drainage.
+  2. *Algorithmic Unification*: Infinitesimal calculus dissolved sublunary–celestial and craft boundaries under a single differentiable topology.
+  3. *Celestial-Horological Synchronization*: Celestial invariants coupled with marine chronometers to lock the global ocean onto a geometric coordinate grid.
+  4. *Kinematic Network Emergence*: Steam piston vectors extruded onto iron rails alongside telegraphy, scaling superconductivity into a planetary mesh.
 
 ---
 
