@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### ⚡ The Three-Stage Thermodynamic Trajectory of Modernity
+### The Three-Stage Thermodynamic Trajectory of Modernity
 
 $$
 \begin{gathered}
