@@ -44,7 +44,7 @@
 
 The dynamical equation for maintaining homeostasis is given by:
 
-$$\LARGE \mathcal{E} - \mathcal{D}N^2 > 0 \quad \xrightarrow{\text{Anomalies } (N \uparrow)} \quad \mathcal{E} - \mathcal{D}N^2 \le 0$$
+$$\LARGE \mathcal{E} - \mathcal{D}N^2 > 0$$
 
 - **$\mathcal{E}$ *(System Maintenance Capacity)***: Maximum institutional throughput enforcing dogmatic coherence.
 - **$N$ *(Active Propositional Load)***: Total count of active doctrines and empirical anomalies.
