@@ -170,31 +170,39 @@ When data overflow or institutional exhaustion drives the margin below zero, civ
 
 ## 5. Post-Docking Closed-Loop Feedback & Geodesic Chain Reactions
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="./assets/fig5_feedback.png" alt="Figure 5: The Closed-Loop Topological Feedback Cycle: Downward Digestion at Layer 1 and Upward Proliferation across Layer 2 and Layer 3" width="100%"/>
-
-<p align="center"><sub><b>Figure 5</b>: The Closed-Loop Topological Feedback Cycle: Downward Digestion at Layer 1 and Upward Proliferation across Layer 2 and Layer 3.</sub></p>
-
-</td>
-<td width="50%">
+<div align="center">
+  <img src="./assets/fig5_feedback.png" alt="Figure 5: The Closed-Loop Topological Feedback Cycle: Downward Digestion at Layer 1 and Upward Proliferation across Layer 2 and Layer 3" width="100%"/>
+  <p align="center"><sub><b>Figure 5</b>: The Closed-Loop Topological Feedback Cycle: Downward Digestion at Layer 1 and Upward Proliferation across Layer 2 and Layer 3.</sub></p>
+</div>
 
 ### 🔁 The 3-Stage Superconducting Metabolic Cycle
-1. **Stage 1 — Downward Routing & Dogmatic Bypass ($\text{Layer } 3/2 \to \text{Layer } 1$)**: Empirical anomalies ($N_{\text{pending}}$) bypass the quarantined dogmatic chamber and route down the Euclidean-Gothic Conduit to the docked cognitive engine ($\mathcal{D} \to 0, V = \mathcal{O}(1)$).
-2. **Stage 2 — Upward Re-Encoding into Partitioned $\text{Layer } 2'$ Registry ($\text{Layer } 1 \to \text{Layer } 2'$)**: Digested truths ($\dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}$) return upward into a **Compiled Formal Registry** (differential equations, physical constants, experimental protocols, patents, joint-stock charters) with near-zero ideological friction ($\mathcal{D}_{\text{formal}} \approx 0, \; \mathcal{E} - \mathcal{D}_{\text{formal}}N^2 \gg 0$).
-3. **Stage 3 — Phenomenological Extrusion ($\text{Layer } 2' \to \text{Layer } 3$)**: Friction-free blueprints extrude into $\text{Layer } 3$, igniting a combinatorial explosion in machinery, energy capture, and global commerce.
+
+* **Stage 1 — Downward Routing & Dogmatic Bypass ($\text{Layer } 3/2 \to \text{Layer } 1$)**:
+  * Unresolved empirical anomalies ($\dot{N}_{\text{pending}}$) bypass the calcified dogmatic quarantine entirely.
+  * Anomalies are routed down the Euclidean-Gothic Conduit directly into the docked cognitive engine, operating directly upon the zero-friction continuous vector substrate ($\mathcal{D} \to 0, \; V = \mathcal{O}(1)$).
+* **Stage 2 — Upward Re-Encoding into Partitioned $\text{Layer } 2'$ Registry ($\text{Layer } 1 \to \text{Layer } 2'$)**:
+  * Digested truths ($\dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}$) return upward not into the old dogmatic chamber, but into an orthogonal **Compiled Formal Registry** ($\text{Layer } 2'$: differential equations, universal physical constants, rigorous experimental protocols, patents, and joint-stock corporate charters).
+  * Because verification is mathematically and experimentally pre-compiled, ideological friction approaches zero ($\mathcal{D}_{\text{formal}} \approx 0$), unlocking a permanently stable homeostatic surplus:
+$$
+\mathcal{E} - \mathcal{D}_{\text{formal}}N^2 \gg 0
+$$
+* **Stage 3 — Phenomenological Extrusion ($\text{Layer } 2' \to \text{Layer } 3$)**:
+  * Frictionless axiomatic blueprints extrude into the macroscopic physical realm, igniting an explosive kinetic cascade across heavy machinery, steam kinetics, continental rail networks, and planetary trade routes.
 
 ### ⚙️ The Four Geodesic Chain Reactions
-* **Thermodynamic-Mechanical Coupling & Coal**: Torricelli/Boyle vacuum and gas laws ($\text{Layer } 1 \to \text{Layer } 2'$) coupled directly into Newcomen/Watt steam pistons ($\text{Layer } 3$) to drain deep coal shafts—proving fossil energy was a post-docking extrusion, not a geographic windfall.
-* **Algorithmic Unification**: Infinitesimal calculus dissolved the Aristotelian sublunary/celestial divide, unifying ballistics, structural mechanics, and fluid dynamics across continuous $(t, s)$ parameters.
-* **Celestial Mechanics & Precision Horology**: $\text{Layer } 1$ differential invariants coupled to Harrison's spring-driven marine chronometers ($\text{Layer } 3$), mapping the global ocean onto a deterministic coordinate grid.
-* **Kinematic & Electromagnetic Mesh**: Steam piston vectors extruded horizontally onto iron rails alongside electromagnetic telegraphy, scaling topological superconductivity to a planetary mesh.
 
-</td>
-</tr>
-</table>
+* **1. Thermodynamic-Mechanical Coupling & Deep Coal Extraction**:
+  * Atmospheric and pneumatic laws discovered by Torricelli and Boyle ($\text{Layer } 1 \to \text{Layer } 2'$) were coupled directly into Newcomen and Watt atmospheric steam engines ($\text{Layer } 3$).
+  * Pumping groundwater out of deep Cornish and Northern coal mines unleashed subterranean fossil energy—demonstrating that Britain's coal boom was an engineered downstream byproduct of topological docking, not a passive geographic windfall.
+* **2. Algorithmic Unification of Physical Laws**:
+  * Newton's infinitesimal calculus dissolved the millennia-old Aristotelian dichotomy between corruptible sublunary matter and immutable celestial orbs.
+  * Ballistics, structural architecture, and hydrodynamic flows were unified under a single differential framework spanning continuous space-time parameters $(t, s)$.
+* **3. Celestial Mechanics & Marine Precision Horology**:
+  * Mapping planetary orbits via $\text{Layer } 1$ invariants enabled John Harrison's temperature-compensated marine chronometers ($\text{Layer } 3$).
+  * Navigators could determine exact longitudinal coordinates at sea, collapsing oceanic uncertainty and mapping the globe into a deterministic spatial mesh.
+* **4. Kinematic & Electromagnetic Continental Integration**:
+  * Concentrated steam piston vectors extruded onto standardized iron rail grids, while Faraday and Maxwell's electromagnetic field equations extruded into the copper telegraph network.
+  * The localized topological superconductivity of the Western conduit scaled outward to wrap the entire planetary surface in a continuous, high-speed information circuit.
 
 ---
 
