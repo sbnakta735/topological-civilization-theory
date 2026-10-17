@@ -20,7 +20,7 @@
 | Reversal Vector | Topological Inversion & Historiographical Positioning |
 | :--- | :--- |
 | **1. Direction of the Breakthrough** | **Not an upward leap, but a downward plunge**: Against the stalled-ascent and "equilibrium trap" narratives of **Joseph Needham (1969)**, **Mark Elvin (1973)**, and **Ian Morris (2010)**, East Asia actually succeeded in homeostatic containment while Europe suffered a structural floor collapse. |
-| **2. Intent of Ruling Authorities** | **Not inclusive open horizons, but failed coercive sealing**: Against the rationalist and inclusive-institution models of **Max Weber (1905)** and **Daron Acemoglu (2012)**, European authorities did not design open horizons but deployed desperate ideological clamps that ruptured under internal overpressure. |
+| **2. Intent of Ruling Authorities** | **Not inclusive open horizons, but failed coercive sealing**: Against **Max Weber (1905)**, **Douglass North (1973)**, and **Daron Acemoglu (2012)**, European authorities deployed desperate ideological clamps that ruptured under overpressure—reducing "inclusive institutions" and "property rights" to reactive **dissipative baffles** improvised to damp post-breach cavitation turbulence. |
 | **3. Engine of Industrial Dominance** | **Not passive geographic windfall, but accidental cognitive docking**: Against the ecological and resource-windfall models of **Jared Diamond (1997)** and **Kenneth Pomeranz (2000)**, industrial dominance was the downstream byproduct of Europe's cognitive apparatus accidentally plunging into a frictionless continuous vector ocean. |
 
 ---
