@@ -1,6 +1,5 @@
 <div align="center">
 
-# The Great Descent
 ### Beyond "Why the West Rules": Modernity as Topological Superconductivity
 
 **Topological Civilization Theory (TCT) — Working Paper v1.49.7 (October 2026)**
