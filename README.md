@@ -71,7 +71,7 @@ When propositional overpressure drives the metabolic margin below zero ($\mathca
 
 - **Pathway A1 — Total Collapse *(Hard Reset)***: Without a basal drainage conduit or secondary damper, internal chamber drowning triggers cascading node delamination to $\lim_{t \to T} N(t) = 0$, exemplified by the **Late Bronze Age Collapse** and the **Classic Maya** civilization.
 - **Pathway A2 — Low-Level Defense *(Feudal Equilibrium)***: Without a basal conduit, terminal dissolution is arrested at a low-maintenance equilibrium via theological monopoly and feudal contracts, exemplified by **5th-century Western Rome**.
-- **Pathway B — The Western Anomaly *(Decompression Descent)***: Explosive decompression through the **Euclidean-Gothic Conduit** evacuates anomalies downward and docks the cognitive apparatus onto Layer 1 ($\dot{N} _ {\mathrm{digested}} \gg \dot{N} _ {\mathrm{pending}}$), exemplified by **Early Modern Western Europe**.
+- **Pathway B — The Western Anomaly *(Decompression Descent)***: Explosive decompression through the **Euclidean-Gothic Conduit** evacuates anomalies downward and docks the cognitive apparatus onto $\mathrm{Layer\ 1}$ ($\dot{N} _ {\mathrm{digested}} \gg \dot{N} _ {\mathrm{pending}}$), while improvised **dissipative baffles** (*"inclusive institutions"*) damp lethal cavitation turbulence (**Early Modern Western Europe**).
 
 ---
 
