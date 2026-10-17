@@ -141,10 +141,11 @@ Rather than a teleological march toward empiricism, the Western transition was a
 </div>
 
 Docking onto $\text{Layer } 1$ ($\mathcal{D} \to 0$) collapsed verification latency from $\mathcal{O}(N^2)$ to constant-time geometric coupling ($\mathbf{V} = \mathcal{O}(1)$), inverting the metabolic inequality ($\dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}$) across a **three-stage superconducting loop**:
-- **(1) Downward Routing ($\text{Layer } 3/2 \to \text{Layer } 1$)**: Bypasses the quarantined *Legacy Dogmatic Chamber* to digest anomalies as pure quantitative vectors.
-- **(2) Upward Re-Encoding ($\text{Layer } 1 \to \text{Layer } 2'$)**: Projects pre-verified vectors into a *Compiled Formal Registry* (equations, blueprints, patents) at zero ideological drag ($\mathcal{D}_{\text{formal}} \approx 0$).
-- **(3) Phenomenological Extrusion ($\text{Layer } 2' \to \text{Layer } 3$)**: Materializes formalisms into infrastructure via **four geodesic chain reactions**:
-  1. *Mineral Energy Release*: $\text{Layer } 1/2$ vacuum and gas laws mapped into $\text{Layer } 3$ steam pistons, solving deep-shaft coal drainage.
+
+- **(1) Downward Routing ($\mathrm{Layer\ 3/2} \to \mathrm{Layer\ 1}$)**: Bypasses the quarantined *Legacy Dogmatic Chamber* to digest anomalies as pure quantitative vectors.
+- **(2) Upward Re-Encoding ($\mathrm{Layer\ 1} \to \mathrm{Layer\ 2'}$)**: Projects pre-verified vectors into a *Compiled Formal Registry* (equations, blueprints, patents) at zero ideological drag ($\mathcal{D} _ {\mathrm{formal}} \approx 0$).
+- **(3) Phenomenological Extrusion ($\mathrm{Layer\ 2'} \to \mathrm{Layer\ 3}$)**: Materializes formalisms into infrastructure via **four geodesic chain reactions**:
+  1. *Mineral Energy Release*: $\mathrm{Layer\ 1/2}$ vacuum and gas laws mapped into $\mathrm{Layer\ 3}$ steam pistons, solving deep-shaft coal drainage.
   2. *Algorithmic Unification*: Infinitesimal calculus dissolved sublunary–celestial and craft boundaries under a single differentiable topology.
   3. *Celestial-Horological Synchronization*: Celestial invariants coupled with marine chronometers to lock the global ocean onto a geometric coordinate grid.
   4. *Kinematic Network Emergence*: Steam piston vectors extruded onto iron rails alongside telegraphy, scaling superconductivity into a planetary mesh.
