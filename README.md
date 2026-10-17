@@ -105,17 +105,6 @@ When data overflow or institutional exhaustion drives the margin below zero, civ
 * **Branch B — The Western Anomaly *(Decompression Descent)***:
   * Basal fracture shears open the dormant **Euclidean-Gothic Conduit**, establishing a steep thermodynamic pressure gradient ($\Delta P = P_{L2} - P_{L1} \gg 0$). Rather than drowning the chamber, empirical anomalies drain downward at relativistic speed, suctioning the cognitive helm directly onto the superconducting $\text{Layer } 1$ substrate ($\dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}$).
 
-</td>
-<td width="50%">
-
-<img src="./assets/fig2_bifurcation.png" alt="Figure 2: Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure" width="100%"/>
-
-<p align="center"><sub><b>Figure 2</b>: Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure.</sub></p>
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 3. Comparative Homeostatic Defense Across Eurasia
