@@ -171,23 +171,23 @@ Docking onto $\text{Layer } 1$ ($\mathcal{D} \to 0$) collapsed verification late
 <details>
 <summary>🧮 <b>Appendix: Summary of Governing Information-Thermodynamic Relations in TCT</b></summary>
 
-* **1. The Homeostatic Margin Condition**:
+- **1. The Homeostatic Margin Condition**:
   $$\mathcal{E} - \mathcal{D}N^2 > 0$$
-* **2. The Critical Threshold Breach *(Bulkhead Rupture & Metabolic Asphyxiation)***:
-  $$\mathcal{E} - \mathcal{D}N^2 \le 0 \quad \Longrightarrow \quad \dot{N}_{\text{digested}} < \dot{N}_{\text{pending}}$$
-* **3. Chamber Drowning Circuit-Breaker *(Branch A)***:
-  $$\lim_{t \to T} N(t) = 0$$
-* **4. Decompression Venting Gradient *(Branch B)***:
-  $$\Delta P = P_{L2} - P_{L1} \gg 0$$
-* **5. Topological Superconductivity Condition *(Layer 1 Ocean Interface)***:
-  $$V = \mathcal{O}(1) \quad (\mathcal{D} \to 0, \; \eta \gg \eta_c)$$
+- **2. The Critical Threshold Breach *(Bulkhead Rupture & Metabolic Asphyxiation)***:
+  $$\mathcal{E} - \mathcal{D}N^2 \le 0 \quad \Longrightarrow \quad \dot{N} _ {\mathrm{digested}} < \dot{N} _ {\mathrm{pending}}$$
+- **3. Chamber Drowning Circuit-Breaker *(Branch A)***:
+  $$\lim _ {t \to T} N(t) = 0$$
+- **4. Decompression Venting Gradient *(Branch B)***:
+  $$\Delta P = P _ {L2} - P _ {L1} \gg 0$$
+- **5. Topological Superconductivity Condition *(Layer 1 Ocean Interface)***:
+  $$V = \mathcal{O}(1) \quad (\mathcal{D} \to 0, \; \eta \gg \eta _ c)$$
 - **6. Superconducting Metabolic Inversion & Partitioned Registry Stability *(Closed-Loop Return)***:
-  $$V = \mathcal{O}(1) \quad \Longrightarrow \quad \dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}} \quad (\mathcal{D}_{\text{formal}} \approx 0, \; \mathcal{O}(N^2) \text{ audit bypass})$$
+  $$V = \mathcal{O}(1) \quad \Longrightarrow \quad \dot{N} _ {\mathrm{digested}} \gg \dot{N} _ {\mathrm{pending}} \quad (\mathcal{D} _ {\mathrm{formal}} \approx 0, \; \mathcal{O}(N^2)\ \mathrm{audit\ bypass})$$
 
 ---
 
 > **Epistemic Scope & Formalism**:  
-> The governing relations formulate an information-thermodynamic state-space topology and macroscopic phase-transition criteria ($\mathcal{O}(N^2) \to \mathcal{O}(1)$), serving as an analytical structural architecture rather than dimensional curve-fitting. Empirical parameterizations, historical edge-cases, and civilizational falsification boundaries are fully elaborated in the working paper (v1.49.7).
+> The governing relations formulate an information-thermodynamic state-space topology and macroscopic phase-transition criteria $(\mathcal{O}(N^2) \to \mathcal{O}(1))$, serving as an analytical structural architecture rather than dimensional curve-fitting. Empirical parameterizations, historical edge-cases, and civilizational falsification boundaries are fully elaborated in the working paper (v1.49.7).
 
 </details>
 
