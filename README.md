@@ -144,12 +144,7 @@ Docking onto $\text{Layer } 1$ ($\mathcal{D} \to 0$) collapsed verification late
 
 - **(1) Downward Routing ($\mathrm{Layer\ 3/2} \to \mathrm{Layer\ 1}$)**: Bypasses the quarantined *Legacy Dogmatic Chamber* to digest anomalies as pure quantitative vectors.
 - **(2) Upward Re-Encoding ($\mathrm{Layer\ 1} \to \mathrm{Layer\ 2'}$)**: Projects pre-verified vectors into a *Compiled Formal Registry* (equations, blueprints, patents) at zero ideological drag ($\mathcal{D} _ {\mathrm{formal}} \approx 0$).
-- **(3) Phenomenological Extrusion ($\mathrm{Layer\ 2'} \to \mathrm{Layer\ 3}$)**: Materializes formalisms into infrastructure via **four geodesic chain reactions**:
-  1. *Mineral Energy Release*: $\mathrm{Layer\ 1/2}$ vacuum and gas laws mapped into $\mathrm{Layer\ 3}$ steam pistons, solving deep-shaft coal drainage.
-  2. *Algorithmic Unification*: Infinitesimal calculus dissolved sublunary–celestial and craft boundaries under a single differentiable topology.
-  3. *Celestial-Horological Synchronization*: Celestial invariants coupled with marine chronometers to lock the global ocean onto a geometric coordinate grid.
-  4. *Kinematic Network Emergence*: Steam piston vectors extruded onto iron rails alongside telegraphy, scaling superconductivity into a planetary mesh.
-
+- **(3) Phenomenological Extrusion ($\mathrm{Layer\ 2'} \to \mathrm{Layer\ 3}$)**: Extrudes compiled formalisms into a planetary mesh via **four geodesic chain reactions**: **steam-piston coal drainage** *(vacuum/gas laws)*, **unified differentiable mechanics** *(calculus)*, **global coordinate locking** *(marine chronometers)*, and **kinematic rail-telegraph networks**.
 ---
 
 ## Epilogue: Synthetic Intelligence, the Platonic Manifold, and The Second Descent
