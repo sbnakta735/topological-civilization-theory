@@ -37,7 +37,7 @@ $$
 
 </div>
 
-### 🔄 The Three Reversals of Macro-History
+### The Three Reversals of Macro-History
 
 | Reversal Vector | Topological Thesis & Historical Reality |
 | :--- | :--- |
