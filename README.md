@@ -120,7 +120,7 @@ Rather than a teleological march toward empiricism, the Western transition was a
 3. **Axiomatic Water Hammer *(Galileo & Newton)***: Coupling kinematics and *Principia* calculus to shatter the degraded cap and dock the cognitive apparatus directly onto $\text{Layer } 1$ ($\mathcal{D} \to 0$).
 
 <details>
-<summary>🛠️ <b>Deep-Dive: Table 2 — Three Epochs of Latent Conduit Assembly: Mapping the Structural Parable to Epistemic Network Reality (Full Dataset)</b></summary>
+<summary>🛠️ <b>Deep-Dive: Table 2 — Three Epochs of Latent Conduit Assembly: Mapping the Structural Parable to Epistemic Network Reality</b></summary>
 
 | Epoch | Local Intent (Defensive Mandate) | Structural Parable (Hydrodynamic) | Epistemic Network Reality (Topological) |
 | :--- | :--- | :--- | :--- |
