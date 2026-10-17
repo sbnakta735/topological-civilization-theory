@@ -91,7 +91,7 @@ When propositional overpressure drives the metabolic margin below zero ($\mathca
 - **5. The Latin West (c. 1500) — $\min \mathcal{E}, \mathcal{D} \uparrow, \max N$ *(Overpressure Meltdown & Basal Breach)***: Fragmentation, semantic collisions, and printing/maritime shocks breached $\mathcal{E} - \mathcal{D}N^2 \le 0$, shearing the bulkhead over the **Euclidean-Gothic Conduit**.
 
 <details>
-<summary>📊 <b>Deep-Dive: Table 1 — Comparative Summary of Civilizational Homeostatic Regimes (Full Dataset, Page 20)</b></summary>
+<summary>📊 <b>Deep-Dive: Table 1 — Comparative Summary of Civilizational Homeostatic Regimes</b></summary>
 
 | Civilizational Regime | Primary Operational Lever | Thermodynamic Mechanism | Vertical Scaffold Status | Critical Threshold Outcome |
 | :--- | :--- | :--- | :--- | :--- |
