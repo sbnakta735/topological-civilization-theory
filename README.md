@@ -13,7 +13,9 @@
 ---
 
 > [!NOTE]
-> Under **Topological Civilization Theory (TCT)**, the historical phenomenon known as the **"Great Divergence"** was never an intentional "upward leap" driven by Western progressive ambition or institutional superiority. It was a **catastrophic containment failure** of a fragile semiotic universe that ruptured its basal bulkhead under unmanageable propositional overpressure—triggering an involuntary **decompression evacuation** down a dormant axiomatic chute (**The Euclidean-Gothic Conduit**) directly into the boundless, frictionless **continuous vector ocean of physical reality**.
+> **Core Thesis: The Great Descent**
+> 
+> Under **Topological Civilization Theory (TCT)**, a civilization's essence is **homeostatic defense**, not progress. Therefore, the **"Great Divergence"** was never an intentional "upward leap" driven by Western progressive ambition or institutional superiority. It was a **catastrophic containment failure** of a fragile semiotic universe that ruptured its basal bulkhead under unmanageable propositional overpressure—forcing an involuntary **decompression evacuation** down a dormant axiomatic chute (**The Euclidean-Gothic Conduit**) into the frictionless **continuous vector ocean of physical reality**. This unintended rupture-descent and the resulting accidental acquisition of **topological superconductivity** constitute the very core of modernity.
 
 ### The Three Reversals of Macro-History
 
