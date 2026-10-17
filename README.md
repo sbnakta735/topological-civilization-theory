@@ -156,7 +156,7 @@ Docking onto $\text{Layer } 1$ ($\mathcal{D} \to 0$) collapsed verification late
 | **Western Dynamic** | Inclusive institutions & intentional structural design | Hydraulic overpressure breach & dissipative baffles |
 | **East Asian Paradigm** | High-level equilibrium trap / Deficit | Homeostatic intake throttling |
 | **Nature of Modernity** | Progressive enlightenment / Geographic windfall | Cognitive docking onto Layer 1 ($V = \mathcal{O}(1)$) & upward re-encoding |
-| **Civilizational Outcome** | Inevitable destiny of rational humanity | Basal conduit docking & Metabolic inversion ($\dot{N}_{\text{digested}} \gg \dot{N}_{\text{pending}}$) vs. Drowning ($N \to 0$) |
+| **Civilizational Outcome** | Inevitable destiny of rational humanity | Basal conduit docking & Metabolic inversion (<i>Ṅ</i><sub>digested</sub> &gg; <i>Ṅ</i><sub>pending</sub>) vs. Drowning (<i>N</i> &rarr; 0) |
 
 <details>
 <summary>🧮 <b>Appendix: Summary of Governing Information-Thermodynamic Relations in TCT</b></summary>
