@@ -44,7 +44,9 @@
 
 The dynamical equation for maintaining homeostasis is given by:
 
-$$\LARGE \mathcal{E} - \mathcal{D}N^2 > 0$$
+$$
+\LARGE \mathcal{E} - \mathcal{D}N^2 > 0
+$$
 
 - **$\mathcal{E}$ *(System Maintenance Capacity)***: Maximum institutional, computational, and cognitive throughput per unit time mobilized to enforce dogmatic coherence and suppress heresy.
 - **$N$ *(Active Propositional Load)***: Count of active doctrinal tenets, empirical claims, and uncanonized anomalies requiring global pairwise validation.
