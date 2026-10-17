@@ -15,13 +15,13 @@
 > [!NOTE]
 > Under **Topological Civilization Theory (TCT)**, a civilization's essence is **homeostatic defense**, not progress. Therefore, the **"Great Divergence"** was never an intentional "upward leap" driven by Western progressive ambition or institutional superiority. It was a **catastrophic containment failure** of a fragile semiotic universe that ruptured its basal bulkhead under unmanageable propositional overpressure—forcing an involuntary **decompression evacuation** down a dormant axiomatic chute (**The Euclidean-Gothic Conduit**) into the frictionless **continuous vector ocean of physical reality**. This unintended rupture-descent and the resulting accidental acquisition of **topological superconductivity** constitute the very core of modernity.
 
-### The Three Reversals of Macro-History
+### Three Directional Reversals in Great Divergence Historiography
 
-| Reversal Vector | Topological Reversal & Historiographical Positioning |
+| Reversal Vector | Topological Inversion & Historiographical Positioning |
 | :--- | :--- |
-| **1. Direction**<br>*(vs. Needham, Elvin, Morris)* | **Not an upward leap, but a downward plunge**: Rather than East Asia stalling in an "equilibrium trap," East Asia succeeded in homeostatic containment ($\mathcal{E} \gg \mathcal{D}N^2$) while Europe's epistemic floor collapsed downward into $\text{Layer } 1$ ($\mathcal{E} - \mathcal{D}N^2 \le 0$). |
-| **2. Intent**<br>*(vs. Weber, Acemoglu)* | **Not inclusive open horizons, but failed coercive sealing**: Rather than designing rational or inclusive institutions, European authorities deployed desperate containment clamps (Inquisitions, *Index*) that ruptured under propositional overpressure. |
-| **3. Outcome**<br>*(vs. Pomeranz, Diamond)* | **Not passive geographic windfall, but accidental conduit docking**: Rather than lucky coal and ecological endowments, industrial dominance was a downstream extrusion of accidental cognitive suction down the **Euclidean-Gothic Conduit** onto $\text{Layer } 1$. |
+| **1. Direction of the Breakthrough** | **Not an upward leap, but a downward plunge**: Against the stalled-ascent and "equilibrium trap" narratives of **Joseph Needham (1969)**, **Mark Elvin (1973)**, and **Ian Morris (2010)**, East Asia actually succeeded in homeostatic containment while Europe suffered a structural floor collapse. |
+| **2. Intent of Ruling Authorities** | **Not inclusive open horizons, but failed coercive sealing**: Against the rationalist and inclusive-institution models of **Max Weber (1905)** and **Daron Acemoglu (2012)**, European authorities did not design open horizons but deployed desperate ideological clamps that ruptured under internal overpressure. |
+| **3. Engine of Industrial Dominance** | **Not passive geographic windfall, but accidental cognitive docking**: Against the ecological and resource-windfall models of **Jared Diamond (1997)** and **Kenneth Pomeranz (2000)**, industrial dominance was the downstream byproduct of Europe's cognitive apparatus accidentally plunging into a frictionless continuous vector ocean. |
 
 ---
 
