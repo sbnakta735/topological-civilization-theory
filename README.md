@@ -189,7 +189,7 @@ Docking onto Layer 1 ($\mathcal{D} \to 0$) collapsed verification latency from $
 
 ---
 
-> **Epistemic Scope & Formalism**:  
+> **Epistemic Scope & Formalism**:<br>
 > The governing relations formulate an information-thermodynamic state-space topology and macroscopic phase-transition criteria $(\mathcal{O}(N^2) \to \mathcal{O}(1))$, serving as an analytical structural architecture rather than dimensional curve-fitting. Empirical parameterizations, historical edge-cases, and civilizational falsification boundaries are fully elaborated in the working paper (v1.49.7).
 
 </details>
