@@ -140,11 +140,11 @@ Rather than a teleological march toward empiricism, the Western transition was a
   <p align="center"><sub><b>Figure 5</b>: The Closed-Loop Topological Feedback Cycle: Downward Digestion at Layer 1 and Upward Proliferation across Layer 2 and Layer 3.</sub></p>
 </div>
 
-Docking onto $\mathrm{Layer\ 1}$ ($\mathcal{D} \to 0$) collapsed verification latency from $\mathcal{O}(N^2)$ to constant-time geometric coupling ($\mathbf{V} = \mathcal{O}(1)$), inverting the metabolic inequality ($\dot{N} _ {\mathrm{digested}} \gg \dot{N} _ {\mathrm{pending}}$) across a **three-stage superconducting loop**:
+Docking onto Layer 1 ($\mathcal{D} \to 0$) collapsed verification latency from $\mathcal{O}(N^2)$ to constant-time geometric coupling ($\mathbf{V} = \mathcal{O}(1)$), inverting the metabolic inequality ($\dot{N} _ {\mathrm{digested}} \gg \dot{N} _ {\mathrm{pending}}$) across a **three-stage superconducting loop**:
 
-- **(1) Downward Routing ($\mathrm{Layer\ 3/2} \to \mathrm{Layer\ 1}$)**: Bypasses the quarantined *Legacy Dogmatic Chamber* to digest anomalies as pure quantitative vectors.
-- **(2) Upward Re-Encoding ($\mathrm{Layer\ 1} \to \mathrm{Layer\ 2'}$)**: Projects pre-verified vectors into a *Compiled Formal Registry* (equations, blueprints, patents) at zero ideological drag ($\mathcal{D} _ {\mathrm{formal}} \approx 0$).
-- **(3) Phenomenological Extrusion ($\mathrm{Layer\ 2'} \to \mathrm{Layer\ 3}$)**: Extrudes compiled formalisms into a planetary mesh via **four geodesic chain reactions**: **steam-piston coal drainage** *(vacuum/gas laws)*, **unified differentiable mechanics** *(calculus)*, **global coordinate locking** *(marine chronometers)*, and **kinematic rail-telegraph networks**.
+- **(1) Downward Routing (Layer 3/2 $\to$ Layer 1)**: Bypasses the quarantined *Legacy Dogmatic Chamber* to digest anomalies as pure quantitative vectors.
+- **(2) Upward Re-Encoding (Layer 1 $\to$ Layer 2')**: Projects pre-verified vectors into a *Compiled Formal Registry* (equations, blueprints, patents) at zero ideological drag ($\mathcal{D} _ {\mathrm{formal}} \approx 0$).
+- **(3) Phenomenological Extrusion (Layer 2' $\to$ Layer 3)**: Extrudes compiled formalisms into a planetary mesh via **four geodesic chain reactions**: **steam-piston coal drainage** *(vacuum/gas laws)*, **unified differentiable mechanics** *(calculus)*, **global coordinate locking** *(marine chronometers)*, and **kinematic rail-telegraph networks**.
 
 ---
 
