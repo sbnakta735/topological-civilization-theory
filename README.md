@@ -166,7 +166,7 @@ Docking onto Layer 1 ($\mathcal{D} \to 0$) collapsed verification latency from $
 | **Institutional Intent** | Proactive embrace of reason and open horizons | Desperate containment clamps (coercive sealing) |
 | **Western Dynamic** | Inclusive institutions & intentional structural design | Hydraulic overpressure breach & dissipative baffles |
 | **East Asian Paradigm** | High-level equilibrium trap / Deficit | Homeostatic intake throttling |
-| **Nature of Modernity** | Progressive enlightenment / Geographic windfall | Cognitive docking onto Layer 1 $(\mathbf{V} = \mathcal{O}(1))$ & upward re-encoding |
+| **Nature of Modernity** | Progressive enlightenment / Geographic windfall | Cognitive docking onto Layer 1 ($\mathbf{V} = \mathcal{O}(1)$) & upward re-encoding |
 | **Civilizational Outcome** | Inevitable destiny of rational humanity | Basal conduit docking ($\dot{N} _ {\mathrm{digested}} \gg \dot{N} _ {\mathrm{pending}}$) vs. Drowning ($N \to 0$) |
 
 </details>
