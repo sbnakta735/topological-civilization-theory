@@ -84,10 +84,10 @@ When propositional overpressure drives the metabolic margin below zero ($\mathca
 
 ### The Five Eurasian Boundary-Control Regimes
 
-- **1. East Asia (Neo-Confucianism) — $\max \mathcal{E}, \min N$ *(Semiotic Faraday Cage)***: The *Keju* system throttled external intake and routed internal debates into a $\mathrm{Layer\ 2}$ **cognitive heat sink** ($\mathcal{E} \gg \mathcal{D}N^2$).
-- **2. Byzantium (Eastern Orthodoxy) — $N \to 0$ *(Apophatic Quarantine)***: Clamped $\mathrm{Layer\ 2}$ intake via Hesychast mysticism while archiving Greek science as inert $\mathrm{Layer\ 3}$ *paideia*.
+- **1. East Asia (Neo-Confucianism) — $\max \mathcal{E}, \min N$ *(Semiotic Faraday Cage)***: The *Keju* system throttled external intake and routed internal debates into a Layer 2 **cognitive heat sink** ($\mathcal{E} \gg \mathcal{D}N^2$).
+- **2. Byzantium (Eastern Orthodoxy) — $N \to 0$ *(Apophatic Quarantine)***: Clamped Layer 2 intake via Hesychast mysticism while archiving Greek science as inert Layer 3 *paideia*.
 - **3. Islamic World (Ash'arism) — $N^2 \to \mathcal{O}(N)$ *(Causal Dissolution)***: Al-Ghazali's occasionalism (*Bila Kayfa*) dissolved secondary causality amidst data floods, linearizing verification drag.
-- **4. Indian Subcontinent — $\mathrm{Layer\ 2}$ *(Algebraic Acceleration)***: Built continuous calculus (Kerala series) as a pure algebraic engine without a 3D geometric scaffold, averting basal shear.
+- **4. Indian Subcontinent — Layer 2 *(Algebraic Acceleration)***: Built continuous calculus (Kerala series) as a pure algebraic engine without a 3D geometric scaffold, averting basal shear.
 - **5. Latin West (c. 1500) — $\min \mathcal{E}, \mathcal{D} \uparrow, \max N$ *(Overpressure Breach)***: Fragmentation and print/maritime shocks breached $\mathcal{E} - \mathcal{D}N^2 \le 0$, shearing the bulkhead over the **Euclidean-Gothic Conduit**.
 
 <details>
