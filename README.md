@@ -172,6 +172,7 @@ Docking onto $\mathrm{Layer\ 1}$ ($\mathcal{D} \to 0$) collapsed verification la
 
 <details>
 <summary>🧮 <b>Appendix: Summary of Governing Information-Thermodynamic Relations in TCT</b></summary>
+
 - **1. The Homeostatic Margin Condition**:
   $$\mathcal{E} - \mathcal{D}N^2 > 0$$
 - **2. The Critical Threshold Breach *(Bulkhead Rupture & Metabolic Asphyxiation)***:
