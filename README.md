@@ -209,7 +209,6 @@ If you build upon or reference **Topological Civilization Theory (TCT)** or **Th
   month        = oct,
   number       = {Working Paper v1.49.7},
   doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  url          = {[https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)}
 }
-
 ```
