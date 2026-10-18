@@ -110,16 +110,15 @@ When propositional overpressure drives the metabolic margin below zero ($\mathca
 ## 4. The Euclidean-Gothic Conduit & The Axiomatic Water Hammer
 
 <div align="center">
-  <img src="./assets/fig4_conduit.png" alt="Figure 4: Four-Stage Structural Evolution of the Euclidean-Gothic Conduit, culminating in Basal Bulkhead Rupture and Layer 1 Docking" width="100%"/>
-  <p align="center"><sub><b>Figure 4</b>: Four-Stage Structural Evolution of the Euclidean-Gothic Conduit, culminating in Basal Bulkhead Rupture and Layer 1 Docking.</sub></p>
+  <img src="./assets/fig4_conduit.png" alt="Figure 4: Three-Stroke Blind Assembly of the Euclidean-Gothic Conduit, culminating in Basal Bulkhead Rupture and Layer 1 Docking" width="100%"/>
+  <p align="center"><sub><b>Figure 4</b>: Three-Stroke Blind Assembly of the Euclidean-Gothic Conduit, culminating in Basal Bulkhead Rupture and Layer 1 Docking.</sub></p>
 </div>
 
-Rather than a teleological march toward empiricism, the Western transition was a **four-stage blind genesis** in which defensive efforts to preserve theological homeostasis inadvertently assembled and ruptured a vertical decompression shaft:
+Rather than a teleological march toward empiricism, the Western transition was a **three-stroke blind genesis** in which defensive efforts to preserve theological homeostasis inadvertently erected and ruptured a vertical decompression shaft:
 
 1. **Offline Caching *(Augustine)***: Sealing the 2D Euclidean API in *Platonic Amber* to survive energy collapse ($\mathcal{E} \downarrow\downarrow, N \approx 0$).
 2. **Latent Caisson Assembly *(Aquinas)***: Erecting hollow 3D *Scholastic pillars* anchored to the Euclidean floor beneath a *Theological Cap* ($N \uparrow\uparrow$).
 3. **Axiomatic Water Hammer *(Galileo & Newton)***: Coupling kinematics and *Principia* calculus to shatter the degraded cap and dock the cognitive apparatus directly onto $\mathrm{Layer\ 1}$ ($\mathcal{D} \to 0$).
-
 <details>
 <summary>🛠️ <b>Deep-Dive: Table 2 — Three Epochs of Latent Conduit Assembly: Mapping the Structural Parable to Epistemic Network Reality</b></summary>
 
