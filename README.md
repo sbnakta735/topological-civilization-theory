@@ -118,7 +118,8 @@ Rather than a teleological march toward empiricism, the Western transition was a
 
 1. **Offline Caching *(Augustine)***: Sealing the 2D Euclidean API in *Platonic Amber* to survive energy collapse ($\mathcal{E} \downarrow\downarrow, N \approx 0$).
 2. **Latent Caisson Assembly *(Aquinas)***: Erecting hollow 3D *Scholastic pillars* anchored to the Euclidean floor beneath a *Theological Cap* ($N \uparrow\uparrow$).
-3. **Axiomatic Water Hammer *(Galileo & Newton)***: Coupling kinematics and *Principia* calculus to shatter the degraded cap and dock the cognitive apparatus directly onto $\mathrm{Layer\ 1}$ ($\mathcal{D} \to 0$).
+3. **Axiomatic Water Hammer *(Galileo & Newton)***: Coupling kinematics and *Principia* calculus to shatter the degraded cap and dock the cognitive apparatus directly onto Layer 1 ($\mathcal{D} \to 0$).
+
 <details>
 <summary>🛠️ <b>Deep-Dive: Table 2 — Three Epochs of Latent Conduit Assembly: Mapping the Structural Parable to Epistemic Network Reality</b></summary>
 
