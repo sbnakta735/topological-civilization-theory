@@ -211,4 +211,5 @@ If you build upon or reference **Topological Civilization Theory (TCT)** or **Th
   doi          = {10.5281/zenodo.XXXXXXX},
   url          = {https://doi.org/10.5281/zenodo.XXXXXXX}
 }
+
 ```
