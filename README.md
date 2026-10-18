@@ -165,14 +165,13 @@ Docking onto $\mathrm{Layer\ 1}$ ($\mathcal{D} \to 0$) collapsed verification la
 | **Institutional Intent** | Proactive embrace of reason and open horizons | Desperate containment clamps (coercive sealing) |
 | **Western Dynamic** | Inclusive institutions & intentional structural design | Hydraulic overpressure breach & dissipative baffles |
 | **East Asian Paradigm** | High-level equilibrium trap / Deficit | Homeostatic intake throttling |
-| **Nature of Modernity** | Progressive enlightenment / Geographic windfall | Cognitive docking onto $\mathrm{Layer\ 1}$ ($V = \mathcal{O}(1)$) & upward re-encoding |
+| **Nature of Modernity** | Progressive enlightenment / Geographic windfall | Cognitive docking onto $\mathrm{Layer\ 1}$ ($\mathbf{V} = \mathcal{O}(1)$) & upward re-encoding |
 | **Civilizational Outcome** | Inevitable destiny of rational humanity | Basal conduit docking ($\dot{N} _ {\mathrm{digested}} \gg \dot{N} _ {\mathrm{pending}}$) vs. Drowning ($N \to 0$) |
 
 </details>
 
 <details>
 <summary>🧮 <b>Appendix: Summary of Governing Information-Thermodynamic Relations in TCT</b></summary>
-
 - **1. The Homeostatic Margin Condition**:
   $$\mathcal{E} - \mathcal{D}N^2 > 0$$
 - **2. The Critical Threshold Breach *(Bulkhead Rupture & Metabolic Asphyxiation)***:
@@ -182,9 +181,9 @@ Docking onto $\mathrm{Layer\ 1}$ ($\mathcal{D} \to 0$) collapsed verification la
 - **4. Decompression Venting Gradient *(Branch B)***:
   $$\Delta P = P _ {L2} - P _ {L1} \gg 0$$
 - **5. Topological Superconductivity Condition *(Layer 1 Ocean Interface)***:
-  $$V = \mathcal{O}(1) \quad (\mathcal{D} \to 0, \; \eta \gg \eta _ c)$$
+  $$\mathbf{V} = \mathcal{O}(1) \quad (\mathcal{D} \to 0, \; \eta \gg \eta _ c)$$
 - **6. Superconducting Metabolic Inversion & Partitioned Registry Stability *(Closed-Loop Return)***:
-  $$V = \mathcal{O}(1) \quad \Longrightarrow \quad \dot{N} _ {\mathrm{digested}} \gg \dot{N} _ {\mathrm{pending}} \quad (\mathcal{D} _ {\mathrm{formal}} \approx 0, \; \mathcal{O}(N^2)\ \mathrm{audit\ bypass})$$
+  $$\mathbf{V} = \mathcal{O}(1) \quad \Longrightarrow \quad \dot{N} _ {\mathrm{digested}} \gg \dot{N} _ {\mathrm{pending}} \quad (\mathcal{D} _ {\mathrm{formal}} \approx 0, \; \mathcal{O}(N^2)\ \mathrm{audit\ bypass})$$
 
 ---
 
