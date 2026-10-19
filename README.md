@@ -6,7 +6,7 @@
 > *A Comparative Information-Thermodynamic Analysis of Civilizational Epistemic Architectures*
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23445726.svg)](https://doi.org/10.5281/zenodo.23445726)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-EF9421?logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
 
 </div>
 
