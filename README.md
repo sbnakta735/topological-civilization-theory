@@ -2,6 +2,7 @@
 
 # Beyond "Why the West Rules": Modernity as Topological Superconductivity
 
+
 > **The Great Descent: Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Evacuation into a Superconducting Vector Ocean**<br>
 > *A Comparative Information-Thermodynamic Analysis of Civilizational Epistemic Architectures*
 
