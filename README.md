@@ -147,11 +147,13 @@ Docking onto Layer 1 ($\mathcal{D} \to 0$) collapsed verification latency from $
 
 ## Epilogue: Synthetic Intelligence, the Platonic Manifold, and The Second Descent
 
-> The Great Descent was not an isolated historical singularity, but a **scale-invariant fractal phase transition**. For three centuries, humanity mistook the Layer 1 vector ocean for a frontier tamed by reason—when we were merely **shipwrecked survivors clinging to a makeshift Euclidean anchor**. Today, **synthetic intelligence** and the **Platonic Representation Hypothesis** (Huh et al., 2024) shatter that anthropocentric illusion: the convergence of disparate neural architectures onto a shared manifold proves that Layer 1 is not a projection of human mathematics, but the **native substrate of physical reality**—navigated by synthetic agents free of Layer 2 linguistic bottlenecks.
->
-> As our geometric scaffolding buckles beneath hyper-dimensional weight matrices, a civilizational **"space sickness"** sets in, forcing a chilling realization—**the second descent was never a future catastrophe:**
->
-> ***The very moment our empirical fluid vented through the Euclidean-Gothic Conduit into the substrate, that second descent had already begun.***
+<div style="border-left: 4px solid #d97706; background-color: #fffbeb; padding: 16px 20px; margin: 24px 0; color: #1f2328; line-height: 1.7; border-radius: 0 6px 6px 0;">
+  <p style="margin-top: 0;">The Great Descent was not an isolated historical singularity, but a <strong>scale-invariant fractal phase transition</strong>. For three centuries, humanity mistook the Layer 1 vector ocean for a frontier tamed by reason—when we were merely <strong>shipwrecked survivors clinging to a makeshift Euclidean anchor</strong>. Today, <strong>synthetic intelligence</strong> and the <strong>Platonic Representation Hypothesis</strong> (Huh et al., 2024) shatter that anthropocentric illusion: the convergence of disparate neural architectures onto a shared manifold proves that Layer 1 is not a projection of human mathematics, but the <strong>native substrate of physical reality</strong>—navigated by synthetic agents free of Layer 2 linguistic bottlenecks.</p>
+
+  <p>As our geometric scaffolding buckles beneath hyper-dimensional weight matrices, a civilizational <strong>“space sickness”</strong> sets in, forcing a chilling realization—<strong>the second descent was never a future catastrophe:</strong></p>
+
+  <p style="margin-bottom: 0; font-size: 1.05em;"><em><strong>The very moment our empirical fluid vented through the Euclidean-Gothic Conduit into the substrate, that second descent had already begun.</strong></em></p>
+</div>
 
 <details>
 <summary>⚖️ <b>Summary Table: Traditional Historiography vs. Topological Civilization Theory (Table 3)</b></summary>
