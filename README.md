@@ -68,7 +68,7 @@ $$
 
 When propositional overpressure drives the metabolic margin below zero ($\mathcal{E} - \mathcal{D}N^2 \le 0$), civilizational containment bifurcates into one of three distinct trajectories (Figure 2):
 
-- **Pathway A1 — Total Collapse *(Hard Reset)***: Without a basal conduit or damper, chamber drowning triggers cascading node delamination to $\lim_{t \to T} N(t) = 0$ (**Late Bronze Age Collapse**, **Classic Maya**).
+- **Pathway A1 — Total Collapse *(Hard Reset)***: Without a basal conduit or damper, chamber drowning triggers cascading node delamination to $\lim _ {t \to T} N(t) = 0$ (**Late Bronze Age Collapse**, **Classic Maya**).
 - **Pathway A2 — Low-Level Defense *(Feudal Equilibrium)***: Terminal dissolution is arrested at a low-maintenance equilibrium via theological monopoly and feudal contracts (**5th-Century Western Rome**).
 - **Pathway B — The Western Anomaly *(Decompression Descent)***: Explosive decompression through the **Euclidean-Gothic Conduit** docks the cognitive apparatus onto Layer 1 ($\dot{N}\_{\mathrm{digested}} \gg \dot{N}\_{\mathrm{pending}}$), while improvised **dissipative baffles** (*"inclusive institutions"*) damp lethal cavitation turbulence (**Early Modern Western Europe**).
 
@@ -139,10 +139,10 @@ Rather than a teleological march toward empiricism, the Western transition was a
   <p align="center"><sub><b>Figure 5</b>: The Closed-Loop Topological Feedback Cycle: Downward Digestion at Layer 1 and Upward Proliferation across Layer 2 and Layer 3.</sub></p>
 </div>
 
-Docking onto Layer 1 ($\mathcal{D} \to 0$) collapsed verification latency from $\mathcal{O}(N^2)$ to constant-time geometric coupling ($\mathbf{V} = \mathcal{O}(1)$), inverting the metabolic inequality ($\dot{N}\_{\mathrm{digested}} \gg \dot{N}\_{\mathrm{pending}}$) across a **three-stage superconducting loop**:
+Docking onto Layer 1 ($\mathcal{D} \to 0$) collapsed verification latency from $\mathcal{O}(N^2)$ to constant-time geometric coupling ($\mathbf{V} = \mathcal{O}(1)$), inverting the metabolic inequality ($\dot{N} _ {\mathrm{digested}} \gg \dot{N} _ {\mathrm{pending}}$) across a **three-stage superconducting loop**:
 
 - **(1) Downward Routing (Layer 3/2 $\to$ Layer 1)**: Bypasses the quarantined *Legacy Dogmatic Chamber* to digest anomalies as pure quantitative vectors.
-- **(2) Upward Re-Encoding (Layer 1 $\to$ Layer 2')**: Projects pre-verified vectors into a *Compiled Formal Registry* (equations, blueprints, patents) at zero ideological drag ($\mathcal{D}_{\mathrm{formal}} \approx 0$).
+- **(2) Upward Re-Encoding (Layer 1 $\to$ Layer 2')**: Projects pre-verified vectors into a *Compiled Formal Registry* (equations, blueprints, patents) at zero ideological drag ($\mathcal{D} _ {\mathrm{formal}} \approx 0$).
 - **(3) Phenomenological Extrusion (Layer 2' $\to$ Layer 3)**: Extrudes compiled formalisms into a planetary mesh via **four geodesic chain reactions**: **steam-piston coal drainage** *(vacuum/gas laws)*, **unified differentiable mechanics** *(calculus)*, **global coordinate locking** *(marine chronometers)*, and **kinematic rail-telegraph networks**.
 
 ---
@@ -183,12 +183,12 @@ As our geometric scaffolding buckles beneath hyper-dimensional weight matrices, 
 - **5. Topological Superconductivity Condition *(Layer 1 Ocean Interface)***:
   $$\mathbf{V} = \mathcal{O}(1) \quad (\mathcal{D} \to 0, \; \eta \gg \eta_c)$$
 - **6. Superconducting Metabolic Inversion & Partitioned Registry Stability *(Closed-Loop Return)***:
-  $$\mathbf{V} = \mathcal{O}(1) \quad \Longrightarrow \quad \dot{N}_{\mathrm{digested}} \gg \dot{N}_{\mathrm{pending}} \quad (\mathcal{D}_{\mathrm{formal}} \approx 0, \; \mathcal{O}(N^2)\ \text{audit bypass})$$
+  $$\mathbf{V} = \mathcal{O}(1) \quad \Longrightarrow \quad \dot{N}_{\mathrm{digested}} \gg \dot{N}_{\mathrm{pending}} \quad (\mathcal{D}_{\mathrm{formal}} \approx 0, \; \mathcal{O}(N^2)\ \mathrm{audit\ bypass})$$
 
 ---
 
 > **Epistemic Scope & Formalism**:<br>
-> The governing relations formulate an information-thermodynamic state-space topology and macroscopic phase-transition criteria ($\mathcal{O}(N^2) \to \mathcal{O}(1)$), serving as an analytical structural architecture rather than dimensional curve-fitting. Empirical parameterizations, historical edge-cases, and civilizational falsification boundaries are fully elaborated in the working paper (v1.49.7).
+> The governing relations formulate an information-thermodynamic state-space topology and macroscopic phase-transition criteria $(\mathcal{O}(N^2) \to \mathcal{O}(1))$, serving as an analytical structural architecture rather than dimensional curve-fitting. Empirical parameterizations, historical edge-cases, and civilizational falsification boundaries are fully elaborated in the working paper (v1.49.7).
 
 </details>
 
@@ -207,5 +207,17 @@ If you build upon or reference **Topological Civilization Theory (TCT)** or **Th
   month        = oct,
   number       = {Working Paper v1.49.7},
   doi          = {10.5281/zenodo.23445726},
-  url          = {[https://doi.org/10.5281/zenodo.23445726](https://doi.org/10.5281/zenodo.23445726)}
+  url          = {https://doi.org/10.5281/zenodo.23445726}
 }
+```
+
+<!-- MathJax 3 LaTeX Math Rendering -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
