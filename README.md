@@ -1,6 +1,3 @@
-<div align="center">
-
-
 # Beyond "Why the West Rules": Modernity as Topological Superconductivity
 
 ### The Great Descent: Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Evacuation into a Superconducting Vector Ocean
@@ -13,14 +10,13 @@
 
 > **Core Premise:** Under Topological Civilization Theory (TCT), a civilization's essence is **homeostatic defense**, not progress. Therefore, the "Great Divergence" was never an intentional “upward leap” driven by Western progressive ambition or institutional superiority. It was a **catastrophic containment failure** of a fragile semiotic universe that ruptured its basal bulkhead under unmanageable propositional overpressure—forcing human cognition into a **decompression evacuation** down a dormant axiomatic chute (the **Euclidean-Gothic Conduit**) into the frictionless **continuous vector ocean** of physical reality. This unintended rupture-descent and the resulting accidental acquisition of **topological superconductivity** constitute the very core of modernity.
 
-
 ### Three Directional Reversals in Great Divergence Historiography
 
 | Reversal Vector | Topological Inversion & Historiographical Positioning |
 | :--- | :--- |
-| **1. Direction of the Breakthrough** | **Not an upward leap, but a downward plunge**: Against the stalled-ascent and "equilibrium trap" narratives of **Joseph Needham (1969)**, **Mark Elvin (1973)**, and **Ian Morris (2010)**, East Asia actually succeeded in homeostatic containment while Europe suffered a structural floor collapse. |
-| **2. Intent of Ruling Authorities** | **Not inclusive open horizons, but failed coercive sealing**: Against **Max Weber (1905)**, **Douglass North (1973)**, and **Daron Acemoglu (2012)**, European authorities deployed desperate ideological clamps that ruptured under overpressure—reducing "inclusive institutions" and "property rights" to reactive **dissipative baffles** improvised to damp post-breach cavitation turbulence. |
-| **3. Engine of Industrial Dominance** | **Not passive geographic windfall, but accidental cognitive docking**: Against the ecological and resource-windfall models of **Jared Diamond (1997)** and **Kenneth Pomeranz (2000)**, industrial dominance was the downstream byproduct of Europe's cognitive apparatus accidentally plunging into a frictionless continuous vector ocean. |
+| **1. Direction of the Breakthrough** | **Not an upward leap, but a downward plunge**: Against the stalled-ascent and “equilibrium trap” narratives of **Joseph Needham (1969)**, **Mark Elvin (1973)**, and **Ian Morris (2010)**, East Asia actually succeeded in homeostatic containment while Europe suffered a structural floor collapse. |
+| **2. Intent of Ruling Authorities** | **Not inclusive open horizons, but failed coercive sealing**: Against **Max Weber (1905)**, **Douglass North (1973)**, and **Daron Acemoglu (2012)**, European authorities deployed desperate ideological clamps that ruptured under overpressure—reducing “inclusive institutions” and “property rights” to reactive **dissipative baffles** improvised to damp post-breach cavitation turbulence. |
+| **3. Engine of Industrial Dominance** | **Not passive geographic windfall, but accidental cognitive docking**: Against the ecological and resource-windfall models of **Jared Diamond (1997)** and **Kenneth Pomeranz (2000)**, industrial dominance was the downstream byproduct of Europe’s cognitive apparatus accidentally plunging into a frictionless continuous vector ocean. |
 
 ---
 
