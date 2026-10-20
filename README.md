@@ -42,7 +42,7 @@
 The dynamical equation for maintaining homeostasis is given by:
 
 $$
-\mathcal{E} - \mathcal{D}N^2 > 0
+{\LARGE \mathcal{E} - \mathcal{D}N^2 > 0}
 $$
 
 - **$\mathcal{E}$ *(System Maintenance Capacity)***: Maximum institutional throughput enforcing dogmatic coherence.
@@ -53,14 +53,14 @@ As empirical anomalies accumulate ($N \uparrow$), the descent toward structural 
 
 $$
 \begin{aligned}
-\mathcal{E} - \mathcal{D}N^2 > 0 &\quad \text{(Homeostatic Equilibrium)} \\
+{\Large \mathcal{E} - \mathcal{D}N^2 > 0} &\quad \text{(Homeostatic Equilibrium)} \\
 \Downarrow \qquad\quad & \\
-\mathcal{E} - \mathcal{D}N^2 \le 0 &\quad \text{(Critical Threshold Breach)}
+{\Large \mathcal{E} - \mathcal{D}N^2 \le 0} &\quad \text{(Critical Threshold Breach)}
 \end{aligned}
 $$
 
 <div align="center">
-  <img src="./assets/fig2_bifurcation.png" alt="Figure 2: Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure" width="100%"/>
+  <img src="./assets/fig2_bifurcation.png" alt="Figure 2: Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure" width="100%">
   <p align="center"><sub><b>Figure 2</b>: Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure.</sub></p>
 </div>
 
