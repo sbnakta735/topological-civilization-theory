@@ -179,7 +179,7 @@ As our geometric scaffolding buckles beneath hyper-dimensional weight matrices, 
 - **3. Chamber Drowning Circuit-Breaker *(Branch A)***:
   $$\lim_{t \to T} N(t) = 0$$
 - **4. Decompression Venting Gradient *(Branch B)***:
-  $$\Delta P = P_{L2} - P_{L1} \gg 0$$
+  $$\Delta P = P _ {L2} - P _ {L1} \gg 0$$
 - **5. Topological Superconductivity Condition *(Layer 1 Ocean Interface)***:
   $$\mathbf{V} = \mathcal{O}(1) \quad (\mathcal{D} \to 0, \; \eta \gg \eta_c)$$
 - **6. Superconducting Metabolic Inversion & Partitioned Registry Stability *(Closed-Loop Return)***:
