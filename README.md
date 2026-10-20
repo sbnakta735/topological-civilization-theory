@@ -70,7 +70,7 @@ When propositional overpressure drives the metabolic margin below zero ($\mathca
 
 - **Pathway A1 — Total Collapse *(Hard Reset)***: Without a basal conduit or damper, chamber drowning triggers cascading node delamination to $\lim _ {t \to T} N(t) = 0$ (**Late Bronze Age Collapse**, **Classic Maya**).
 - **Pathway A2 — Low-Level Defense *(Feudal Equilibrium)***: Terminal dissolution is arrested at a low-maintenance equilibrium via theological monopoly and feudal contracts (**5th-Century Western Rome**).
-- **Pathway B — The Western Anomaly *(Decompression Descent)***: Explosive decompression through the **Euclidean-Gothic Conduit** docks the cognitive apparatus onto Layer 1 ($\dot{N}_{\mathrm{digested}} \gg \dot{N}_{\mathrm{pending}}$), while improvised **dissipative baffles** (*"inclusive institutions"*) damp lethal cavitation turbulence (**Early Modern Western Europe**).
+- **Pathway B — The Western Anomaly *(Decompression Descent)***: Explosive decompression through the **Euclidean-Gothic Conduit** docks the cognitive apparatus onto Layer 1 ($\dot{N}\_{\mathrm{digested}} \gg \dot{N}\_{\mathrm{pending}}$), while improvised **dissipative baffles** (*"inclusive institutions"*) damp lethal cavitation turbulence (**Early Modern Western Europe**).
 
 ---
 
@@ -165,7 +165,7 @@ As our geometric scaffolding buckles beneath hyper-dimensional weight matrices, 
 | **Western Dynamic** | Inclusive institutions & intentional structural design | Hydraulic overpressure breach & dissipative baffles |
 | **East Asian Paradigm** | High-level equilibrium trap / Deficit | Homeostatic intake throttling |
 | **Nature of Modernity** | Progressive enlightenment / Geographic windfall | Cognitive docking onto Layer 1 ($\mathbf{V} = \mathcal{O}(1)$) & upward re-encoding |
-| **Civilizational Outcome** | Inevitable destiny of rational humanity | Basal conduit docking ($\dot{N}_{\mathrm{digested}} \gg \dot{N}_{\mathrm{pending}}$) vs. Drowning ($N \to 0$) |
+| **Civilizational Outcome** | Inevitable destiny of rational humanity | Basal conduit docking ($\dot{N}\_{\mathrm{digested}} \gg \dot{N}\_{\mathrm{pending}}$) vs. Drowning ($N \to 0$) |
 
 </details>
 
