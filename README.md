@@ -208,3 +208,14 @@ If you build upon or reference **Topological Civilization Theory (TCT)** or **Th
   url          = {https://doi.org/10.5281/zenodo.23445726}
 }
 ```
+
+<!-- MathJax 3 LaTeX Math Rendering -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
