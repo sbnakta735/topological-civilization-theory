@@ -3,22 +3,15 @@
 
 # Beyond "Why the West Rules": Modernity as Topological Superconductivity
 
-
-> **The Great Descent: Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Evacuation into a Superconducting Vector Ocean**<br>
-
-
-> *A Comparative Information-Thermodynamic Analysis of Civilizational Epistemic Architectures*
-
+### The Great Descent: Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Evacuation into a Superconducting Vector Ocean
+*A Comparative Information-Thermodynamic Analysis of Civilizational Epistemic Architectures*
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23445726.svg)](https://doi.org/10.5281/zenodo.23445726)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-EF9421?logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
-
-</div>
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-EF9421?logo=creative-commons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-> [!NOTE]
-> Under **Topological Civilization Theory (TCT)**, a civilization's essence is **homeostatic defense**, not progress. Therefore, the "Great Divergence" was never an intentional "upward leap" driven by Western progressive ambition or institutional superiority. It was a **catastrophic containment failure** of a fragile semiotic universe that ruptured its basal bulkhead under unmanageable propositional overpressure—forcing human cognition into a **decompression evacuation** down a dormant axiomatic chute (the **Euclidean-Gothic Conduit**) into the frictionless **continuous vector ocean of physical reality**. This unintended rupture-descent and the resulting accidental acquisition of **topological superconductivity** constitute the very core of modernity.
+> **Core Premise:** Under Topological Civilization Theory (TCT), a civilization's essence is **homeostatic defense**, not progress. Therefore, the "Great Divergence" was never an intentional “upward leap” driven by Western progressive ambition or institutional superiority. It was a **catastrophic containment failure** of a fragile semiotic universe that ruptured its basal bulkhead under unmanageable propositional overpressure—forcing human cognition into a **decompression evacuation** down a dormant axiomatic chute (the **Euclidean-Gothic Conduit**) into the frictionless **continuous vector ocean** of physical reality. This unintended rupture-descent and the resulting accidental acquisition of **topological superconductivity** constitute the very core of modernity.
 
 ### Three Directional Reversals in Great Divergence Historiography
 
