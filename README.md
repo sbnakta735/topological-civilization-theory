@@ -8,7 +8,9 @@
 
 ---
 
-> **Core Premise:** Under Topological Civilization Theory (TCT), a civilization's essence is **homeostatic defense**, not progress. Therefore, the "Great Divergence" was never an intentional “upward leap” driven by Western progressive ambition or institutional superiority. It was a **catastrophic containment failure** of a fragile semiotic universe that ruptured its basal bulkhead under unmanageable propositional overpressure—forcing human cognition into a **decompression evacuation** down a dormant axiomatic chute (the **Euclidean-Gothic Conduit**) into the frictionless **continuous vector ocean** of physical reality. This unintended rupture-descent and the resulting accidental acquisition of **topological superconductivity** constitute the very core of modernity.
+<div style="border-left: 4px solid #0969da; background-color: #f6f8fa; padding: 14px 18px; margin: 20px 0; color: #1f2328; line-height: 1.6; border-radius: 0 6px 6px 0;">
+  <strong>Core Premise:</strong> Under <strong>Topological Civilization Theory (TCT)</strong>, a civilization’s essence is <strong>homeostatic defense</strong>, not progress. Therefore, the “Great Divergence” was never an intentional “upward leap” driven by Western progressive ambition or institutional superiority. It was a <strong>catastrophic containment failure</strong> of a fragile semiotic universe that ruptured its basal bulkhead under unmanageable propositional overpressure—forcing human cognition into a <strong>decompression evacuation</strong> down a dormant axiomatic chute (the <strong>Euclidean-Gothic Conduit</strong>) into the frictionless <strong>continuous vector ocean</strong> of physical reality. This unintended rupture-descent and the resulting accidental acquisition of <strong>topological superconductivity</strong> constitute the very core of modernity.
+</div>
 
 ### Three Directional Reversals in Great Divergence Historiography
 
