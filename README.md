@@ -41,7 +41,9 @@
 
 The dynamical equation for maintaining homeostasis is given by:
 
-$$\LARGE \mathcal{E} - \mathcal{D}N^2 > 0$$
+$$
+\mathcal{E} - \mathcal{D}N^2 > 0
+$$
 
 - **$\mathcal{E}$ *(System Maintenance Capacity)***: Maximum institutional throughput enforcing dogmatic coherence.
 - **$N$ *(Active Propositional Load)***: Total count of active doctrines and empirical anomalies.
@@ -51,9 +53,9 @@ As empirical anomalies accumulate ($N \uparrow$), the descent toward structural 
 
 $$
 \begin{aligned}
-{\Large \mathcal{E} - \mathcal{D}N^2 > 0} &\quad \text{(Homeostatic Equilibrium)} \\
+\mathcal{E} - \mathcal{D}N^2 > 0 &\quad \text{(Homeostatic Equilibrium)} \\
 \Downarrow \qquad\quad & \\
-{\Large \mathcal{E} - \mathcal{D}N^2 \le 0} &\quad \text{(Critical Threshold Breach)}
+\mathcal{E} - \mathcal{D}N^2 \le 0 &\quad \text{(Critical Threshold Breach)}
 \end{aligned}
 $$
 
