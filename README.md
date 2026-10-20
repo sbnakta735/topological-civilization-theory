@@ -87,7 +87,7 @@ When propositional overpressure drives the metabolic margin below zero ($\mathca
 - **4. Indian Subcontinent — Layer 2 *(Algebraic Acceleration)***: Built continuous calculus (Kerala series) as a pure algebraic engine without a 3D geometric scaffold, averting basal shear.
 - **5. Latin West (c. 1500) — $\min \mathcal{E}, \mathcal{D} \uparrow, \max N$ *(Overpressure Breach)***: Fragmentation and print/maritime shocks breached $\mathcal{E} - \mathcal{D}N^2 \le 0$, shearing the bulkhead over the **Euclidean-Gothic Conduit**.
 
-<details>
+<details markdown="1">
 <summary>📊 <b>Deep-Dive: Table 1 — Comparative Summary of Civilizational Homeostatic Regimes</b></summary>
 
 | Civilizational Regime | Primary Operational Lever | Thermodynamic Mechanism | Vertical Scaffold Status | Critical Threshold Outcome |
@@ -117,7 +117,7 @@ Rather than a teleological march toward empiricism, the Western transition was a
 2. **Latent Caisson Assembly *(Aquinas)***: Erecting hollow 3D *Scholastic pillars* anchored to the Euclidean floor beneath a *Theological Cap* ($N \uparrow\uparrow$).
 3. **Axiomatic Water Hammer *(Galileo & Newton)***: Coupling kinematics and *Principia* calculus to shatter the degraded cap and dock the cognitive apparatus directly onto Layer 1 ($\mathcal{D} \to 0$).
 
-<details>
+<details markdown="1">
 <summary>🛠️ <b>Deep-Dive: Table 2 — Three Epochs of Latent Conduit Assembly: Mapping the Structural Parable to Epistemic Network Reality</b></summary>
 
 | Epoch | Local Intent (Defensive Mandate) | Structural Parable (Hydrodynamic) | Epistemic Network Reality (Topological) |
@@ -153,7 +153,7 @@ As our geometric scaffolding buckles beneath hyper-dimensional weight matrices, 
 
 > ***The very moment our empirical fluid vented through the Euclidean-Gothic Conduit into the substrate, that second descent had already begun.***
 
-<details>
+<details markdown="1">
 <summary>⚖️ <b>Summary Table: Traditional Historiography vs. Topological Civilization Theory (Table 3)</b></summary>
 
 | Dimension | Traditional Historiography (Weber, Acemoglu, etc.) | Topological Civilization Theory (TCT) |
@@ -163,25 +163,25 @@ As our geometric scaffolding buckles beneath hyper-dimensional weight matrices, 
 | **Western Dynamic** | Inclusive institutions & intentional structural design | Hydraulic overpressure breach & dissipative baffles |
 | **East Asian Paradigm** | High-level equilibrium trap / Deficit | Homeostatic intake throttling |
 | **Nature of Modernity** | Progressive enlightenment / Geographic windfall | Cognitive docking onto Layer 1 ($\mathbf{V} = \mathcal{O}(1)$) & upward re-encoding |
-| **Civilizational Outcome** | Inevitable destiny of rational humanity | Basal conduit docking ($\dot{N} _ {\mathrm{digested}} \gg \dot{N} _ {\mathrm{pending}}$) vs. Drowning ($N \to 0$) |
+| **Civilizational Outcome** | Inevitable destiny of rational humanity | Basal conduit docking ($\dot{N}_{\mathrm{digested}} \gg \dot{N}_{\mathrm{pending}}$) vs. Drowning ($N \to 0$) |
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>🧮 <b>Appendix: Summary of Governing Information-Thermodynamic Relations in TCT</b></summary>
 
 - **1. The Homeostatic Margin Condition**:
   $$\mathcal{E} - \mathcal{D}N^2 > 0$$
 - **2. The Critical Threshold Breach *(Bulkhead Rupture & Metabolic Asphyxiation)***:
-  $$\mathcal{E} - \mathcal{D}N^2 \le 0 \quad \Longrightarrow \quad \dot{N} _ {\mathrm{digested}} < \dot{N} _ {\mathrm{pending}}$$
+  $$\mathcal{E} - \mathcal{D}N^2 \le 0 \quad \Longrightarrow \quad \dot{N}_{\mathrm{digested}} < \dot{N}_{\mathrm{pending}}$$
 - **3. Chamber Drowning Circuit-Breaker *(Branch A)***:
-  $$\lim _ {t \to T} N(t) = 0$$
+  $$\lim_{t \to T} N(t) = 0$$
 - **4. Decompression Venting Gradient *(Branch B)***:
-  $$\Delta P = P _ {L2} - P _ {L1} \gg 0$$
+  $$\Delta P = P_{L2} - P_{L1} \gg 0$$
 - **5. Topological Superconductivity Condition *(Layer 1 Ocean Interface)***:
-  $$\mathbf{V} = \mathcal{O}(1) \quad (\mathcal{D} \to 0, \; \eta \gg \eta _ c)$$
+  $$\mathbf{V} = \mathcal{O}(1) \quad (\mathcal{D} \to 0, \; \eta \gg \eta_c)$$
 - **6. Superconducting Metabolic Inversion & Partitioned Registry Stability *(Closed-Loop Return)***:
-  $$\mathbf{V} = \mathcal{O}(1) \quad \Longrightarrow \quad \dot{N} _ {\mathrm{digested}} \gg \dot{N} _ {\mathrm{pending}} \quad (\mathcal{D} _ {\mathrm{formal}} \approx 0, \; \mathcal{O}(N^2)\ \mathrm{audit\ bypass})$$
+  $$\mathbf{V} = \mathcal{O}(1) \quad \Longrightarrow \quad \dot{N}_{\mathrm{digested}} \gg \dot{N}_{\mathrm{pending}} \quad (\mathcal{D}_{\mathrm{formal}} \approx 0, \; \mathcal{O}(N^2)\ \mathrm{audit\ bypass})$$
 
 ---
 
@@ -205,6 +205,6 @@ If you build upon or reference **Topological Civilization Theory (TCT)** or **Th
   month        = oct,
   number       = {Working Paper v1.49.7},
   doi          = {10.5281/zenodo.23445726},
-  url          = {[https://doi.org/10.5281/zenodo.23445726](https://doi.org/10.5281/zenodo.23445726)}
+  url          = {https://doi.org/10.5281/zenodo.23445726}
 }
 ```
