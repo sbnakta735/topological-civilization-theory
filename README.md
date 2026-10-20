@@ -211,13 +211,25 @@ If you build upon or reference **Topological Civilization Theory (TCT)** or **Th
 }
 ```
 
-<!-- MathJax 3 LaTeX Math Rendering -->
+<!-- KaTeX Auto-Render + Anti-FOUC (Drop-in Replacement for README.md) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+<style>
+  /* 수식 변환 완료 전까지 날것의 LaTeX 텍스트 깜빡임 숨김 */
+  body:not(.math-ready) { opacity: 0; }
+  body.math-ready { opacity: 1; transition: opacity 0.12s ease-in; }
+</style>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"
+  onload="renderMathInElement(document.body, {
+    delimiters: [
+      {left: '$$', right: '$$', display: true},
+      {left: '$', right: '$', display: false},
+      {left: '\\(', right: '\\)', display: false},
+      {left: '\\[', right: '\\]', display: true}
+    ],
+    throwOnError: false
+  }); document.body.classList.add('math-ready');"></script>
 <script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$', '$$'], ['\\[', '\\]']]
-    }
-  };
+  // 네트워크 장애 대비 1.2초 안전 타임아웃
+  setTimeout(function() { document.body.classList.add('math-ready'); }, 1200);
 </script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
