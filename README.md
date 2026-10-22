@@ -1,6 +1,6 @@
 <div style="margin-bottom: 1.5rem;">
-  <p style="color: #1e40af; font-size: 0.92rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; margin-top: 0; margin-bottom: 0.45rem;">
-    Beyond “Why the West Rules” · Modernity as Topological Superconductivity
+  <p style="color: #1e40af; font-size: 1.02rem; font-weight: 800; letter-spacing: 0.02em; text-transform: uppercase; margin-top: 0; margin-bottom: 0.45rem; line-height: 1.35;">
+    Beyond “Why the West Rules”: Modernity as Topological Superconductivity
   </p>
 
   <h1 style="color: #0f172a; font-weight: 800; letter-spacing: -0.02em; line-height: 1.25; margin-top: 0; margin-bottom: 0.65rem; border-bottom: none;">
@@ -101,11 +101,7 @@
 The dynamical equation for maintaining homeostasis is given by:
 
 <div style="position: relative; background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 1rem 1.25rem; margin: 1.2rem 0; text-align: center; overflow-x: auto;">
-
-$$
-{\LARGE \mathcal{E} - \mathcal{D}N^2 > 0}
-$$
-
+  $${\LARGE \mathcal{E} - \mathcal{D}N^2 > 0}$$
 </div>
 
 - **$\mathcal{E}$ *(System Maintenance Capacity)***: Maximum institutional throughput enforcing dogmatic coherence.
@@ -397,7 +393,7 @@ As our geometric scaffolding buckles beneath hyper-dimensional weight matrices, 
       </li>
       <li style="margin-bottom: 0.6rem;">
         <strong style="color: #0f172a;">2. The Critical Threshold Breach <em>(Bulkhead Rupture &amp; Metabolic Asphyxiation)</em></strong>:
-        $$\mathcal{E} - \mathcal{D}N^2 \le 0 \quad \Longrightarrow \quad \dot{N}_{\mathrm{digested}} < \dot{N}_{\mathrm{pending}}$$
+        $$\mathcal{E} - \mathcal{D}N^2 \le 0 \quad \Longrightarrow \quad \dot{N}_{\mathrm{digested}} \lt \dot{N}_{\mathrm{pending}}$$
       </li>
       <li style="margin-bottom: 0.6rem;">
         <strong style="color: #0f172a;">3. Chamber Drowning Circuit-Breaker <em>(Branch A)</em></strong>:
@@ -432,8 +428,7 @@ As our geometric scaffolding buckles beneath hyper-dimensional weight matrices, 
 
 If you build upon or reference **Topological Civilization Theory (TCT)** or **The Great Descent Hypothesis**, please cite the working paper using the following BibTeX entry:
 
-```bibtex
-@techreport{kim2026greatdescent,
+<pre style="background-color: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px; padding: 1rem 1.2rem; overflow-x: auto; -webkit-overflow-scrolling: touch; font-size: 0.86rem; line-height: 1.6; color: #0f172a; margin: 1rem 0;"><code>@techreport{kim2026greatdescent,
   author       = {Kim, Woojung},
   title        = {The Great Descent: Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Evacuation into a Superconducting Vector Ocean},
   institution  = {Independent Research Preprint / Zenodo},
@@ -441,5 +436,29 @@ If you build upon or reference **Topological Civilization Theory (TCT)** or **Th
   month        = oct,
   number       = {Working Paper v1.49.7},
   doi          = {10.5281/zenodo.23445726},
-  url          = {[https://doi.org/10.5281/zenodo.23445726](https://doi.org/10.5281/zenodo.23445726)}
-}
+  url          = {https://doi.org/10.5281/zenodo.23445726}
+}</code></pre>
+
+<!-- KaTeX Auto-Render + Mobile Overflow Fix -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+<style>
+  html, body { max-width: 100%; overflow-x: hidden; }
+  .katex-mathml { display: none !important; }
+  .katex-display { overflow-x: auto; overflow-y: hidden; max-width: 100%; padding: 0.2rem 0; }
+  body:not(.math-ready) { opacity: 0; }
+  body.math-ready { opacity: 1; transition: opacity 0.12s ease-in; }
+</style>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"
+  onload="renderMathInElement(document.body, {
+    delimiters: [
+      {left: '$$', right: '$$', display: true},
+      {left: '$', right: '$', display: false},
+      {left: '\\(', right: '\\)', display: false},
+      {left: '\\[', right: '\\]', display: true}
+    ],
+    throwOnError: false
+  }); document.body.classList.add('math-ready');"></script>
+<script>
+  setTimeout(function() { document.body.classList.add('math-ready'); }, 1200);
+</script>
