@@ -30,8 +30,6 @@
   </div>
 </blockquote>
 
-### Three Directional Reversals in Great Divergence Historiography
-
 <h3 style="color: #0f172a; font-weight: 700; font-size: 1.2rem; margin-top: 2.2rem; margin-bottom: 0.85rem;">
   Three Directional Reversals in Great Divergence Historiography
 </h3>
