@@ -14,14 +14,17 @@
     A Comparative Information-Thermodynamic Analysis of Civilizational Epistemic Architectures
   </p>
 
-  <p style="margin: 0;">
-    <a href="https://doi.org/10.5281/zenodo.23445726" style="text-decoration: none; margin-right: 0.4rem;">
-      <img alt="DOI" src="https://zenodo.org/badge/DOI/10.5281/zenodo.23445726.svg" style="vertical-align: middle;">
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.55rem; margin-top: 0.2rem;">
+    <a href="https://doi.org/10.5281/zenodo.23445726" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; background-color: #0f172a; color: #ffffff; font-size: 0.82rem; font-weight: 600; padding: 0.32rem 0.75rem; border-radius: 5px; text-decoration: none; letter-spacing: 0.01em; box-shadow: 0 1px 2px rgba(15, 23, 42, 0.12);">
+      📄 Read Full Paper (PDF · v1.49.7) &nbsp;↗
     </a>
-    <a href="https://creativecommons.org/licenses/by/4.0/" style="text-decoration: none;">
-      <img alt="License: CC BY 4.0" src="https://img.shields.io/badge/License-CC_BY_4.0-EF9421?logo=creative-commons&amp;logoColor=white" style="vertical-align: middle;">
+    <a href="https://doi.org/10.5281/zenodo.23445726" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; text-decoration: none;">
+      <img alt="DOI" src="https://zenodo.org/badge/DOI/10.5281/zenodo.23445726.svg" style="display: block;">
     </a>
-  </p>
+    <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; text-decoration: none;">
+      <img alt="License: CC BY 4.0" src="https://img.shields.io/badge/License-CC_BY_4.0-EF9421?logo=creative-commons&amp;logoColor=white" style="display: block;">
+    </a>
+  </div>
 </div>
 
 <blockquote style="margin: 1.8rem 0 2.2rem 0; padding: 1.3rem 1.5rem; background: linear-gradient(to right, #f8fafc, #ffffff); border: 1px solid #e2e8f0; border-left: 4px solid #1e3a8a; border-radius: 6px; color: #334155; font-size: 1.02rem; line-height: 1.75; font-style: normal; box-shadow: 0 1px 2px rgba(15, 23, 42, 0.03);">
