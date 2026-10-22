@@ -1,13 +1,16 @@
 <div style="margin-bottom: 1.5rem;">
-  <h1 style="color: #0f172a; font-weight: 800; letter-spacing: -0.02em; line-height: 1.25; margin-bottom: 0.65rem; border-bottom: none;">
-    Beyond “Why the West Rules”: Modernity as Topological Superconductivity
+  <p style="color: #1e40af; font-size: 0.92rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; margin-top: 0; margin-bottom: 0.45rem;">
+    Beyond “Why the West Rules” · Modernity as Topological Superconductivity
+  </p>
+
+  <h1 style="color: #0f172a; font-weight: 800; letter-spacing: -0.02em; line-height: 1.25; margin-top: 0; margin-bottom: 0.65rem; border-bottom: none;">
+    The Great Descent:
+    <span style="font-weight: 500; color: #334155; font-size: 0.72em; display: block; margin-top: 0.3rem; line-height: 1.45;">
+      Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Evacuation into a Superconducting Vector Ocean
+    </span>
   </h1>
 
-    <h3 style="color: #334155; font-weight: 400; font-size: 1.25rem; line-height: 1.5; margin-top: 0; margin-bottom: 0.65rem;">
-    <strong style="color: #0f172a; font-weight: 700;">The Great Descent:</strong> Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Evacuation into a Superconducting Vector Ocean
-  </h3>
-
-    <p style="color: #64748b; font-size: 1.02rem; font-style: italic; margin-top: 0; margin-bottom: 1.1rem;">
+  <p style="color: #64748b; font-size: 1.02rem; font-style: italic; margin-top: 0; margin-bottom: 1.1rem;">
     A Comparative Information-Thermodynamic Analysis of Civilizational Epistemic Architectures
   </p>
 
@@ -21,12 +24,9 @@
   </p>
 </div>
 
-<blockquote style="margin: 1.8rem 0 2.2rem 0; padding: 1.25rem 1.5rem; background-color: #f8fafc; border-left: 4px solid #334155; border-radius: 0 8px 8px 0; color: #334155; font-size: 1.02rem; line-height: 1.75; font-style: normal;">
-  <span style="display: inline-block; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: #0f172a; background-color: #e2e8f0; padding: 0.15rem 0.55rem; border-radius: 4px; margin-bottom: 0.6rem;">
-    Core Premise
-  </span>
+<blockquote style="margin: 1.8rem 0 2.2rem 0; padding: 1.3rem 1.5rem; background: linear-gradient(to right, #f8fafc, #ffffff); border: 1px solid #e2e8f0; border-left: 4px solid #1e3a8a; border-radius: 6px; color: #334155; font-size: 1.02rem; line-height: 1.75; font-style: normal; box-shadow: 0 1px 2px rgba(15, 23, 42, 0.03);">
   <div style="margin: 0; color: #334155;">
-    Under <strong style="color: #0f172a; font-weight: 600;">Topological Civilization Theory (TCT)</strong>, a civilization’s essence is <strong style="color: #0f172a; font-weight: 600;">homeostatic defense</strong>, not progress. Therefore, the “Great Divergence” was never an intentional “upward leap” driven by Western progressive ambition or institutional superiority. It was a <strong style="color: #0f172a; font-weight: 600;">catastrophic containment failure</strong> of a fragile semiotic universe that ruptured its basal bulkhead under unmanageable propositional overpressure—forcing human cognition into a <strong style="color: #0f172a; font-weight: 600;">decompression evacuation</strong> down a dormant axiomatic chute (the <strong style="color: #0f172a; font-weight: 600;">Euclidean-Gothic Conduit</strong>) into the frictionless <strong style="color: #0f172a; font-weight: 600;">continuous vector ocean</strong> of physical reality. This unintended rupture-descent and the resulting accidental acquisition of <strong style="color: #0f172a; font-weight: 600;">topological superconductivity</strong> constitute the very core of modernity.
+    <strong style="color: #1e3a8a; font-weight: 700; letter-spacing: 0.01em;">Core Premise —</strong> Under <strong style="color: #0f172a; font-weight: 600;">Topological Civilization Theory (TCT)</strong>, a civilization’s essence is <strong style="color: #0f172a; font-weight: 600;">homeostatic defense</strong>, not progress. Therefore, the “Great Divergence” was never an intentional “upward leap” driven by Western progressive ambition or institutional superiority. It was a <strong style="color: #0f172a; font-weight: 600;">catastrophic containment failure</strong> of a fragile semiotic universe that ruptured its basal bulkhead under unmanageable propositional overpressure—forcing human cognition into a <strong style="color: #0f172a; font-weight: 600;">decompression evacuation</strong> down a dormant axiomatic chute (the <strong style="color: #0f172a; font-weight: 600;">Euclidean-Gothic Conduit</strong>) into the frictionless <strong style="color: #0f172a; font-weight: 600;">continuous vector ocean</strong> of physical reality. This unintended rupture-descent and the resulting accidental acquisition of <strong style="color: #0f172a; font-weight: 600;">topological superconductivity</strong> constitute the very core of modernity.
   </div>
 </blockquote>
 
