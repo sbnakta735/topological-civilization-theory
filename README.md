@@ -1,13 +1,16 @@
 <div style="margin-bottom: 1.8rem;">
-  <h1 style="color: #0f172a; font-weight: 800; letter-spacing: -0.02em; line-height: 1.25; margin-bottom: 0.75rem; border-bottom: none;">
-    Beyond “Why the West Rules”: Modernity as Topological Superconductivity
+  <p style="color: #1e40af; font-size: 0.95rem; font-weight: 700; letter-spacing: 0.03em; text-transform: uppercase; margin-bottom: 0.5rem;">
+    Beyond “Why the West Rules” · Modernity as Topological Superconductivity
+  </p>
+
+  <h1 style="color: #0f172a; font-weight: 800; letter-spacing: -0.02em; line-height: 1.25; margin-top: 0; margin-bottom: 0.75rem; border-bottom: none;">
+    The Great Descent
+    <span style="display: block; font-size: 0.68em; font-weight: 500; color: #334155; margin-top: 0.35rem; line-height: 1.4;">
+      Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Evacuation into a Superconducting Vector Ocean
+    </span>
   </h1>
 
-  <h3 style="color: #334155; font-weight: 400; line-height: 1.45; margin-top: 0; margin-bottom: 0.75rem;">
-    <strong style="color: #1e293b; font-weight: 700;">The Great Descent:</strong> Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Evacuation into a Superconducting Vector Ocean
-  </h3>
-
-  <p style="color: #64748b; font-size: 1.05rem; font-style: italic; margin-top: 0; margin-bottom: 1.2rem;">
+  <p style="color: #64748b; font-size: 1.02rem; font-style: italic; margin-top: 0.6rem; margin-bottom: 1.2rem;">
     A Comparative Information-Thermodynamic Analysis of Civilizational Epistemic Architectures
   </p>
 </div>
