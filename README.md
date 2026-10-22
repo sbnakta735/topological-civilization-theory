@@ -90,11 +90,11 @@ $$
 <figure style="margin: 2rem 0; padding: 1.25rem 1.25rem 1rem 1.25rem; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 1px 3px rgba(15, 23, 42, 0.03); text-align: center;">
   <img 
     src="./assets/fig2_bifurcation.png" 
-    alt="Figure 1: Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure." 
+    alt="Figure 2: Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure." 
     style="width: 100%; height: auto; border-radius: 4px; display: block; margin: 0 auto;"
   >
   <figcaption style="margin-top: 0.9rem; padding-top: 0.75rem; border-top: 1px solid #f1f5f9; color: #475569; font-size: 0.92rem; line-height: 1.5; text-align: center;">
-    <strong style="color: #0f172a; font-weight: 700;">Figure 1</strong> &nbsp;|&nbsp; Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure.
+    <strong style="color: #0f172a; font-weight: 700;">Figure 2</strong> &nbsp;|&nbsp; Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure.
   </figcaption>
 </figure>
 
@@ -113,11 +113,11 @@ When propositional overpressure drives the metabolic margin below zero ($\mathca
 <figure style="margin: 2rem 0; padding: 1.25rem 1.25rem 1rem 1.25rem; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 1px 3px rgba(15, 23, 42, 0.03); text-align: center;">
   <img 
     src="./assets/fig3_regimes.png" 
-    alt="Figure 1: Parametric Bifurcation of Civilizational Regimes under the Homeostatic Equation." 
+    alt="Figure 3: Parametric Bifurcation of Civilizational Regimes under the Homeostatic Equation." 
     style="max-width: 88%; height: auto; border-radius: 4px; display: block; margin: 0 auto;"
   >
   <figcaption style="margin-top: 0.9rem; padding-top: 0.75rem; border-top: 1px solid #f1f5f9; color: #475569; font-size: 0.92rem; line-height: 1.5; text-align: center;">
-    <strong style="color: #0f172a; font-weight: 700;">Figure 1</strong> &nbsp;|&nbsp; Parametric Bifurcation of Civilizational Regimes under the Homeostatic Equation.
+    <strong style="color: #0f172a; font-weight: 700;">Figure 3</strong> &nbsp;|&nbsp; Parametric Bifurcation of Civilizational Regimes under the Homeostatic Equation.
   </figcaption>
 </figure>
 
@@ -151,11 +151,11 @@ When propositional overpressure drives the metabolic margin below zero ($\mathca
 <figure style="margin: 2rem 0; padding: 1.25rem 1.25rem 1rem 1.25rem; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 1px 3px rgba(15, 23, 42, 0.03); text-align: center;">
   <img 
     src="./assets/fig4_conduit.png" 
-    alt="Figure 1: Three-Stroke Blind Assembly of the Euclidean-Gothic Conduit, culminating in Basal Bulkhead Rupture and Layer 1 Docking." 
+    alt="Figure 4: Three-Stroke Blind Assembly of the Euclidean-Gothic Conduit, culminating in Basal Bulkhead Rupture and Layer 1 Docking." 
     style="width: 100%; height: auto; border-radius: 4px; display: block; margin: 0 auto;"
   >
   <figcaption style="margin-top: 0.9rem; padding-top: 0.75rem; border-top: 1px solid #f1f5f9; color: #475569; font-size: 0.92rem; line-height: 1.5; text-align: center;">
-    <strong style="color: #0f172a; font-weight: 700;">Figure 1</strong> &nbsp;|&nbsp; Three-Stroke Blind Assembly of the Euclidean-Gothic Conduit, culminating in Basal Bulkhead Rupture and Layer 1 Docking.
+    <strong style="color: #0f172a; font-weight: 700;">Figure 4</strong> &nbsp;|&nbsp; Three-Stroke Blind Assembly of the Euclidean-Gothic Conduit, culminating in Basal Bulkhead Rupture and Layer 1 Docking.
   </figcaption>
 </figure>
 
@@ -187,7 +187,7 @@ Rather than a teleological march toward empiricism, the Western transition was a
     style="width: 100%; height: auto; border-radius: 4px; display: block; margin: 0 auto;"
   >
   <figcaption style="margin-top: 0.9rem; padding-top: 0.75rem; border-top: 1px solid #f1f5f9; color: #475569; font-size: 0.92rem; line-height: 1.5; text-align: center;">
-    <strong style="color: #0f172a; font-weight: 700;">Figure 1</strong> &nbsp;|&nbsp; The Closed-Loop Topological Feedback Cycle: Downward Digestion at Layer 1 and Upward Proliferation across Layer 2 and Layer 3.
+    <strong style="color: #0f172a; font-weight: 700;">Figure 5</strong> &nbsp;|&nbsp; The Closed-Loop Topological Feedback Cycle: Downward Digestion at Layer 1 and Upward Proliferation across Layer 2 and Layer 3.
   </figcaption>
 </figure>
 
