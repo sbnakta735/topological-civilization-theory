@@ -168,7 +168,13 @@ When propositional overpressure drives the metabolic margin below zero ($\mathca
 - **4. Indian Subcontinent — Layer 2 *(Algebraic Acceleration)***: Built continuous calculus (Kerala series) as a pure algebraic engine without a 3D geometric scaffold, averting basal shear.
 - **5. Latin West (c. 1500) — $\min \mathcal{E}, \mathcal{D} \uparrow, \max N$ *(Overpressure Breach)***: Fragmentation and print/maritime shocks breached $\mathcal{E} - \mathcal{D}N^2 \le 0$, shearing the bulkhead over the **Euclidean-Gothic Conduit**.
 
-<details markdown="1">
+<details style="margin: 1.75rem 0; background-color: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px; padding: 0.85rem 1.2rem; transition: all 0.2s ease;">
+  <summary style="cursor: pointer; font-weight: 700; color: #0f172a; font-size: 0.98rem; letter-spacing: -0.01em; outline: none; list-style-position: inside;">
+    📊 <span style="margin-left: 0.25rem;">Deep-Dive: Table 1 — Comparative Summary of Civilizational Homeostatic Regimes</span>
+    <span style="float: right; font-size: 0.8rem; font-weight: 500; color: #64748b;">Click to expand</span>
+  </summary>
+
+  <div style="margin-top: 1rem; padding-top: 1rem; border-top: 1px solid #e2e8f0; overflow-x: auto;">
 <summary>📊 <b>Deep-Dive: Table 1 — Comparative Summary of Civilizational Homeostatic Regimes</b></summary>
 
 | Civilizational Regime | Primary Operational Lever | Thermodynamic Mechanism | Vertical Scaffold Status | Critical Threshold Outcome |
@@ -180,7 +186,7 @@ When propositional overpressure drives the metabolic margin below zero ($\mathca
 | **Western Rome**<br>*(5th Century)* | $\mathcal{E} \downarrow, N \uparrow$<br>(Rigid $\mathcal{D}$) | **Scissors crisis**:<br>Administrative exhaustion vs. proposition overload | Absent<br>(Uncoupled horizontal bedrock) | Catastrophic vessel implosion<br>($N \to 0$, Decivilization) |
 | **Indian Subcontinent** | Layer 2 Horizontal Algebraic Acceleration | **Pure algebraic-algorithmic horizontal optimization, omitting spatial scaffold** | Absent<br>(Floating network devoid of geometric load capacity) | Localized computational liberation achieved /<br>Bulkhead rupture averted |
 | **Latin West**<br>*(c. 1500)* | $\min \mathcal{E}, \mathcal{D} \uparrow, \max N$ | $\mathcal{E} - \mathcal{D}N^2 \le 0$<br>(Basal bulkhead fracture via data flood) | Coupled<br>(Euclidean-Gothic Conduit) | Catastrophic overpressure breach &<br>Decompression Descent |
-
+  </div>
 </details>
 
 ---
