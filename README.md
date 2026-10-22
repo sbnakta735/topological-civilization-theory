@@ -87,10 +87,16 @@ $$
 \end{aligned}
 $$
 
-<div align="center">
-  <img src="./assets/fig2_bifurcation.png" alt="Figure 2: Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure" width="100%">
-  <p align="center"><sub><b>Figure 2</b>: Tripartite Bifurcation of Civilizational Containment Failure under Propositional Overpressure.</sub></p>
-</div>
+<figure style="margin: 2rem 0; padding: 1.25rem 1.25rem 1rem 1.25rem; background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 1px 3px rgba(15, 23, 42, 0.03); text-align: center;">
+  <img 
+    src="./assets/fig2_bifurcation.png" 
+    alt="Figure 1: Topological Cross-Section of the Three-Tiered Civilizational Information Architecture" 
+    style="width: 100%; height: auto; border-radius: 4px; display: block; margin: 0 auto;"
+  >
+  <figcaption style="margin-top: 0.9rem; padding-top: 0.75rem; border-top: 1px solid #f1f5f9; color: #475569; font-size: 0.92rem; line-height: 1.5; text-align: center;">
+    <strong style="color: #0f172a; font-weight: 700;">Figure 1</strong> &nbsp;|&nbsp; Topological Cross-Section of the Three-Tiered Civilizational Information Architecture.
+  </figcaption>
+</figure>
 
 ### Tripartite Bifurcation at $\mathcal{E} - \mathcal{D}N^2 \le 0$
 
