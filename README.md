@@ -426,20 +426,26 @@ As our geometric scaffolding buckles beneath hyper-dimensional weight matrices, 
 
 ---
 
-## 📖 Full Paper, Citation & License
+## 📖 Full Working Paper & Citation
 
-If you build upon or reference **Topological Civilization Theory (TCT)** or **The Great Descent Hypothesis**, you can access the full working paper on Zenodo and cite it using the BibTeX entry below:
-
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.65rem; margin: 1.1rem 0 1.25rem 0;">
-  <a href="https://doi.org/10.5281/zenodo.23445726" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; background-color: #0f172a; color: #ffffff; font-size: 0.86rem; font-weight: 600; padding: 0.45rem 0.95rem; border-radius: 6px; text-decoration: none; letter-spacing: 0.01em; box-shadow: 0 1px 2px rgba(15, 23, 42, 0.12);">
-    📄 Read Full Working Paper on Zenodo (PDF · v1.49.7) &nbsp;↗
-  </a>
-  <span style="color: #64748b; font-size: 0.85rem;">
-    DOI: <a href="https://doi.org/10.5281/zenodo.23445726" target="_blank" rel="noopener noreferrer" style="color: #1e40af; text-decoration: none; font-weight: 600;">10.5281/zenodo.23445726</a>
-    &nbsp;·&nbsp;
-    License: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer" style="color: #475569; text-decoration: none;">CC BY 4.0</a>
-  </span>
+<!-- 원문 안내 및 다운로드 슬레이트 카드 -->
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem; background: linear-gradient(to right, #f8fafc, #ffffff); border: 1px solid #cbd5e1; border-left: 4px solid #1e3a8a; border-radius: 8px; padding: 1.15rem 1.35rem; margin: 1.2rem 0 1.5rem 0; box-sizing: border-box;">
+  <div style="flex: 1 1 280px;">
+    <div style="color: #0f172a; font-weight: 700; font-size: 0.98rem; margin-bottom: 0.25rem;">
+      Working Paper v1.49.7 — Full Monographic Preprint
+    </div>
+    <div style="color: #475569; font-size: 0.88rem; line-height: 1.5;">
+      Complete mathematical derivations, historical edge-cases, and falsification boundaries are available in the full PDF on Zenodo.
+    </div>
+  </div>
+  <div style="flex-shrink: 0;">
+    <a href="https://doi.org/10.5281/zenodo.23445726" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; background-color: #0f172a; color: #ffffff; font-size: 0.86rem; font-weight: 600; padding: 0.5rem 1rem; border-radius: 6px; text-decoration: none; letter-spacing: 0.01em; box-shadow: 0 1px 2px rgba(15, 23, 42, 0.12);">
+      📄 Read Full Paper (Zenodo PDF) &nbsp;↗
+    </a>
+  </div>
 </div>
+
+If you build upon or reference **Topological Civilization Theory (TCT)** or **The Great Descent Hypothesis**, please cite the working paper using the following BibTeX entry:
 
 <pre style="background-color: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px; padding: 1rem 1.2rem; overflow-x: auto; -webkit-overflow-scrolling: touch; font-size: 0.86rem; line-height: 1.6; color: #0f172a; margin: 1rem 0;"><code>@techreport{kim2026greatdescent,
   author       = {Kim, Woojung},
