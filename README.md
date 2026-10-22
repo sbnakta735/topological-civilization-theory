@@ -1,6 +1,6 @@
 <div style="margin-bottom: 1.5rem;">
-  <p style="color: #1e40af; font-size: 1.02rem; font-weight: 800; letter-spacing: 0.02em; text-transform: uppercase; margin-top: 0; margin-bottom: 0.45rem; line-height: 1.35;">
-    Beyond “Why the West Rules”: Modernity as Topological Superconductivity
+  <p style="color: #1e40af; font-size: 0.92rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; margin-top: 0; margin-bottom: 0.45rem;">
+    Beyond “Why the West Rules” · Modernity as Topological Superconductivity
   </p>
 
   <h1 style="color: #0f172a; font-weight: 800; letter-spacing: -0.02em; line-height: 1.25; margin-top: 0; margin-bottom: 0.65rem; border-bottom: none;">
