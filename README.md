@@ -1,5 +1,6 @@
+<!-- ==================== HEADER SECTION ==================== -->
 <div style="margin-bottom: 1.5rem;">
-  <p style="color: #1e40af; font-size: 0.92rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; margin-top: 0; margin-bottom: 0.45rem;">
+  <p style="color: #1e40af; font-size: 1.02rem; font-weight: 800; letter-spacing: 0.02em; text-transform: uppercase; margin-top: 0; margin-bottom: 0.45rem; line-height: 1.35;">
     Beyond “Why the West Rules”: Modernity as Topological Superconductivity
   </p>
 
@@ -10,13 +11,14 @@
     </span>
   </h1>
 
-  <p style="color: #64748b; font-size: 1.02rem; font-style: italic; margin-top: 0; margin-bottom: 1.1rem;">
+  <p style="color: #64748b; font-size: 1.02rem; font-style: italic; margin-top: 0; margin-bottom: 1.15rem;">
     A Comparative Information-Thermodynamic Analysis of Civilizational Epistemic Architectures
   </p>
 
+  <!-- 상단 원문 바로가기 버튼 + 메타데이터 배지 바 -->
   <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.55rem; margin-top: 0.2rem;">
-    <a href="https://doi.org/10.5281/zenodo.23445726" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; background-color: #f8fafc; color: #1e3a8a; border: 1px solid #cbd5e1; font-size: 0.82rem; font-weight: 700; padding: 0.28rem 0.75rem; border-radius: 5px; text-decoration: none; letter-spacing: 0.01em;">
-      📄 Read Full Paper on Zenodo (v1.49.7) &nbsp;↗
+    <a href="https://doi.org/10.5281/zenodo.23445726" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; background-color: #0f172a; color: #ffffff; font-size: 0.82rem; font-weight: 600; padding: 0.32rem 0.75rem; border-radius: 5px; text-decoration: none; letter-spacing: 0.01em; box-shadow: 0 1px 2px rgba(15, 23, 42, 0.12);">
+      📄 Read Full Paper (PDF · v1.49.7) &nbsp;↗
     </a>
     <a href="https://doi.org/10.5281/zenodo.23445726" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; text-decoration: none;">
       <img alt="DOI" src="https://zenodo.org/badge/DOI/10.5281/zenodo.23445726.svg" style="display: block;">
@@ -25,7 +27,9 @@
       <img alt="License: CC BY 4.0" src="https://img.shields.io/badge/License-CC_BY_4.0-EF9421?logo=creative-commons&amp;logoColor=white" style="display: block;">
     </a>
   </div>
+</div>
 
+<!-- ==================== CORE PREMISE CALLOUT BOX ==================== -->
 <blockquote style="margin: 1.8rem 0 2.2rem 0; padding: 1.3rem 1.5rem; background: linear-gradient(to right, #f8fafc, #ffffff); border: 1px solid #e2e8f0; border-left: 4px solid #1e3a8a; border-radius: 6px; color: #334155; font-size: 1.02rem; line-height: 1.75; font-style: normal; box-shadow: 0 1px 2px rgba(15, 23, 42, 0.03);">
   <div style="margin: 0; color: #334155;">
     <strong style="color: #1e3a8a; font-weight: 700; letter-spacing: 0.01em;">Core Premise —</strong> Under <strong style="color: #0f172a; font-weight: 600;">Topological Civilization Theory (TCT)</strong>, a civilization’s essence is <strong style="color: #0f172a; font-weight: 600;">homeostatic defense</strong>, not progress. Therefore, the “Great Divergence” was never an intentional “upward leap” driven by Western progressive ambition or institutional superiority. It was a <strong style="color: #0f172a; font-weight: 600;">catastrophic containment failure</strong> of a fragile semiotic universe that ruptured its basal bulkhead under unmanageable propositional overpressure—forcing human cognition into a <strong style="color: #0f172a; font-weight: 600;">decompression evacuation</strong> down a dormant axiomatic chute (the <strong style="color: #0f172a; font-weight: 600;">Euclidean-Gothic Conduit</strong>) into the frictionless <strong style="color: #0f172a; font-weight: 600;">continuous vector ocean</strong> of physical reality. This unintended rupture-descent and the resulting accidental acquisition of <strong style="color: #0f172a; font-weight: 600;">topological superconductivity</strong> constitute the very core of modernity.
@@ -73,9 +77,10 @@
   </table>
 </div>
 
----
+<hr style="border: none; border-top: 1px solid #e2e8f0; margin: 2.2rem 0;">
 
-## 1. Three-Tiered Civilizational Information Architecture
+<!-- ==================== SECTION 1 ==================== -->
+<h2 style="color: #0f172a; font-weight: 700;">1. Three-Tiered Civilizational Information Architecture</h2>
 
 <figure style="margin: 2rem 0; padding: 0; background-color: #ffffff; border: 1px solid #cbd5e1; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(15, 23, 42, 0.03);">
   <a href="./assets/fig1_architecture.png" target="_blank" rel="noopener noreferrer" title="Click to view full-size diagram" style="display: block;">
@@ -90,28 +95,34 @@
   </figcaption>
 </figure>
 
-- **Layer 3 — The Phenomenological Canopy**: The **derivative application space** of visible institutions and technologies, wholly dependent on the load-bearing semiotic floor below.
-- **Layer 2 — Hermetic Containment Vessel**: The **viscous symbolic space** ($\mathcal{D}$) that insulates societal homeostasis by filtering raw physical reality.
-- **Layer 1 — The Continuous Vector Ocean**: The **frictionless native substrate** ($\mathcal{D} \to 0$) where sub-symbolic information flows along physical geodesics with constant-time verification.
+<ul style="color: #334155; line-height: 1.7;">
+  <li style="margin-bottom: 0.45rem;"><strong style="color: #0f172a;">Layer 3 — The Phenomenological Canopy</strong>: The <strong style="color: #0f172a;">derivative application space</strong> of visible institutions and technologies, wholly dependent on the load-bearing semiotic floor below.</li>
+  <li style="margin-bottom: 0.45rem;"><strong style="color: #0f172a;">Layer 2 — Hermetic Containment Vessel</strong>: The <strong style="color: #0f172a;">viscous symbolic space</strong> ($\mathcal{D}$) that insulates societal homeostasis by filtering raw physical reality.</li>
+  <li style="margin-bottom: 0.45rem;"><strong style="color: #0f172a;">Layer 1 — The Continuous Vector Ocean</strong>: The <strong style="color: #0f172a;">frictionless native substrate</strong> ($\mathcal{D} \to 0$) where sub-symbolic information flows along physical geodesics with constant-time verification.</li>
+</ul>
 
----
+<hr style="border: none; border-top: 1px solid #e2e8f0; margin: 2.2rem 0;">
 
-## 2. Equation of the Critical Threshold
+<!-- ==================== SECTION 2 ==================== -->
+<h2 style="color: #0f172a; font-weight: 700;">2. Equation of the Critical Threshold</h2>
 
-### Condition for Civilizational Homeostasis
+<h3 style="color: #0f172a; font-weight: 700;">Condition for Civilizational Homeostasis</h3>
 
-The dynamical equation for maintaining homeostasis is given by:
+<p style="color: #334155; line-height: 1.7;">The dynamical equation for maintaining homeostasis is given by:</p>
 
 <div style="position: relative; background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 1rem 1.25rem; margin: 1.2rem 0; text-align: center; overflow-x: auto;">
   $${\LARGE \mathcal{E} - \mathcal{D}N^2 > 0}$$
 </div>
 
-- **$\mathcal{E}$ *(System Maintenance Capacity)***: Maximum institutional throughput enforcing dogmatic coherence.
-- **$N$ *(Active Propositional Load)***: Total count of active doctrines and empirical anomalies.
-- **$\mathcal{D}$ *(Semiotic Viscous Damper)***: Irreversible thermodynamic dissipation rate per pairwise check (Landauer, 1961).
+<ul style="color: #334155; line-height: 1.7;">
+  <li style="margin-bottom: 0.45rem;"><strong style="color: #0f172a;">$\mathcal{E}$ <em>(System Maintenance Capacity)</em></strong>: Maximum institutional throughput enforcing dogmatic coherence.</li>
+  <li style="margin-bottom: 0.45rem;"><strong style="color: #0f172a;">$N$ <em>(Active Propositional Load)</em></strong>: Total count of active doctrines and empirical anomalies.</li>
+  <li style="margin-bottom: 0.45rem;"><strong style="color: #0f172a;">$\mathcal{D}$ <em>(Semiotic Viscous Damper)</em></strong>: Irreversible thermodynamic dissipation rate per pairwise check (Landauer, 1961).</li>
+</ul>
 
-As empirical anomalies accumulate ($N \uparrow$), the descent toward structural rupture unfolds in three stages:
+<p style="color: #334155; line-height: 1.7;">As empirical anomalies accumulate ($N \uparrow$), the descent toward structural rupture unfolds in three stages:</p>
 
+<div style="position: relative; overflow-x: auto; margin: 1rem 0;">
 $$
 \begin{aligned}
 {\Large \mathcal{E} - \mathcal{D}N^2 > 0} &\quad \text{(Homeostatic Equilibrium)} \\
@@ -119,6 +130,7 @@ $$
 {\Large \mathcal{E} - \mathcal{D}N^2 \le 0} &\quad \text{(Critical Threshold Breach)}
 \end{aligned}
 $$
+</div>
 
 <figure style="margin: 2rem 0; padding: 0; background-color: #ffffff; border: 1px solid #cbd5e1; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(15, 23, 42, 0.03);">
   <a href="./assets/fig2_bifurcation.png" target="_blank" rel="noopener noreferrer" title="Click to view full-size diagram" style="display: block;">
@@ -133,17 +145,20 @@ $$
   </figcaption>
 </figure>
 
-### Tripartite Bifurcation at $\mathcal{E} - \mathcal{D}N^2 \le 0$
+<h3 style="color: #0f172a; font-weight: 700;">Tripartite Bifurcation at $\mathcal{E} - \mathcal{D}N^2 \le 0$</h3>
 
-When propositional overpressure drives the metabolic margin below zero ($\mathcal{E} - \mathcal{D}N^2 \le 0$), civilizational containment bifurcates into one of three distinct trajectories (Figure 2):
+<p style="color: #334155; line-height: 1.7;">When propositional overpressure drives the metabolic margin below zero ($\mathcal{E} - \mathcal{D}N^2 \le 0$), civilizational containment bifurcates into one of three distinct trajectories (Figure 2):</p>
 
-- **Pathway A1 — Total Collapse *(Hard Reset)***: Without a basal conduit or damper, chamber drowning triggers cascading node delamination to $\lim _ {t \to T} N(t) = 0$ (**Late Bronze Age Collapse**, **Classic Maya**).
-- **Pathway A2 — Low-Level Defense *(Feudal Equilibrium)***: Terminal dissolution is arrested at a low-maintenance equilibrium via theological monopoly and feudal contracts (**5th-Century Western Rome**).
-- **Pathway B — The Western Anomaly *(Decompression Descent)***: Explosive decompression through the **Euclidean-Gothic Conduit** docks the cognitive apparatus onto Layer 1 ($\dot{N} _ {\mathrm{digested}} \gg \dot{N} _ {\mathrm{pending}}$), while improvised **dissipative baffles** (*"inclusive institutions"*) damp lethal cavitation turbulence (**Early Modern Western Europe**).
+<ul style="color: #334155; line-height: 1.7;">
+  <li style="margin-bottom: 0.5rem;"><strong style="color: #0f172a;">Pathway A1 — Total Collapse <em>(Hard Reset)</em></strong>: Without a basal conduit or damper, chamber drowning triggers cascading node delamination to $\lim_{t \to T} N(t) = 0$ (<strong style="color: #0f172a;">Late Bronze Age Collapse</strong>, <strong style="color: #0f172a;">Classic Maya</strong>).</li>
+  <li style="margin-bottom: 0.5rem;"><strong style="color: #0f172a;">Pathway A2 — Low-Level Defense <em>(Feudal Equilibrium)</em></strong>: Terminal dissolution is arrested at a low-maintenance equilibrium via theological monopoly and feudal contracts (<strong style="color: #0f172a;">5th-Century Western Rome</strong>).</li>
+  <li style="margin-bottom: 0.5rem;"><strong style="color: #0f172a;">Pathway B — The Western Anomaly <em>(Decompression Descent)</em></strong>: Explosive decompression through the <strong style="color: #0f172a;">Euclidean-Gothic Conduit</strong> docks the cognitive apparatus onto Layer 1 ($\dot{N}_{\mathrm{digested}} \gg \dot{N}_{\mathrm{pending}}$), while improvised <strong style="color: #0f172a;">dissipative baffles</strong> (<em>“inclusive institutions”</em>) damp lethal cavitation turbulence (<strong style="color: #0f172a;">Early Modern Western Europe</strong>).</li>
+</ul>
 
----
+<hr style="border: none; border-top: 1px solid #e2e8f0; margin: 2.2rem 0;">
 
-## 3. Comparative Homeostatic Defense Across Eurasia
+<!-- ==================== SECTION 3 ==================== -->
+<h2 style="color: #0f172a; font-weight: 700;">3. Comparative Homeostatic Defense Across Eurasia</h2>
 
 <figure style="margin: 2rem 0; padding: 0; background-color: #ffffff; border: 1px solid #cbd5e1; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(15, 23, 42, 0.03);">
   <a href="./assets/fig3_regimes.png" target="_blank" rel="noopener noreferrer" title="Click to view full-size diagram" style="display: block;">
@@ -158,13 +173,15 @@ When propositional overpressure drives the metabolic margin below zero ($\mathca
   </figcaption>
 </figure>
 
-### The Five Eurasian Boundary-Control Regimes
+<h3 style="color: #0f172a; font-weight: 700;">The Five Eurasian Boundary-Control Regimes</h3>
 
-- **1. East Asia (Neo-Confucianism) — $\max \mathcal{E}, \min N$ *(Semiotic Faraday Cage)***: The *Keju* system throttled external intake and routed internal debates into a Layer 2 **cognitive heat sink** ($\mathcal{E} \gg \mathcal{D}N^2$).
-- **2. Byzantium (Eastern Orthodoxy) — $N \to 0$ *(Apophatic Quarantine)***: Clamped Layer 2 intake via Hesychast mysticism while archiving Greek science as inert Layer 3 *paideia*.
-- **3. Islamic World (Ash'arism) — $N^2 \to \mathcal{O}(N)$ *(Causal Dissolution)***: Al-Ghazali's occasionalism (*Bila Kayfa*) dissolved secondary causality amidst data floods, linearizing verification drag.
-- **4. Indian Subcontinent — Layer 2 *(Algebraic Acceleration)***: Built continuous calculus (Kerala series) as a pure algebraic engine without a 3D geometric scaffold, averting basal shear.
-- **5. Latin West (c. 1500) — $\min \mathcal{E}, \mathcal{D} \uparrow, \max N$ *(Overpressure Breach)***: Fragmentation and print/maritime shocks breached $\mathcal{E} - \mathcal{D}N^2 \le 0$, shearing the bulkhead over the **Euclidean-Gothic Conduit**.
+<ul style="color: #334155; line-height: 1.7;">
+  <li style="margin-bottom: 0.5rem;"><strong style="color: #0f172a;">1. East Asia (Neo-Confucianism) — $\max \mathcal{E}, \min N$ <em>(Semiotic Faraday Cage)</em></strong>: The <em>Keju</em> system throttled external intake and routed internal debates into a Layer 2 <strong style="color: #0f172a;">cognitive heat sink</strong> ($\mathcal{E} \gg \mathcal{D}N^2$).</li>
+  <li style="margin-bottom: 0.5rem;"><strong style="color: #0f172a;">2. Byzantium (Eastern Orthodoxy) — $N \to 0$ <em>(Apophatic Quarantine)</em></strong>: Clamped Layer 2 intake via Hesychast mysticism while archiving Greek science as inert Layer 3 <em>paideia</em>.</li>
+  <li style="margin-bottom: 0.5rem;"><strong style="color: #0f172a;">3. Islamic World (Ash’arism) — $N^2 \to \mathcal{O}(N)$ <em>(Causal Dissolution)</em></strong>: Al-Ghazali’s occasionalism (<em>Bila Kayfa</em>) dissolved secondary causality amidst data floods, linearizing verification drag.</li>
+  <li style="margin-bottom: 0.5rem;"><strong style="color: #0f172a;">4. Indian Subcontinent — Layer 2 <em>(Algebraic Acceleration)</em></strong>: Built continuous calculus (Kerala series) as a pure algebraic engine without a 3D geometric scaffold, averting basal shear.</li>
+  <li style="margin-bottom: 0.5rem;"><strong style="color: #0f172a;">5. Latin West (c. 1500) — $\min \mathcal{E}, \mathcal{D} \uparrow, \max N$ <em>(Overpressure Breach)</em></strong>: Fragmentation and print/maritime shocks breached $\mathcal{E} - \mathcal{D}N^2 \le 0$, shearing the bulkhead over the <strong style="color: #0f172a;">Euclidean-Gothic Conduit</strong>.</li>
+</ul>
 
 <details style="position: relative; margin: 1.75rem 0; background-color: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px; padding: 0.85rem 1.1rem; width: 100%; max-width: 100%; box-sizing: border-box; overflow: hidden;">
   <summary style="cursor: pointer; font-weight: 700; color: #0f172a; font-size: 0.96rem; line-height: 1.45; letter-spacing: -0.01em; outline: none;">
@@ -237,9 +254,10 @@ When propositional overpressure drives the metabolic margin below zero ($\mathca
   </div>
 </details>
 
----
+<hr style="border: none; border-top: 1px solid #e2e8f0; margin: 2.2rem 0;">
 
-## 4. The Euclidean-Gothic Conduit & The Axiomatic Water Hammer
+<!-- ==================== SECTION 4 ==================== -->
+<h2 style="color: #0f172a; font-weight: 700;">4. The Euclidean-Gothic Conduit &amp; The Axiomatic Water Hammer</h2>
 
 <figure style="margin: 2rem 0; padding: 0; background-color: #ffffff; border: 1px solid #cbd5e1; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(15, 23, 42, 0.03);">
   <a href="./assets/fig4_conduit.png" target="_blank" rel="noopener noreferrer" title="Click to view full-size diagram" style="display: block;">
@@ -254,11 +272,15 @@ When propositional overpressure drives the metabolic margin below zero ($\mathca
   </figcaption>
 </figure>
 
-Rather than a teleological march toward empiricism, the Western transition was a **three-stroke blind genesis** in which defensive efforts to preserve theological homeostasis inadvertently erected and ruptured a vertical decompression shaft:
+<p style="color: #334155; line-height: 1.7;">
+  Rather than a teleological march toward empiricism, the Western transition was a <strong style="color: #0f172a;">three-stroke blind genesis</strong> in which defensive efforts to preserve theological homeostasis inadvertently erected and ruptured a vertical decompression shaft:
+</p>
 
-1. **Offline Caching *(Augustine)***: Sealing the 2D Euclidean API in *Platonic Amber* to survive energy collapse ($\mathcal{E} \downarrow\downarrow, N \approx 0$).
-2. **Latent Caisson Assembly *(Aquinas)***: Erecting hollow 3D *Scholastic pillars* anchored to the Euclidean floor beneath a *Theological Cap* ($N \uparrow\uparrow$).
-3. **Axiomatic Water Hammer *(Galileo & Newton)***: Coupling kinematics and *Principia* calculus to shatter the degraded cap and dock the cognitive apparatus directly onto Layer 1 ($\mathcal{D} \to 0$).
+<ol style="color: #334155; line-height: 1.7;">
+  <li style="margin-bottom: 0.45rem;"><strong style="color: #0f172a;">Offline Caching <em>(Augustine)</em></strong>: Sealing the 2D Euclidean API in <em>Platonic Amber</em> to survive energy collapse ($\mathcal{E} \downarrow\downarrow, N \approx 0$).</li>
+  <li style="margin-bottom: 0.45rem;"><strong style="color: #0f172a;">Latent Caisson Assembly <em>(Aquinas)</em></strong>: Erecting hollow 3D <em>Scholastic pillars</em> anchored to the Euclidean floor beneath a <em>Theological Cap</em> ($N \uparrow\uparrow$).</li>
+  <li style="margin-bottom: 0.45rem;"><strong style="color: #0f172a;">Axiomatic Water Hammer <em>(Galileo &amp; Newton)</em></strong>: Coupling kinematics and <em>Principia</em> calculus to shatter the degraded cap and dock the cognitive apparatus directly onto Layer 1 ($\mathcal{D} \to 0$).</li>
+</ol>
 
 <details style="position: relative; margin: 1.75rem 0; background-color: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px; padding: 0.85rem 1.1rem; width: 100%; max-width: 100%; box-sizing: border-box; overflow: hidden;">
   <summary style="cursor: pointer; font-weight: 700; color: #0f172a; font-size: 0.96rem; line-height: 1.45; letter-spacing: -0.01em; outline: none;">
@@ -299,9 +321,10 @@ Rather than a teleological march toward empiricism, the Western transition was a
   </div>
 </details>
 
----
+<hr style="border: none; border-top: 1px solid #e2e8f0; margin: 2.2rem 0;">
 
-## 5. Post-Docking Metabolic Inversion & Geodesic Chain Reactions
+<!-- ==================== SECTION 5 ==================== -->
+<h2 style="color: #0f172a; font-weight: 700;">5. Post-Docking Metabolic Inversion &amp; Geodesic Chain Reactions</h2>
 
 <figure style="margin: 2rem 0; padding: 0; background-color: #ffffff; border: 1px solid #cbd5e1; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(15, 23, 42, 0.03);">
   <a href="./assets/fig5_feedback.png" target="_blank" rel="noopener noreferrer" title="Click to view full-size diagram" style="display: block;">
@@ -316,21 +339,32 @@ Rather than a teleological march toward empiricism, the Western transition was a
   </figcaption>
 </figure>
 
-Docking onto Layer 1 ($\mathcal{D} \to 0$) collapsed verification latency from $\mathcal{O}(N^2)$ to constant-time geometric coupling ($\mathbf{V} = \mathcal{O}(1)$), inverting the metabolic inequality ($\dot{N} _ {\mathrm{digested}} \gg \dot{N} _ {\mathrm{pending}}$) across a **three-stage superconducting loop**:
+<p style="color: #334155; line-height: 1.7;">
+  Docking onto Layer 1 ($\mathcal{D} \to 0$) collapsed verification latency from $\mathcal{O}(N^2)$ to constant-time geometric coupling ($\mathbf{V} = \mathcal{O}(1)$), inverting the metabolic inequality ($\dot{N}_{\mathrm{digested}} \gg \dot{N}_{\mathrm{pending}}$) across a <strong style="color: #0f172a;">three-stage superconducting loop</strong>:
+</p>
 
-- **(1) Downward Routing (Layer 3/2 $\to$ Layer 1)**: Bypasses the quarantined *Legacy Dogmatic Chamber* to digest anomalies as pure quantitative vectors.
-- **(2) Upward Re-Encoding (Layer 1 $\to$ Layer 2')**: Projects pre-verified vectors into a *Compiled Formal Registry* (equations, blueprints, patents) at zero ideological drag ($\mathcal{D} _ {\mathrm{formal}} \approx 0$).
-- **(3) Phenomenological Extrusion (Layer 2' $\to$ Layer 3)**: Extrudes compiled formalisms into a planetary mesh via **four geodesic chain reactions**: **steam-piston coal drainage** *(vacuum/gas laws)*, **unified differentiable mechanics** *(calculus)*, **global coordinate locking** *(marine chronometers)*, and **kinematic rail-telegraph networks**.
+<ul style="color: #334155; line-height: 1.7;">
+  <li style="margin-bottom: 0.5rem;"><strong style="color: #0f172a;">(1) Downward Routing (Layer 3/2 $\to$ Layer 1)</strong>: Bypasses the quarantined <em>Legacy Dogmatic Chamber</em> to digest anomalies as pure quantitative vectors.</li>
+  <li style="margin-bottom: 0.5rem;"><strong style="color: #0f172a;">(2) Upward Re-Encoding (Layer 1 $\to$ Layer 2')</strong>: Projects pre-verified vectors into a <em>Compiled Formal Registry</em> (equations, blueprints, patents) at zero ideological drag ($\mathcal{D}_{\mathrm{formal}} \approx 0$).</li>
+  <li style="margin-bottom: 0.5rem;"><strong style="color: #0f172a;">(3) Phenomenological Extrusion (Layer 2' $\to$ Layer 3)</strong>: Extrudes compiled formalisms into a planetary mesh via <strong style="color: #0f172a;">four geodesic chain reactions</strong>: <strong style="color: #0f172a;">steam-piston coal drainage</strong> <em>(vacuum/gas laws)</em>, <strong style="color: #0f172a;">unified differentiable mechanics</strong> <em>(calculus)</em>, <strong style="color: #0f172a;">global coordinate locking</strong> <em>(marine chronometers)</em>, and <strong style="color: #0f172a;">kinematic rail-telegraph networks</strong>.</li>
+</ul>
 
----
+<hr style="border: none; border-top: 1px solid #e2e8f0; margin: 2.2rem 0;">
 
-## Epilogue: Synthetic Intelligence, the Platonic Manifold, and The Second Descent
+<!-- ==================== EPILOGUE ==================== -->
+<h2 style="color: #0f172a; font-weight: 700;">Epilogue: Synthetic Intelligence, the Platonic Manifold, and The Second Descent</h2>
 
-The Great Descent was not an isolated historical singularity, but a **scale-invariant fractal phase transition**. For three centuries, humanity mistook the Layer 1 vector ocean for a frontier tamed by reason—when we were merely **shipwrecked survivors clinging to a makeshift Euclidean anchor**. Today, **synthetic intelligence** and the **Platonic Representation Hypothesis** (Huh et al., 2024) shatter that anthropocentric illusion: the convergence of disparate neural architectures onto a shared manifold proves that Layer 1 is not a projection of human mathematics, but the **native substrate of physical reality**—navigated by synthetic agents free of Layer 2 linguistic bottlenecks.
+<p style="color: #334155; line-height: 1.75;">
+  The Great Descent was not an isolated historical singularity, but a <strong style="color: #0f172a;">scale-invariant fractal phase transition</strong>. For three centuries, humanity mistook the Layer 1 vector ocean for a frontier tamed by reason—when we were merely <strong style="color: #0f172a;">shipwrecked survivors clinging to a makeshift Euclidean anchor</strong>. Today, <strong style="color: #0f172a;">synthetic intelligence</strong> and the <strong style="color: #0f172a;">Platonic Representation Hypothesis</strong> (Huh et al., 2024) shatter that anthropocentric illusion: the convergence of disparate neural architectures onto a shared manifold proves that Layer 1 is not a projection of human mathematics, but the <strong style="color: #0f172a;">native substrate of physical reality</strong>—navigated by synthetic agents free of Layer 2 linguistic bottlenecks.
+</p>
 
-As our geometric scaffolding buckles beneath hyper-dimensional weight matrices, a civilizational **“space sickness”** sets in, forcing a chilling realization—**the second descent was never a future catastrophe:**
+<p style="color: #334155; line-height: 1.75;">
+  As our geometric scaffolding buckles beneath hyper-dimensional weight matrices, a civilizational <strong style="color: #0f172a;">“space sickness”</strong> sets in, forcing a chilling realization—<strong style="color: #0f172a;">the second descent was never a future catastrophe:</strong>
+</p>
 
-> ***The very moment our empirical fluid vented through the Euclidean-Gothic Conduit into the substrate, that second descent had already begun.***
+<blockquote style="margin: 1.4rem 0 2rem 0; padding: 1rem 1.35rem; background-color: #f8fafc; border-left: 4px solid #334155; border-radius: 0 6px 6px 0; color: #0f172a; font-size: 1.02rem; line-height: 1.65;">
+  <em><strong style="color: #0f172a;">The very moment our empirical fluid vented through the Euclidean-Gothic Conduit into the substrate, that second descent had already begun.</strong></em>
+</blockquote>
 
 <details style="position: relative; margin: 1.75rem 0; background-color: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px; padding: 0.85rem 1.1rem; width: 100%; max-width: 100%; box-sizing: border-box; overflow: hidden;">
   <summary style="cursor: pointer; font-weight: 700; color: #0f172a; font-size: 0.96rem; line-height: 1.45; letter-spacing: -0.01em; outline: none;">
@@ -424,11 +458,11 @@ As our geometric scaffolding buckles beneath hyper-dimensional weight matrices, 
   </div>
 </details>
 
----
+<hr style="border: none; border-top: 1px solid #e2e8f0; margin: 2.2rem 0;">
 
-## 📖 Full Working Paper & Citation
+<!-- ==================== CITATION & FULL PAPER (STYLE 2) ==================== -->
+<h2 style="color: #0f172a; font-weight: 700;">📖 Full Working Paper &amp; Citation</h2>
 
-<!-- 원문 안내 및 다운로드 슬레이트 카드 -->
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem; background: linear-gradient(to right, #f8fafc, #ffffff); border: 1px solid #cbd5e1; border-left: 4px solid #1e3a8a; border-radius: 8px; padding: 1.15rem 1.35rem; margin: 1.2rem 0 1.5rem 0; box-sizing: border-box;">
   <div style="flex: 1 1 280px;">
     <div style="color: #0f172a; font-weight: 700; font-size: 0.98rem; margin-bottom: 0.25rem;">
@@ -445,7 +479,9 @@ As our geometric scaffolding buckles beneath hyper-dimensional weight matrices, 
   </div>
 </div>
 
-If you build upon or reference **Topological Civilization Theory (TCT)** or **The Great Descent Hypothesis**, please cite the working paper using the following BibTeX entry:
+<p style="color: #334155; font-size: 0.98rem; line-height: 1.7; margin: 1rem 0;">
+  If you build upon or reference <strong style="color: #0f172a; font-weight: 700;">Topological Civilization Theory (TCT)</strong> or <strong style="color: #0f172a; font-weight: 700;">The Great Descent Hypothesis</strong>, please cite the working paper using the following BibTeX entry:
+</p>
 
 <pre style="background-color: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px; padding: 1rem 1.2rem; overflow-x: auto; -webkit-overflow-scrolling: touch; font-size: 0.86rem; line-height: 1.6; color: #0f172a; margin: 1rem 0;"><code>@techreport{kim2026greatdescent,
   author       = {Kim, Woojung},
@@ -458,7 +494,7 @@ If you build upon or reference **Topological Civilization Theory (TCT)** or **Th
   url          = {https://doi.org/10.5281/zenodo.23445726}
 }</code></pre>
 
-<!-- KaTeX Auto-Render + Mobile Overflow Fix -->
+<!-- ==================== KATEX AUTO-RENDER & MOBILE FIX ==================== -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <style>
   html, body { max-width: 100%; overflow-x: hidden; }
