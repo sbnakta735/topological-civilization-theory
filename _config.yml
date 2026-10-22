@@ -1,2 +1,18 @@
-title: ""
-description: "Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Evacuation into a Superconducting Vector Ocean"
+url: "https://sbnakta735.github.io"
+baseurl: "/topological-civilization-theory"
+
+title: "Beyond “Why the West Rules”: Modernity as Topological Superconductivity"
+
+description: "The Great Descent: Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Evacuation into a Superconducting Vector Ocean"
+
+author:
+  name: "Woojung Kim"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      title: "Beyond “Why the West Rules”: Modernity as Topological Superconductivity"
+      image:
+        path: /assets/fig1_architecture.png
+        alt: "Figure 1: Topological Cross-Section of the Three-Tiered Civilizational Information Architecture"
