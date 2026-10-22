@@ -1,28 +1,34 @@
-<div style="margin-bottom: 1.8rem;">
-  <p style="color: #1e40af; font-size: 0.95rem; font-weight: 700; letter-spacing: 0.03em; text-transform: uppercase; margin-bottom: 0.5rem;">
-    Beyond “Why the West Rules” · Modernity as Topological Superconductivity
-  </p>
-
-  <h1 style="color: #0f172a; font-weight: 800; letter-spacing: -0.02em; line-height: 1.25; margin-top: 0; margin-bottom: 0.75rem; border-bottom: none;">
-    The Great Descent
-    <span style="display: block; font-size: 0.68em; font-weight: 500; color: #334155; margin-top: 0.35rem; line-height: 1.4;">
-      Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Evacuation into a Superconducting Vector Ocean
-    </span>
+<div style="margin-bottom: 1.5rem;">
+  <h1 style="color: #0f172a; font-weight: 800; letter-spacing: -0.02em; line-height: 1.25; margin-bottom: 0.65rem; border-bottom: none;">
+    Beyond “Why the West Rules”: Modernity as Topological Superconductivity
   </h1>
 
-  <p style="color: #64748b; font-size: 1.02rem; font-style: italic; margin-top: 0.6rem; margin-bottom: 1.2rem;">
+    <h3 style="color: #334155; font-weight: 400; font-size: 1.25rem; line-height: 1.5; margin-top: 0; margin-bottom: 0.65rem;">
+    <strong style="color: #0f172a; font-weight: 700;">The Great Descent:</strong> Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Evacuation into a Superconducting Vector Ocean
+  </h3>
+
+    <p style="color: #64748b; font-size: 1.02rem; font-style: italic; margin-top: 0; margin-bottom: 1.1rem;">
     A Comparative Information-Thermodynamic Analysis of Civilizational Epistemic Architectures
+  </p>
+
+  <p style="margin: 0;">
+    <a href="https://doi.org/10.5281/zenodo.23445726" style="text-decoration: none; margin-right: 0.4rem;">
+      <img alt="DOI" src="https://zenodo.org/badge/DOI/10.5281/zenodo.23445726.svg" style="vertical-align: middle;">
+    </a>
+    <a href="https://creativecommons.org/licenses/by/4.0/" style="text-decoration: none;">
+      <img alt="License: CC BY 4.0" src="https://img.shields.io/badge/License-CC_BY_4.0-EF9421?logo=creative-commons&amp;logoColor=white" style="vertical-align: middle;">
+    </a>
   </p>
 </div>
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23445726.svg)](https://doi.org/10.5281/zenodo.23445726)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-EF9421?logo=creative-commons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
-
----
-
-<div style="border-left: 4px solid #0969da; background-color: #f6f8fa; padding: 14px 18px; margin: 20px 0; color: #1f2328; line-height: 1.6; border-radius: 0 6px 6px 0;">
-  <strong>Core Premise:</strong> Under <strong>Topological Civilization Theory (TCT)</strong>, a civilization’s essence is <strong>homeostatic defense</strong>, not progress. Therefore, the “Great Divergence” was never an intentional “upward leap” driven by Western progressive ambition or institutional superiority. It was a <strong>catastrophic containment failure</strong> of a fragile semiotic universe that ruptured its basal bulkhead under unmanageable propositional overpressure—forcing human cognition into a <strong>decompression evacuation</strong> down a dormant axiomatic chute (the <strong>Euclidean-Gothic Conduit</strong>) into the frictionless <strong>continuous vector ocean</strong> of physical reality. This unintended rupture-descent and the resulting accidental acquisition of <strong>topological superconductivity</strong> constitute the very core of modernity.
-</div>
+<blockquote style="margin: 1.8rem 0 2.2rem 0; padding: 1.25rem 1.5rem; background-color: #f8fafc; border-left: 4px solid #334155; border-radius: 0 8px 8px 0; color: #334155; font-size: 1.02rem; line-height: 1.75; font-style: normal;">
+  <span style="display: inline-block; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: #0f172a; background-color: #e2e8f0; padding: 0.15rem 0.55rem; border-radius: 4px; margin-bottom: 0.6rem;">
+    Core Premise
+  </span>
+  <div style="margin: 0; color: #334155;">
+    Under <strong style="color: #0f172a; font-weight: 600;">Topological Civilization Theory (TCT)</strong>, a civilization’s essence is <strong style="color: #0f172a; font-weight: 600;">homeostatic defense</strong>, not progress. Therefore, the “Great Divergence” was never an intentional “upward leap” driven by Western progressive ambition or institutional superiority. It was a <strong style="color: #0f172a; font-weight: 600;">catastrophic containment failure</strong> of a fragile semiotic universe that ruptured its basal bulkhead under unmanageable propositional overpressure—forcing human cognition into a <strong style="color: #0f172a; font-weight: 600;">decompression evacuation</strong> down a dormant axiomatic chute (the <strong style="color: #0f172a; font-weight: 600;">Euclidean-Gothic Conduit</strong>) into the frictionless <strong style="color: #0f172a; font-weight: 600;">continuous vector ocean</strong> of physical reality. This unintended rupture-descent and the resulting accidental acquisition of <strong style="color: #0f172a; font-weight: 600;">topological superconductivity</strong> constitute the very core of modernity.
+  </div>
+</blockquote>
 
 ### Three Directional Reversals in Great Divergence Historiography
 
