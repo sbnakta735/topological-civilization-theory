@@ -32,11 +32,46 @@
 
 ### Three Directional Reversals in Great Divergence Historiography
 
-| Reversal Vector | Topological Inversion & Historiographical Positioning |
-| :--- | :--- |
-| **1. Direction of the Breakthrough** | **Not an upward leap, but a downward plunge**: Against the stalled-ascent and “equilibrium trap” narratives of **Joseph Needham (1969)**, **Mark Elvin (1973)**, and **Ian Morris (2010)**, East Asia actually succeeded in homeostatic containment while Europe suffered a structural floor collapse. |
-| **2. Intent of Ruling Authorities** | **Not inclusive open horizons, but failed coercive sealing**: Against **Max Weber (1905)**, **Douglass North (1973)**, and **Daron Acemoglu (2012)**, European authorities deployed desperate ideological clamps that ruptured under overpressure—reducing “inclusive institutions” and “property rights” to reactive **dissipative baffles** improvised to damp post-breach cavitation turbulence. |
-| **3. Engine of Industrial Dominance** | **Not passive geographic windfall, but accidental cognitive docking**: Against the ecological and resource-windfall models of **Jared Diamond (1997)** and **Kenneth Pomeranz (2000)**, industrial dominance was the downstream byproduct of Europe’s cognitive apparatus accidentally plunging into a frictionless continuous vector ocean. |
+<h3 style="color: #0f172a; font-weight: 700; font-size: 1.2rem; margin-top: 2.2rem; margin-bottom: 0.85rem;">
+  Three Directional Reversals in Great Divergence Historiography
+</h3>
+
+<div style="overflow-x: auto; margin-bottom: 2rem; border-radius: 8px; border: 1px solid #cbd5e1;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem; line-height: 1.65; color: #334155; margin: 0;">
+    <thead>
+      <tr style="background-color: #f1f5f9; border-bottom: 2px solid #cbd5e1; text-align: left;">
+        <th style="padding: 0.85rem 1.1rem; color: #0f172a; font-weight: 700; width: 26%; border: none;">Reversal Vector</th>
+        <th style="padding: 0.85rem 1.1rem; color: #0f172a; font-weight: 700; border: none;">Topological Inversion &amp; Historiographical Positioning</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid #e2e8f0; background-color: #ffffff;">
+        <td style="padding: 0.95rem 1.1rem; font-weight: 700; color: #0f172a; background-color: #f8fafc; vertical-align: top; border: none;">
+          1. Direction of the Breakthrough
+        </td>
+        <td style="padding: 0.95rem 1.1rem; vertical-align: top; border: none;">
+          <strong style="color: #0f172a;">Not an upward leap, but a downward plunge</strong>: Against the stalled-ascent and “equilibrium trap” narratives of <strong style="color: #1e293b;">Joseph Needham (1969)</strong>, <strong style="color: #1e293b;">Mark Elvin (1973)</strong>, and <strong style="color: #1e293b;">Ian Morris (2010)</strong>, East Asia actually succeeded in homeostatic containment while Europe suffered a structural floor collapse.
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #e2e8f0; background-color: #ffffff;">
+        <td style="padding: 0.95rem 1.1rem; font-weight: 700; color: #0f172a; background-color: #f8fafc; vertical-align: top; border: none;">
+          2. Intent of Ruling Authorities
+        </td>
+        <td style="padding: 0.95rem 1.1rem; vertical-align: top; border: none;">
+          <strong style="color: #0f172a;">Not inclusive open horizons, but failed coercive sealing</strong>: Against <strong style="color: #1e293b;">Max Weber (1905)</strong>, <strong style="color: #1e293b;">Douglass North (1973)</strong>, and <strong style="color: #1e293b;">Daron Acemoglu (2012)</strong>, European authorities deployed desperate ideological clamps that ruptured under overpressure—reducing “inclusive institutions” and “property rights” to reactive <strong style="color: #0f172a;">dissipative baffles</strong> improvised to damp post-breach cavitation turbulence.
+        </td>
+      </tr>
+      <tr style="background-color: #ffffff;">
+        <td style="padding: 0.95rem 1.1rem; font-weight: 700; color: #0f172a; background-color: #f8fafc; vertical-align: top; border: none;">
+          3. Engine of Industrial Dominance
+        </td>
+        <td style="padding: 0.95rem 1.1rem; vertical-align: top; border: none;">
+          <strong style="color: #0f172a;">Not passive geographic windfall, but accidental cognitive docking</strong>: Against the ecological and resource-windfall models of <strong style="color: #1e293b;">Jared Diamond (1997)</strong> and <strong style="color: #1e293b;">Kenneth Pomeranz (2000)</strong>, industrial dominance was the downstream byproduct of Europe’s cognitive apparatus accidentally plunging into a frictionless continuous vector ocean.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
