@@ -1,3 +1,10 @@
+<style>
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+</style>
+
 <div style="margin-bottom: 1.5rem;">
   <p style="color: #1e40af; font-size: 0.92rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; margin-top: 0; margin-bottom: 0.45rem;">
     Beyond “Why the West Rules” · Modernity as Topological Superconductivity
@@ -168,72 +175,71 @@ When propositional overpressure drives the metabolic margin below zero ($\mathca
 - **4. Indian Subcontinent — Layer 2 *(Algebraic Acceleration)***: Built continuous calculus (Kerala series) as a pure algebraic engine without a 3D geometric scaffold, averting basal shear.
 - **5. Latin West (c. 1500) — $\min \mathcal{E}, \mathcal{D} \uparrow, \max N$ *(Overpressure Breach)***: Fragmentation and print/maritime shocks breached $\mathcal{E} - \mathcal{D}N^2 \le 0$, shearing the bulkhead over the **Euclidean-Gothic Conduit**.
 
-<details style="margin: 1.75rem 0; background-color: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px; padding: 0.85rem 1.2rem;">
-  <summary style="cursor: pointer; font-weight: 700; color: #0f172a; font-size: 0.98rem; letter-spacing: -0.01em; outline: none;">
-    📊 <span style="margin-left: 0.25rem;">Deep-Dive: Table 1 — Comparative Summary of Civilizational Homeostatic Regimes</span>
-    <span style="float: right; font-size: 0.8rem; font-weight: 500; color: #64748b;">Click to expand</span>
+<details style="margin: 1.75rem 0; background-color: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px; padding: 0.85rem 1.1rem; max-width: 100%; box-sizing: border-box; overflow: hidden;">
+  <summary style="cursor: pointer; font-weight: 700; color: #0f172a; font-size: 0.96rem; line-height: 1.45; letter-spacing: -0.01em; outline: none;">
+    📊 <span style="margin-left: 0.2rem;">Deep-Dive: Table 1 — Comparative Summary of Civilizational Homeostatic Regimes</span>
   </summary>
 
-  <div style="margin-top: 0.95rem; padding-top: 0.95rem; border-top: 1px solid #e2e8f0; overflow-x: auto;">
-    <table style="width: 100%; border-collapse: collapse; font-size: 0.92rem; line-height: 1.55; color: #334155; background-color: #ffffff; border: 1px solid #cbd5e1; border-radius: 6px; overflow: hidden; margin: 0;">
+  <div style="margin-top: 0.9rem; width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; border: 1px solid #cbd5e1; border-radius: 6px; background-color: #ffffff; box-sizing: border-box;">
+    <table style="display: table !important; width: 100%; min-width: 640px; border-collapse: collapse; font-size: 0.88rem; line-height: 1.5; color: #334155; margin: 0; border: none;">
       <thead>
         <tr style="background-color: #f1f5f9; border-bottom: 2px solid #cbd5e1; text-align: left;">
-          <th style="padding: 0.75rem 0.9rem; color: #0f172a; font-weight: 700; border: none;">Civilizational Regime</th>
-          <th style="padding: 0.75rem 0.9rem; color: #0f172a; font-weight: 700; border: none;">Primary Operational Lever</th>
-          <th style="padding: 0.75rem 0.9rem; color: #0f172a; font-weight: 700; border: none;">Thermodynamic Mechanism</th>
-          <th style="padding: 0.75rem 0.9rem; color: #0f172a; font-weight: 700; border: none;">Vertical Scaffold Status</th>
-          <th style="padding: 0.75rem 0.9rem; color: #0f172a; font-weight: 700; border: none;">Critical Threshold Outcome</th>
+          <th style="padding: 0.7rem 0.85rem; color: #0f172a; font-weight: 700; border: none; width: 18%;">Civilizational Regime</th>
+          <th style="padding: 0.7rem 0.85rem; color: #0f172a; font-weight: 700; border: none; width: 18%;">Primary Operational Lever</th>
+          <th style="padding: 0.7rem 0.85rem; color: #0f172a; font-weight: 700; border: none; width: 24%;">Thermodynamic Mechanism</th>
+          <th style="padding: 0.7rem 0.85rem; color: #0f172a; font-weight: 700; border: none; width: 18%;">Vertical Scaffold Status</th>
+          <th style="padding: 0.7rem 0.85rem; color: #0f172a; font-weight: 700; border: none; width: 22%;">Critical Threshold Outcome</th>
         </tr>
       </thead>
       <tbody>
         <tr style="border-bottom: 1px solid #e2e8f0;">
-          <td style="padding: 0.8rem 0.9rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>East Asia</strong><br><em>(Neo-Confucianism)</em></td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">$\max \mathcal{E}, \min N$</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Faraday Cage Equilibrium</strong><br>(Suppression of non-canonical propositions)</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">Absent<br>(Moral-ethical plane)</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">Permanent homeostatic equilibrium<br>($\mathcal{E} \gg \mathcal{D}N^2$)</td>
+          <td style="padding: 0.75rem 0.85rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>East Asia</strong><br><em>(Neo-Confucianism)</em></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">$\max \mathcal{E}, \min N$</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Faraday Cage Equilibrium</strong><br>(Suppression of non-canonical propositions)</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Absent<br>(Moral-ethical plane)</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Permanent homeostatic equilibrium<br>($\mathcal{E} \gg \mathcal{D}N^2$)</td>
         </tr>
         <tr style="border-bottom: 1px solid #e2e8f0;">
-          <td style="padding: 0.8rem 0.9rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Byzantium</strong><br><em>(Eastern Orthodoxy)</em></td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">$N \to 0$<br>(Inlet Clamped)</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Apophatic quarantine &amp; curatorial archiving</strong><br>(Vacuum chamber)</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">Blocked<br>(Axiomatization of theology condemned)</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">Low-cost homeostasis preserved /<br>Scaffold dormant</td>
+          <td style="padding: 0.75rem 0.85rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Byzantium</strong><br><em>(Eastern Orthodoxy)</em></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">$N \to 0$<br>(Inlet Clamped)</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Apophatic quarantine &amp; curatorial archiving</strong><br>(Vacuum chamber)</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Blocked<br>(Axiomatization of theology condemned)</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Low-cost homeostasis preserved /<br>Scaffold dormant</td>
         </tr>
         <tr style="border-bottom: 1px solid #e2e8f0;">
-          <td style="padding: 0.8rem 0.9rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Islamic World</strong><br><em>(Ash’arism)</em></td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">Coupling Order Reduction<br>($N^2 \to \mathcal{O}(N)$)</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Causal Dissolution via Doctrinal Infiltration</strong><br>(Cooling quadratic friction to linear)</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">Segregated<br>(Instrumental pragmatic fictions)</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">Homeostasis preserved amidst data flood ($N \gg 0$);<br>$\mathcal{E} &gt; \mathcal{D} \cdot \mathcal{O}(N)$</td>
+          <td style="padding: 0.75rem 0.85rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Islamic World</strong><br><em>(Ash’arism)</em></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Coupling Order Reduction<br>($N^2 \to \mathcal{O}(N)$)</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Causal Dissolution via Doctrinal Infiltration</strong><br>(Cooling quadratic friction to linear)</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Segregated<br>(Instrumental pragmatic fictions)</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Homeostasis preserved amidst data flood ($N \gg 0$);<br>$\mathcal{E} &gt; \mathcal{D} \cdot \mathcal{O}(N)$</td>
         </tr>
         <tr style="border-bottom: 1px solid #e2e8f0;">
-          <td style="padding: 0.8rem 0.9rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Classical Greece</strong><br><em>(Euclidean Matrix)</em></td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">$N \ll N_{\text{critical}}$,<br>Planar $\mathcal{D}$</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Low-bandwidth empirical intake &amp; 2D planar axiomatic isolation</strong></td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">Horizontal API only<br>(Flat Euclidean floor; 3D caisson absent)</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">Sub-critical static equilibrium ($\Delta P \approx 0$);<br>Critical Threshold untouched</td>
+          <td style="padding: 0.75rem 0.85rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Classical Greece</strong><br><em>(Euclidean Matrix)</em></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">$N \ll N_{\text{critical}}$,<br>Planar $\mathcal{D}$</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Low-bandwidth empirical intake &amp; 2D planar axiomatic isolation</strong></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Horizontal API only<br>(Flat Euclidean floor; 3D caisson absent)</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Sub-critical static equilibrium ($\Delta P \approx 0$);<br>Critical Threshold untouched</td>
         </tr>
         <tr style="border-bottom: 1px solid #e2e8f0;">
-          <td style="padding: 0.8rem 0.9rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Western Rome</strong><br><em>(5th Century)</em></td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">$\mathcal{E} \downarrow, N \uparrow$<br>(Rigid $\mathcal{D}$)</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Scissors crisis</strong>:<br>Administrative exhaustion vs. proposition overload</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">Absent<br>(Uncoupled horizontal bedrock)</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">Catastrophic vessel implosion<br>($N \to 0$, Decivilization)</td>
+          <td style="padding: 0.75rem 0.85rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Western Rome</strong><br><em>(5th Century)</em></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">$\mathcal{E} \downarrow, N \uparrow$<br>(Rigid $\mathcal{D}$)</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Scissors crisis</strong>:<br>Administrative exhaustion vs. proposition overload</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Absent<br>(Uncoupled horizontal bedrock)</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Catastrophic vessel implosion<br>($N \to 0$, Decivilization)</td>
         </tr>
         <tr style="border-bottom: 1px solid #e2e8f0;">
-          <td style="padding: 0.8rem 0.9rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Indian Subcontinent</strong></td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">Layer 2 Horizontal Algebraic Acceleration</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Pure algebraic-algorithmic horizontal optimization, omitting spatial scaffold</strong></td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">Absent<br>(Floating network devoid of geometric load capacity)</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">Localized computational liberation achieved /<br>Bulkhead rupture averted</td>
+          <td style="padding: 0.75rem 0.85rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Indian Subcontinent</strong></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Layer 2 Horizontal Algebraic Acceleration</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Pure algebraic-algorithmic horizontal optimization, omitting spatial scaffold</strong></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Absent<br>(Floating network devoid of geometric load capacity)</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Localized computational liberation achieved /<br>Bulkhead rupture averted</td>
         </tr>
         <tr>
-          <td style="padding: 0.8rem 0.9rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Latin West</strong><br><em>(c. 1500)</em></td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">$\min \mathcal{E}, \mathcal{D} \uparrow, \max N$</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">$\mathcal{E} - \mathcal{D}N^2 \le 0$<br>(Basal bulkhead fracture via data flood)</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">Coupled<br>(Euclidean-Gothic Conduit)</td>
-          <td style="padding: 0.8rem 0.9rem; vertical-align: top; border: none;">Catastrophic overpressure breach &amp;<br>Decompression Descent</td>
+          <td style="padding: 0.75rem 0.85rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Latin West</strong><br><em>(c. 1500)</em></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">$\min \mathcal{E}, \mathcal{D} \uparrow, \max N$</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">$\mathcal{E} - \mathcal{D}N^2 \le 0$<br>(Basal bulkhead fracture via data flood)</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Coupled<br>(Euclidean-Gothic Conduit)</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Catastrophic overpressure breach &amp;<br>Decompression Descent</td>
         </tr>
       </tbody>
     </table>
