@@ -1,10 +1,3 @@
-<style>
-  html, body {
-    max-width: 100%;
-    overflow-x: hidden;
-  }
-</style>
-
 <div style="margin-bottom: 1.5rem;">
   <p style="color: #1e40af; font-size: 0.92rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; margin-top: 0; margin-bottom: 0.45rem;">
     Beyond “Why the West Rules” · Modernity as Topological Superconductivity
@@ -41,8 +34,8 @@
   Three Directional Reversals in Great Divergence Historiography
 </h3>
 
-<div style="overflow-x: auto; margin-bottom: 2rem; border-radius: 8px; border: 1px solid #cbd5e1;">
-  <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem; line-height: 1.65; color: #334155; margin: 0;">
+<div style="position: relative; width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; margin-bottom: 2rem; border-radius: 8px; border: 1px solid #cbd5e1; background-color: #ffffff; box-sizing: border-box;">
+  <table style="display: table !important; width: 100%; border-collapse: collapse; font-size: 0.95rem; line-height: 1.65; color: #334155; margin: 0; border: none;">
     <thead>
       <tr style="background-color: #f1f5f9; border-bottom: 2px solid #cbd5e1; text-align: left;">
         <th style="padding: 0.85rem 1.1rem; color: #0f172a; font-weight: 700; width: 26%; border: none;">Reversal Vector</th>
@@ -107,7 +100,7 @@
 
 The dynamical equation for maintaining homeostasis is given by:
 
-<div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 1rem 1.25rem; margin: 1.2rem 0; text-align: center;">
+<div style="position: relative; background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 1rem 1.25rem; margin: 1.2rem 0; text-align: center; overflow-x: auto;">
 
 $$
 {\LARGE \mathcal{E} - \mathcal{D}N^2 > 0}
@@ -148,7 +141,7 @@ When propositional overpressure drives the metabolic margin below zero ($\mathca
 
 - **Pathway A1 — Total Collapse *(Hard Reset)***: Without a basal conduit or damper, chamber drowning triggers cascading node delamination to $\lim _ {t \to T} N(t) = 0$ (**Late Bronze Age Collapse**, **Classic Maya**).
 - **Pathway A2 — Low-Level Defense *(Feudal Equilibrium)***: Terminal dissolution is arrested at a low-maintenance equilibrium via theological monopoly and feudal contracts (**5th-Century Western Rome**).
-- **Pathway B — The Western Anomaly *(Decompression Descent)***: Explosive decompression through the **Euclidean-Gothic Conduit** docks the cognitive apparatus onto Layer 1 ($\dot{N}\_{\mathrm{digested}} \gg \dot{N}\_{\mathrm{pending}}$), while improvised **dissipative baffles** (*"inclusive institutions"*) damp lethal cavitation turbulence (**Early Modern Western Europe**).
+- **Pathway B — The Western Anomaly *(Decompression Descent)***: Explosive decompression through the **Euclidean-Gothic Conduit** docks the cognitive apparatus onto Layer 1 ($\dot{N} _ {\mathrm{digested}} \gg \dot{N} _ {\mathrm{pending}}$), while improvised **dissipative baffles** (*"inclusive institutions"*) damp lethal cavitation turbulence (**Early Modern Western Europe**).
 
 ---
 
@@ -175,13 +168,13 @@ When propositional overpressure drives the metabolic margin below zero ($\mathca
 - **4. Indian Subcontinent — Layer 2 *(Algebraic Acceleration)***: Built continuous calculus (Kerala series) as a pure algebraic engine without a 3D geometric scaffold, averting basal shear.
 - **5. Latin West (c. 1500) — $\min \mathcal{E}, \mathcal{D} \uparrow, \max N$ *(Overpressure Breach)***: Fragmentation and print/maritime shocks breached $\mathcal{E} - \mathcal{D}N^2 \le 0$, shearing the bulkhead over the **Euclidean-Gothic Conduit**.
 
-<details style="margin: 1.75rem 0; background-color: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px; padding: 0.85rem 1.1rem; max-width: 100%; box-sizing: border-box; overflow: hidden;">
+<details style="position: relative; margin: 1.75rem 0; background-color: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px; padding: 0.85rem 1.1rem; width: 100%; max-width: 100%; box-sizing: border-box; overflow: hidden;">
   <summary style="cursor: pointer; font-weight: 700; color: #0f172a; font-size: 0.96rem; line-height: 1.45; letter-spacing: -0.01em; outline: none;">
     📊 <span style="margin-left: 0.2rem;">Deep-Dive: Table 1 — Comparative Summary of Civilizational Homeostatic Regimes</span>
   </summary>
 
-  <div style="margin-top: 0.9rem; width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; border: 1px solid #cbd5e1; border-radius: 6px; background-color: #ffffff; box-sizing: border-box;">
-    <table style="display: table !important; width: 100%; min-width: 640px; border-collapse: collapse; font-size: 0.88rem; line-height: 1.5; color: #334155; margin: 0; border: none;">
+  <div style="position: relative; margin-top: 0.9rem; width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; border: 1px solid #cbd5e1; border-radius: 6px; background-color: #ffffff; box-sizing: border-box;">
+    <table style="display: table !important; width: 100%; min-width: 640px; max-width: none !important; border-collapse: collapse; font-size: 0.88rem; line-height: 1.5; color: #334155; margin: 0; border: none;">
       <thead>
         <tr style="background-color: #f1f5f9; border-bottom: 2px solid #cbd5e1; text-align: left;">
           <th style="padding: 0.7rem 0.85rem; color: #0f172a; font-weight: 700; border: none; width: 18%;">Civilizational Regime</th>
@@ -269,15 +262,43 @@ Rather than a teleological march toward empiricism, the Western transition was a
 2. **Latent Caisson Assembly *(Aquinas)***: Erecting hollow 3D *Scholastic pillars* anchored to the Euclidean floor beneath a *Theological Cap* ($N \uparrow\uparrow$).
 3. **Axiomatic Water Hammer *(Galileo & Newton)***: Coupling kinematics and *Principia* calculus to shatter the degraded cap and dock the cognitive apparatus directly onto Layer 1 ($\mathcal{D} \to 0$).
 
-<details markdown="1">
-<summary>🛠️ <b>Deep-Dive: Table 2 — Three Epochs of Latent Conduit Assembly: Mapping the Structural Parable to Epistemic Network Reality</b></summary>
+<details style="position: relative; margin: 1.75rem 0; background-color: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px; padding: 0.85rem 1.1rem; width: 100%; max-width: 100%; box-sizing: border-box; overflow: hidden;">
+  <summary style="cursor: pointer; font-weight: 700; color: #0f172a; font-size: 0.96rem; line-height: 1.45; letter-spacing: -0.01em; outline: none;">
+    🛠️ <span style="margin-left: 0.2rem;">Deep-Dive: Table 2 — Three Epochs of Latent Conduit Assembly: Mapping the Structural Parable to Epistemic Network Reality</span>
+  </summary>
 
-| Epoch | Local Intent (Defensive Mandate) | Structural Parable (Hydrodynamic) | Epistemic Network Reality (Topological) |
-| :--- | :--- | :--- | :--- |
-| **Early Middle Ages**<br>*(Augustine)* | **Civilizational Survival amid Energy Collapse ($\mathcal{E} \downarrow\downarrow$)**: Suffocate autonomous deduction to suppress computational friction ($\mathcal{D}N^2$); throttle active load ($N \approx 0$). | **Platonic Amber & Cabin Sealing**: Pouring mystical resin over the cabin floor, inadvertently sealing the Euclidean bedrock in pristine stasis. | **Epistemic Offline Caching**: Halting live empirical verification while preserving the axiomatic-geometric API within Neo-Platonic doctrine. |
-| **High Middle Ages**<br>*(Aquinas / Scholastics)* | **Deep-Foundation Load-Bearing Engineering**: Erect rigid logical pillars to bear the weight of recovered texts; seal the top intake with a Theological Cap. | **Latent Conduit Assembly**: Constructing a hollow 3D vertical caisson anchored to the Euclidean floor, disguised as a compressive church pillar. | **Vertical Deductive Coupling**: Scaling 2D Greek planar geometry into a 3D stereometric deductive architecture bridging Layer 2 and Layer 1. |
-| **Scientific Revolution**<br>*(Galileo and Newton)* | **Emergency Cabin Stabilization under Flooding Crisis**: Quantify leaking structural seams and reinforce cosmic order with mathematical necessity. | **Cap Collapse, Water Hammer & Docking**: Axiomatic dead load shatters the degraded cap; hydraulic bore punches through bedrock, sucking cognitive helm to Layer 1. | **Metabolic Phase Inversion & Docking ($\mathcal{D} \to 0$)**: Coupling kinematics and calculus to rupture 2D API into 3D differential aperture; cognitive apparatus docks directly onto Layer 1. |
-
+  <div style="position: relative; margin-top: 0.9rem; width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; border: 1px solid #cbd5e1; border-radius: 6px; background-color: #ffffff; box-sizing: border-box;">
+    <table style="display: table !important; width: 100%; min-width: 620px; max-width: none !important; border-collapse: collapse; font-size: 0.88rem; line-height: 1.5; color: #334155; margin: 0; border: none;">
+      <thead>
+        <tr style="background-color: #f1f5f9; border-bottom: 2px solid #cbd5e1; text-align: left;">
+          <th style="padding: 0.7rem 0.85rem; color: #0f172a; font-weight: 700; border: none; width: 18%;">Epoch</th>
+          <th style="padding: 0.7rem 0.85rem; color: #0f172a; font-weight: 700; border: none; width: 27%;">Local Intent (Defensive Mandate)</th>
+          <th style="padding: 0.7rem 0.85rem; color: #0f172a; font-weight: 700; border: none; width: 27%;">Structural Parable (Hydrodynamic)</th>
+          <th style="padding: 0.7rem 0.85rem; color: #0f172a; font-weight: 700; border: none; width: 28%;">Epistemic Network Reality (Topological)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+          <td style="padding: 0.75rem 0.85rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Early Middle Ages</strong><br><em>(Augustine)</em></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Civilizational Survival amid Energy Collapse ($\mathcal{E} \downarrow\downarrow$)</strong>: Suffocate autonomous deduction to suppress computational friction ($\mathcal{D}N^2$); throttle active load ($N \approx 0$).</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Platonic Amber &amp; Cabin Sealing</strong>: Pouring mystical resin over the cabin floor, inadvertently sealing the Euclidean bedrock in pristine stasis.</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Epistemic Offline Caching</strong>: Halting live empirical verification while preserving the axiomatic-geometric API within Neo-Platonic doctrine.</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+          <td style="padding: 0.75rem 0.85rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>High Middle Ages</strong><br><em>(Aquinas / Scholastics)</em></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Deep-Foundation Load-Bearing Engineering</strong>: Erect rigid logical pillars to bear the weight of recovered texts; seal the top intake with a Theological Cap.</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Latent Conduit Assembly</strong>: Constructing a hollow 3D vertical caisson anchored to the Euclidean floor, disguised as a compressive church pillar.</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Vertical Deductive Coupling</strong>: Scaling 2D Greek planar geometry into a 3D stereometric deductive architecture bridging Layer 2 and Layer 1.</td>
+        </tr>
+        <tr>
+          <td style="padding: 0.75rem 0.85rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Scientific Revolution</strong><br><em>(Galileo and Newton)</em></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Emergency Cabin Stabilization under Flooding Crisis</strong>: Quantify leaking structural seams and reinforce cosmic order with mathematical necessity.</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Cap Collapse, Water Hammer &amp; Docking</strong>: Axiomatic dead load shatters the degraded cap; hydraulic bore punches through bedrock, sucking cognitive helm to Layer 1.</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;"><strong style="color: #0f172a;">Metabolic Phase Inversion &amp; Docking ($\mathcal{D} \to 0$)</strong>: Coupling kinematics and calculus to rupture 2D API into 3D differential aperture; cognitive apparatus docks directly onto Layer 1.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </details>
 
 ---
@@ -313,41 +334,96 @@ As our geometric scaffolding buckles beneath hyper-dimensional weight matrices, 
 
 > ***The very moment our empirical fluid vented through the Euclidean-Gothic Conduit into the substrate, that second descent had already begun.***
 
-<details markdown="1">
-<summary>⚖️ <b>Summary Table: Traditional Historiography vs. Topological Civilization Theory (Table 3)</b></summary>
+<details style="position: relative; margin: 1.75rem 0; background-color: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px; padding: 0.85rem 1.1rem; width: 100%; max-width: 100%; box-sizing: border-box; overflow: hidden;">
+  <summary style="cursor: pointer; font-weight: 700; color: #0f172a; font-size: 0.96rem; line-height: 1.45; letter-spacing: -0.01em; outline: none;">
+    ⚖️ <span style="margin-left: 0.2rem;">Summary Table: Traditional Historiography vs. Topological Civilization Theory (Table 3)</span>
+  </summary>
 
-| Dimension | Traditional Historiography (Weber, Acemoglu, etc.) | Topological Civilization Theory (TCT) |
-| :--- | :--- | :--- |
-| **Vector & Direction** | Intentional upward leap | Involuntary downward decompression evacuation |
-| **Institutional Intent** | Proactive embrace of reason and open horizons | Desperate containment clamps (coercive sealing) |
-| **Western Dynamic** | Inclusive institutions & intentional structural design | Hydraulic overpressure breach & dissipative baffles |
-| **East Asian Paradigm** | High-level equilibrium trap / Deficit | Homeostatic intake throttling |
-| **Nature of Modernity** | Progressive enlightenment / Geographic windfall | Cognitive docking onto Layer 1 ($\mathbf{V} = \mathcal{O}(1)$) & upward re-encoding |
-| **Civilizational Outcome** | Inevitable destiny of rational humanity | Basal conduit docking ($\dot{N}\_{\mathrm{digested}} \gg \dot{N}\_{\mathrm{pending}}$) vs. Drowning ($N \to 0$) |
-
+  <div style="position: relative; margin-top: 0.9rem; width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; border: 1px solid #cbd5e1; border-radius: 6px; background-color: #ffffff; box-sizing: border-box;">
+    <table style="display: table !important; width: 100%; min-width: 560px; max-width: none !important; border-collapse: collapse; font-size: 0.88rem; line-height: 1.5; color: #334155; margin: 0; border: none;">
+      <thead>
+        <tr style="background-color: #f1f5f9; border-bottom: 2px solid #cbd5e1; text-align: left;">
+          <th style="padding: 0.7rem 0.85rem; color: #0f172a; font-weight: 700; border: none; width: 24%;">Dimension</th>
+          <th style="padding: 0.7rem 0.85rem; color: #0f172a; font-weight: 700; border: none; width: 38%;">Traditional Historiography (Weber, Acemoglu, etc.)</th>
+          <th style="padding: 0.7rem 0.85rem; color: #0f172a; font-weight: 700; border: none; width: 38%;">Topological Civilization Theory (TCT)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+          <td style="padding: 0.75rem 0.85rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Vector &amp; Direction</strong></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Intentional upward leap</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Involuntary downward decompression evacuation</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+          <td style="padding: 0.75rem 0.85rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Institutional Intent</strong></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Proactive embrace of reason and open horizons</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Desperate containment clamps (coercive sealing)</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+          <td style="padding: 0.75rem 0.85rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Western Dynamic</strong></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Inclusive institutions &amp; intentional structural design</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Hydraulic overpressure breach &amp; dissipative baffles</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+          <td style="padding: 0.75rem 0.85rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>East Asian Paradigm</strong></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">High-level equilibrium trap / Deficit</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Homeostatic intake throttling</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+          <td style="padding: 0.75rem 0.85rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Nature of Modernity</strong></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Progressive enlightenment / Geographic windfall</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Cognitive docking onto Layer 1 ($\mathbf{V} = \mathcal{O}(1)$) &amp; upward re-encoding</td>
+        </tr>
+        <tr>
+          <td style="padding: 0.75rem 0.85rem; background-color: #f8fafc; color: #0f172a; vertical-align: top; border: none;"><strong>Civilizational Outcome</strong></td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Inevitable destiny of rational humanity</td>
+          <td style="padding: 0.75rem 0.85rem; vertical-align: top; border: none;">Basal conduit docking ($\dot{N}_{\mathrm{digested}} \gg \dot{N}_{\mathrm{pending}}$) vs. Drowning ($N \to 0$)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </details>
 
-<details markdown="1">
-<summary>🧮 <b>Appendix: Summary of Governing Information-Thermodynamic Relations in TCT</b></summary>
+<details style="position: relative; margin: 1.75rem 0; background-color: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px; padding: 0.85rem 1.1rem; width: 100%; max-width: 100%; box-sizing: border-box; overflow: hidden;">
+  <summary style="cursor: pointer; font-weight: 700; color: #0f172a; font-size: 0.96rem; line-height: 1.45; letter-spacing: -0.01em; outline: none;">
+    🧮 <span style="margin-left: 0.2rem;">Appendix: Summary of Governing Information-Thermodynamic Relations in TCT</span>
+  </summary>
 
-- **1. The Homeostatic Margin Condition**:
-  $$\mathcal{E} - \mathcal{D}N^2 > 0$$
-- **2. The Critical Threshold Breach *(Bulkhead Rupture & Metabolic Asphyxiation)***:
-  $$\mathcal{E} - \mathcal{D}N^2 \le 0 \quad \Longrightarrow \quad \dot{N}_{\mathrm{digested}} < \dot{N}_{\mathrm{pending}}$$
-- **3. Chamber Drowning Circuit-Breaker *(Branch A)***:
-  $$\lim_{t \to T} N(t) = 0$$
-- **4. Decompression Venting Gradient *(Branch B)***:
-  $$\Delta P = P _ {L2} - P _ {L1} \gg 0$$
-- **5. Topological Superconductivity Condition *(Layer 1 Ocean Interface)***:
-  $$\mathbf{V} = \mathcal{O}(1) \quad (\mathcal{D} \to 0, \; \eta \gg \eta_c)$$
-- **6. Superconducting Metabolic Inversion & Partitioned Registry Stability *(Closed-Loop Return)***:
-  $$\mathbf{V} = \mathcal{O}(1) \quad \Longrightarrow \quad \dot{N}_{\mathrm{digested}} \gg \dot{N}_{\mathrm{pending}} \quad (\mathcal{D}_{\mathrm{formal}} \approx 0, \; \mathcal{O}(N^2)\ \mathrm{audit\ bypass})$$
+  <div style="position: relative; margin-top: 0.9rem; padding: 1rem 1.1rem; border: 1px solid #cbd5e1; border-radius: 6px; background-color: #ffffff; width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; box-sizing: border-box;">
+    <ul style="margin: 0 0 1rem 0; padding-left: 1.2rem; color: #334155; line-height: 1.7;">
+      <li style="margin-bottom: 0.6rem;">
+        <strong style="color: #0f172a;">1. The Homeostatic Margin Condition</strong>:
+        $$\mathcal{E} - \mathcal{D}N^2 > 0$$
+      </li>
+      <li style="margin-bottom: 0.6rem;">
+        <strong style="color: #0f172a;">2. The Critical Threshold Breach <em>(Bulkhead Rupture &amp; Metabolic Asphyxiation)</em></strong>:
+        $$\mathcal{E} - \mathcal{D}N^2 \le 0 \quad \Longrightarrow \quad \dot{N}_{\mathrm{digested}} < \dot{N}_{\mathrm{pending}}$$
+      </li>
+      <li style="margin-bottom: 0.6rem;">
+        <strong style="color: #0f172a;">3. Chamber Drowning Circuit-Breaker <em>(Branch A)</em></strong>:
+        $$\lim_{t \to T} N(t) = 0$$
+      </li>
+      <li style="margin-bottom: 0.6rem;">
+        <strong style="color: #0f172a;">4. Decompression Venting Gradient <em>(Branch B)</em></strong>:
+        $$\Delta P = P_{L2} - P_{L1} \gg 0$$
+      </li>
+      <li style="margin-bottom: 0.6rem;">
+        <strong style="color: #0f172a;">5. Topological Superconductivity Condition <em>(Layer 1 Ocean Interface)</em></strong>:
+        $$\mathbf{V} = \mathcal{O}(1) \quad (\mathcal{D} \to 0, \; \eta \gg \eta_c)$$
+      </li>
+      <li style="margin-bottom: 0.2rem;">
+        <strong style="color: #0f172a;">6. Superconducting Metabolic Inversion &amp; Partitioned Registry Stability <em>(Closed-Loop Return)</em></strong>:
+        $$\mathbf{V} = \mathcal{O}(1) \quad \Longrightarrow \quad \dot{N}_{\mathrm{digested}} \gg \dot{N}_{\mathrm{pending}} \quad (\mathcal{D}_{\mathrm{formal}} \approx 0, \; \mathcal{O}(N^2)\ \mathrm{audit\ bypass})$$
+      </li>
+    </ul>
 
----
+    <hr style="border: none; border-top: 1px solid #e2e8f0; margin: 1rem 0;">
 
-> **Epistemic Scope & Formalism**:<br>
-> The governing relations formulate an information-thermodynamic state-space topology and macroscopic phase-transition criteria $(\mathcal{O}(N^2) \to \mathcal{O}(1))$, serving as an analytical structural architecture rather than dimensional curve-fitting. Empirical parameterizations, historical edge-cases, and civilizational falsification boundaries are fully elaborated in the working paper (v1.49.7).
-
+    <blockquote style="margin: 0; padding: 0.75rem 1rem; background-color: #f8fafc; border-left: 3px solid #64748b; color: #475569; font-size: 0.9rem; line-height: 1.6;">
+      <strong style="color: #0f172a;">Epistemic Scope &amp; Formalism</strong>:<br>
+      The governing relations formulate an information-thermodynamic state-space topology and macroscopic phase-transition criteria $(\mathcal{O}(N^2) \to \mathcal{O}(1))$, serving as an analytical structural architecture rather than dimensional curve-fitting. Empirical parameterizations, historical edge-cases, and civilizational falsification boundaries are fully elaborated in the working paper (v1.49.7).
+    </blockquote>
+  </div>
 </details>
 
 ---
@@ -365,29 +441,5 @@ If you build upon or reference **Topological Civilization Theory (TCT)** or **Th
   month        = oct,
   number       = {Working Paper v1.49.7},
   doi          = {10.5281/zenodo.23445726},
-  url          = {https://doi.org/10.5281/zenodo.23445726}
+  url          = {[https://doi.org/10.5281/zenodo.23445726](https://doi.org/10.5281/zenodo.23445726)}
 }
-```
-
-<!-- KaTeX Auto-Render + Anti-FOUC (Drop-in Replacement for README.md) -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
-<style>
-  /* 수식 변환 완료 전까지 날것의 LaTeX 텍스트 깜빡임 숨김 */
-  body:not(.math-ready) { opacity: 0; }
-  body.math-ready { opacity: 1; transition: opacity 0.12s ease-in; }
-</style>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"
-  onload="renderMathInElement(document.body, {
-    delimiters: [
-      {left: '$$', right: '$$', display: true},
-      {left: '$', right: '$', display: false},
-      {left: '\\(', right: '\\)', display: false},
-      {left: '\\[', right: '\\]', display: true}
-    ],
-    throwOnError: false
-  }); document.body.classList.add('math-ready');"></script>
-<script>
-  // 네트워크 장애 대비 1.2초 안전 타임아웃
-  setTimeout(function() { document.body.classList.add('math-ready'); }, 1200);
-</script>
