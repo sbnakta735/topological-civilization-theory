@@ -1,7 +1,16 @@
-# Beyond "Why the West Rules": Modernity as Topological Superconductivity
+<div style="margin-bottom: 1.8rem;">
+  <h1 style="color: #0f172a; font-weight: 800; letter-spacing: -0.02em; line-height: 1.25; margin-bottom: 0.75rem; border-bottom: none;">
+    Beyond “Why the West Rules”: Modernity as Topological Superconductivity
+  </h1>
 
-### The Great Descent: Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Evacuation into a Superconducting Vector Ocean
-*A Comparative Information-Thermodynamic Analysis of Civilizational Epistemic Architectures*
+  <h3 style="color: #334155; font-weight: 400; line-height: 1.45; margin-top: 0; margin-bottom: 0.75rem;">
+    <strong style="color: #1e293b; font-weight: 700;">The Great Descent:</strong> Civilizational Homeostasis, Topological Phase Transitions, and the Accidental Evacuation into a Superconducting Vector Ocean
+  </h3>
+
+  <p style="color: #64748b; font-size: 1.05rem; font-style: italic; margin-top: 0; margin-bottom: 1.2rem;">
+    A Comparative Information-Thermodynamic Analysis of Civilizational Epistemic Architectures
+  </p>
+</div>
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23445726.svg)](https://doi.org/10.5281/zenodo.23445726)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-EF9421?logo=creative-commons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
