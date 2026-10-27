@@ -517,3 +517,5 @@ $$
 <script>
   setTimeout(function() { document.body.classList.add('math-ready'); }, 1200);
 </script>
+
+<script data-goatcounter="https://sbnakta735.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
